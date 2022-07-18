@@ -1,0 +1,843 @@
+{
+    "data": {
+        "route": {
+            "route": {
+                "id": "62d5c5b5ba72d18705d949ce",
+                "type": "fastest",
+                "charges": 3,
+                "distance": 630238,
+                "duration": 28336,
+                "consumption": 143.763,
+                "chargeTime": 4974,
+                "amenityRanking": 0,
+                "rangeStart": 390000,
+                "rangeStartKwh": 60.5,
+                "rangeEnd": 47000,
+                "rangeEndKwh": 7.25,
+                "via": "Tesla Supercharger Brennero",
+                "elevationUp": 289905,
+                "elevationDown": 327719,
+                "elevationMax": 1357,
+                "pathPlot": [
+                    {
+                        "elevation": 528,
+                        "consumptionPerKm": 0.142,
+                        "averageSpeed": 45
+                    },
+                    {
+                        "elevation": 560,
+                        "consumptionPerKm": 0.168,
+                        "averageSpeed": 69
+                    },
+                    {
+                        "elevation": 599,
+                        "consumptionPerKm": 0.329,
+                        "averageSpeed": 134
+                    },
+                    {
+                        "elevation": 661,
+                        "consumptionPerKm": 0.371,
+                        "averageSpeed": 135
+                    },
+                    {
+                        "elevation": 671,
+                        "consumptionPerKm": 0.306,
+                        "averageSpeed": 135
+                    },
+                    {
+                        "elevation": 687,
+                        "consumptionPerKm": 0.344,
+                        "averageSpeed": 135
+                    },
+                    {
+                        "elevation": 680,
+                        "consumptionPerKm": 0.273,
+                        "averageSpeed": 135
+                    },
+                    {
+                        "elevation": 620,
+                        "consumptionPerKm": 0.302,
+                        "averageSpeed": 135
+                    },
+                    {
+                        "elevation": 619,
+                        "consumptionPerKm": 0.301,
+                        "averageSpeed": 135
+                    },
+                    {
+                        "elevation": 630,
+                        "consumptionPerKm": 0.371,
+                        "averageSpeed": 135
+                    },
+                    {
+                        "elevation": 658,
+                        "consumptionPerKm": 0.278,
+                        "averageSpeed": 135
+                    },
+                    {
+                        "elevation": 638,
+                        "consumptionPerKm": 0.246,
+                        "averageSpeed": 109
+                    },
+                    {
+                        "elevation": 661,
+                        "consumptionPerKm": 0.195,
+                        "averageSpeed": 88
+                    },
+                    {
+                        "elevation": 676,
+                        "consumptionPerKm": 0.17,
+                        "averageSpeed": 70
+                    },
+                    {
+                        "elevation": 768,
+                        "consumptionPerKm": 0.299,
+                        "averageSpeed": 60
+                    },
+                    {
+                        "elevation": 906,
+                        "consumptionPerKm": 0.257,
+                        "averageSpeed": 78
+                    },
+                    {
+                        "elevation": 940,
+                        "consumptionPerKm": 0.183,
+                        "averageSpeed": 75
+                    },
+                    {
+                        "elevation": 950,
+                        "consumptionPerKm": 0.208,
+                        "averageSpeed": 74
+                    },
+                    {
+                        "elevation": 1056,
+                        "consumptionPerKm": 0.372,
+                        "averageSpeed": 86
+                    },
+                    {
+                        "elevation": 1156,
+                        "consumptionPerKm": 0.102,
+                        "averageSpeed": 76
+                    },
+                    {
+                        "elevation": 798,
+                        "consumptionPerKm": -0.072,
+                        "averageSpeed": 76
+                    },
+                    {
+                        "elevation": 585,
+                        "consumptionPerKm": 0.158,
+                        "averageSpeed": 86
+                    },
+                    {
+                        "elevation": 621,
+                        "consumptionPerKm": 0.305,
+                        "averageSpeed": 84
+                    },
+                    {
+                        "elevation": 839,
+                        "consumptionPerKm": 0.511,
+                        "averageSpeed": 90
+                    },
+                    {
+                        "elevation": 1073,
+                        "consumptionPerKm": 0.304,
+                        "averageSpeed": 89
+                    },
+                    {
+                        "elevation": 1078,
+                        "consumptionPerKm": 0.285,
+                        "averageSpeed": 100
+                    },
+                    {
+                        "elevation": 1255,
+                        "consumptionPerKm": 0.413,
+                        "averageSpeed": 98
+                    },
+                    {
+                        "elevation": 1315,
+                        "consumptionPerKm": 0.315,
+                        "averageSpeed": 98
+                    },
+                    {
+                        "elevation": 1357,
+                        "consumptionPerKm": 0.128,
+                        "averageSpeed": 69
+                    },
+                    {
+                        "elevation": 1225,
+                        "consumptionPerKm": 0.084,
+                        "averageSpeed": 100
+                    },
+                    {
+                        "elevation": 1008,
+                        "consumptionPerKm": 0.082,
+                        "averageSpeed": 95
+                    },
+                    {
+                        "elevation": 925,
+                        "consumptionPerKm": 0.188,
+                        "averageSpeed": 100
+                    },
+                    {
+                        "elevation": 853,
+                        "consumptionPerKm": 0.155,
+                        "averageSpeed": 100
+                    },
+                    {
+                        "elevation": 775,
+                        "consumptionPerKm": 0.192,
+                        "averageSpeed": 100
+                    },
+                    {
+                        "elevation": 685,
+                        "consumptionPerKm": 0.122,
+                        "averageSpeed": 100
+                    },
+                    {
+                        "elevation": 575,
+                        "consumptionPerKm": 0.189,
+                        "averageSpeed": 100
+                    },
+                    {
+                        "elevation": 554,
+                        "consumptionPerKm": 0.261,
+                        "averageSpeed": 100
+                    },
+                    {
+                        "elevation": 530,
+                        "consumptionPerKm": 0.16,
+                        "averageSpeed": 100
+                    },
+                    {
+                        "elevation": 437,
+                        "consumptionPerKm": 0.173,
+                        "averageSpeed": 100
+                    },
+                    {
+                        "elevation": 384,
+                        "consumptionPerKm": 0.159,
+                        "averageSpeed": 100
+                    },
+                    {
+                        "elevation": 308,
+                        "consumptionPerKm": 0.232,
+                        "averageSpeed": 100
+                    },
+                    {
+                        "elevation": 261,
+                        "consumptionPerKm": 0.206,
+                        "averageSpeed": 103
+                    },
+                    {
+                        "elevation": 230,
+                        "consumptionPerKm": 0.221,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 224,
+                        "consumptionPerKm": 0.229,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 217,
+                        "consumptionPerKm": 0.231,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 211,
+                        "consumptionPerKm": 0.224,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 208,
+                        "consumptionPerKm": 0.224,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 204,
+                        "consumptionPerKm": 0.227,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 201,
+                        "consumptionPerKm": 0.227,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 193,
+                        "consumptionPerKm": 0.225,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 194,
+                        "consumptionPerKm": 0.239,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 181,
+                        "consumptionPerKm": 0.224,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 180,
+                        "consumptionPerKm": 0.224,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 178,
+                        "consumptionPerKm": 0.26,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 172,
+                        "consumptionPerKm": 0.209,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 150,
+                        "consumptionPerKm": 0.223,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 140,
+                        "consumptionPerKm": 0.223,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 127,
+                        "consumptionPerKm": 0.218,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 121,
+                        "consumptionPerKm": 0.235,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 120,
+                        "consumptionPerKm": 0.252,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 156,
+                        "consumptionPerKm": 0.314,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 173,
+                        "consumptionPerKm": 0.184,
+                        "averageSpeed": 95
+                    },
+                    {
+                        "elevation": 160,
+                        "consumptionPerKm": 0.245,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 105,
+                        "consumptionPerKm": 0.194,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 74,
+                        "consumptionPerKm": 0.208,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 45,
+                        "consumptionPerKm": 0.205,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 36,
+                        "consumptionPerKm": 0.217,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 31,
+                        "consumptionPerKm": 0.216,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 26,
+                        "consumptionPerKm": 0.221,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 20,
+                        "consumptionPerKm": 0.217,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 17,
+                        "consumptionPerKm": 0.226,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 18,
+                        "consumptionPerKm": 0.222,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 16,
+                        "consumptionPerKm": 0.221,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 18,
+                        "consumptionPerKm": 0.225,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 20,
+                        "consumptionPerKm": 0.222,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 23,
+                        "consumptionPerKm": 0.227,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 28,
+                        "consumptionPerKm": 0.222,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 36,
+                        "consumptionPerKm": 0.225,
+                        "averageSpeed": 113
+                    },
+                    {
+                        "elevation": 41,
+                        "consumptionPerKm": 0.198,
+                        "averageSpeed": 95
+                    },
+                    {
+                        "elevation": 45,
+                        "consumptionPerKm": 0.221,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 47,
+                        "consumptionPerKm": 0.224,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 50,
+                        "consumptionPerKm": 0.226,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 54,
+                        "consumptionPerKm": 0.22,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 58,
+                        "consumptionPerKm": 0.225,
+                        "averageSpeed": 111
+                    },
+                    {
+                        "elevation": 78,
+                        "consumptionPerKm": 0.251,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 83,
+                        "consumptionPerKm": 0.246,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 116,
+                        "consumptionPerKm": 0.246,
+                        "averageSpeed": 108
+                    },
+                    {
+                        "elevation": 169,
+                        "consumptionPerKm": 0.316,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 216,
+                        "consumptionPerKm": 0.287,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 294,
+                        "consumptionPerKm": 0.329,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 405,
+                        "consumptionPerKm": 0.336,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 510,
+                        "consumptionPerKm": 0.303,
+                        "averageSpeed": 114
+                    },
+                    {
+                        "elevation": 482,
+                        "consumptionPerKm": 0.161,
+                        "averageSpeed": 103
+                    },
+                    {
+                        "elevation": 402,
+                        "consumptionPerKm": 0.205,
+                        "averageSpeed": 100
+                    },
+                    {
+                        "elevation": 323,
+                        "consumptionPerKm": 0.281,
+                        "averageSpeed": 108
+                    },
+                    {
+                        "elevation": 255,
+                        "consumptionPerKm": 0.134,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 118,
+                        "consumptionPerKm": 0.153,
+                        "averageSpeed": 115
+                    },
+                    {
+                        "elevation": 40,
+                        "consumptionPerKm": 0.107,
+                        "averageSpeed": 46
+                    },
+                    {
+                        "elevation": 40,
+                        "consumptionPerKm": 0.124,
+                        "averageSpeed": 53
+                    },
+                    {
+                        "elevation": 52,
+                        "consumptionPerKm": 0.131,
+                        "averageSpeed": 53
+                    }
+                ],
+                "polyline": "_lxdHccueAWj@KhBb@Q\\Gd@SFOLjAFhABtCBn@Lz@HhATdG@nBAbECd@EXc@jACN?PFTdGzK|E`K|@nBF`@JjAX@xChAo@bDl@^bDvDbAfAR\\IVN`@HHXDVCd@QhDA|A^|@d@d@b@z@t@|@bAjAhBbAx@xBpAzDdCT\\Wh@cCrKPPzDxCnE~Et@`A~GzLrAxB~@pAlAdBjAmC`CoGx@mBb@@p@TlIrFnRjNlCrBp@l@lAx@Aj@C`IBjDrAz^?n@FrBHvDDZBt@XzCLr@Rx@`BlFLTVjCVfDBlJ@hJF`HDfBZbHrAdVBbBA~KCbMKrDGxQEdAG^ELiBvBQv@Eh@?VD^lAtCbFtLtA~CV`@nPla@xOl`@d@fAfAnCtAbDvPnb@jOj_@~ArDx@rAt@bAjAdAnAx@jAf@rAXlBLjF@jJGxx@]rCBjDNdFr@~A`@rBn@jEbBpAv@bBfAbDfCrUdSj@f@pYlVzU~SrDrD~BzCd@n@pClExAnCz@dBnAxCdBvE|FjQlG|PvD|IpE`Kb@~@rFjLtF~JfHxLbM~QlJ~NfIlPfClFdAhChGhPlFnOzD|IjEpHxBxCzAdBhDlD|D`DzD~B`NtGzAx@f@Vj@\\pFvC~E~CnGnEvLpJpNvMtD~CdCfBdBhAfCxA~BhA~EfBpCx@tA\\jEt@lFf@dBHpEDfBC`EUbEc@pCg@tD{@|GaCbD_BpDuBhDaC~ImH|FuFb@c@jF_FfFoExDuCjHqE~CwAxEcBpFwAb@InB]nC]`DWtAGdEGdDDpCNpFj@xDr@`EdAnFpBbFbCnEnC~DzCzGdGf\\p\\xFnFjFrEnEpDvCxB~CvBxGbExFxC~E~BnFpBlEhAfCh@~B\\nD^rDRdF@|FUvBOrSsB~FYbEAtEPrEb@xEx@|D`A`Ct@jIrDtEnCdCfBbClB`CtBrKzKjBfBxBfBnChBjFhCrDrAzD~@|Cd@pDX~CJjEIpKu@hG]~CArCDbDVbDd@vCl@|EzAfBx@^Np@\\zDxBxB|AfS`QfDfChDxBxCvAbEzA~Ct@fDf@pD`@pCPjBBjDEfCQpC[~Cm@~R{FrFuAtF{@~CYh@CfFO|B@dQ^vDEjGYvBUxDo@dK_Cd@MrIsB|MaCjEi@~Hk@dNInGVvGt@rKrBxBh@zEvA|DvArB|@t@\\nAj@pH|DzCpBfHbFjEvCjEzBxDbBtDpA`Cn@dDr@dBV|Ej@vItA|D|@~FhBzHrDhFnDrErD~C|CfBlBtAdBpBnChDhFhIrNzA`CnD|EVZtBnC|FxFhGfEhIvDjC~@l@RtLtDpFrBxH~DjLnJ~AzAjMpMjBdB~G`G`FpDzFjDbFnCrDdBpChAhFnBjGhBbFnAjAV`K~AfGh@zETzBFtHD~EMpEUrIk@hIy@~Iq@tI_@tHKfPX~Jp@|Hr@vEn@vRvDhNhErI`DpLpFhIbE~StNpRtP`MpMxJ~L|E|GlBtC~ItNTb@zIlNjEhGz@hAdE|EvC|CxCjCtC|BhD`CjDtBnDlBrD`BbEzApCx@vD`AfGdAxBXlDXbERtDBnDCnDOtDYjDc@xDo@~HiB|IyBpDs@v@M`C]lCYjDUjCGbFA~BDrETdHv@bDj@dDt@bD|@bDfA|DbBnDdBxDzBhNjJ|FhDbClAhBr@b@Pt@VpCt@~AX~AVjDRvAB`@AtBArCMvAQfASxD}@zCcAjMsFlDsAb@QrAa@~Cu@hCg@~Em@tDU`BG|BC`DFhET`H|@rDz@zDjAfFrBpE~BjFfDxH~GxGpHxIpL|GtKrFlKhAtBjDzGxFxJrFrIxGfJRZfUzWbApAdB`ChCdElA|BzA`DdDxIhF`P`CnG`ChFxAtC`A`B~BtDnDxE~L~N|BxCvBzCnB`DdB|CjCnF|BtFz@bCbCzH`Kba@tBzGzAzDzEtLrF|NvAnEfBbGbAxDpAjFtAtGnAtGPjAbA|GdAjIjAhLrBtYv@tHp@nFbAtGjB`JdAnEz@jDhEvLxBpFvB`FdElIhEvHrDtFjBlCtBpCdH`InUhTvE~E`FxGxDjGfJhRfElH|B|CrC`DrDdD~BlBvD|BrCrAlCfAnCp@rP|CzBl@xBx@`Bp@bDfBdGzExBbC`F`H~AlC`CrF`BnE~ApF`BnG~@dDfDtJdDzHfErIbEtHtFpJjHfLhBnCzDfGlIfKdFdG`IvIdCbC`A|@lAnAfE~DdDzCpFnEl@f@hEhD|H|FjCdBbGlD~E|BfBr@bA^~EpAnB^lDf@~BTdCL|EJzBAlDM~CSf^wDZIpCOl@?v@DbBX`Ct@b@PnBfAvA`A~AbB~@dAlEpGp@x@tBzBdh@vj@bGnGdB`CbBpDpHxPZfAVnAdA`JVfBXrAlCvJpBbIzDxT^bBr@`CpAxCh@tCj@vAZ~@ZpAVlATtAVpCFxAB`BAzAGpB_@vHG`C?rDNnD^jEh@`Dp@vC|BnIhGnTnD|HxClEbDtCzBvA|D`BtDp@zDJnGs@tEcBrGeElI{FbEkC`EkAnDYbCNdC\\pBt@nAr@t@h@tBrBtBjCpAjBrJdP`AtAvA|A`BnA`@VhBjAlHxDnChBhAdAjClCxAnAfAt@fAj@nBp@tA^~ATjABlACjBQ~Bg@`Bq@nAq@z@k@pAaA|DaDtMaItBiAzBcAvBw@`Co@tB[xBQ|BK~BAvBJ~BRvBXvBd@`Cz@vB|@vBhAxE|CtBhBdBfBhB|B~AzBxA`CnAbCjAdCjArC`AxCrB~H`A|Eb@dCHj@r@fEj@|BTp@^z@n@dAp@|@n@p@b@^n@`@t@`@l@RnAXtAPrAn@JBLAZANGLKNGz@u@\\I`@AbC`@~BhAhDjCxEdE`BpArBvAxBpA~BjAfC|@zC|@pDz@~F|AtLdE|Ah@t@N^FdAFnASlBq@hDmB|AoArByBf@s@nA}AdFgHx@kAj@oAfAiAdDsCdAiAfA{A\\k@Xm@vAuEn@}CVmAl@aDp@wCRm@d@cAv@sAdA{AbCaCZa@|D_Hv@yA|BuDlC{D`BsB^m@vCsDFK`@o@h@{AV}BBwA?k@ImAIy@I{@_AkE}@_GSs@y@yB]aBw@_Hs@eFGg@EaBAq@DsAJmALy@T}BBw@GgB@a@D]Z{@pAcBP_@TeA@{@Ee@GYUq@c@w@IYGa@Ae@JaDJyECaBEwA[kGEm@C_ALiJ?iAGmCWuD{@yIq@kM[{D_@eFOcDQkC_@qCk@_CmAqDa@wASeAE}@IoIKgCO{Bq@aIOoDGcCKmDWqFMeBwAwQYaFIyBIeFCqFDmDBgAXaG\\yENmC\\qMNeCZqCjAmIVwCFcABwABkLRmG@uCEgCSmDg@aGSoEAoCDkCJgD@wBAm@GoAEg@u@qFO{AEs@AcCHmEAuACuAI_AS{AYwAUaAkBkGe@qBW}AKgAQ{DCgBB_EPiDbA}MXyGDkC?aH]qNC}CDaEJgCNiBH}BAgIBmBJwAN{AT}A`@kBd@gB`CyJpAuDr@yAlDiGpAsCZu@v@_CnAgFt@gDz@gDb@uBl@{EdAqK~@sIZ_CpA}GXmBb@w@N]VIf@c@Na@FW@q@I_BEaCDyDB]N_B~@eDj@mAb@i@tDyC~@cAlA}BrL{Xx@}AdBeCdCyC`FqGl@o@b@[tGaD|@i@bCkBlDqBt@UXAxBXjAC`@I`@QfCuA\\c@d@sAR{@d@iAh@e@v@c@dEgA~@Nr@Dr@o@^e@To@^yAR]\\K\\BxA\\^E`@c@|@iCXcBXo@l@e@n@Gt@F`@KhDeC`@_@b@y@Zc@f@Wz@YdCgAdE}AlA[pBe@dAMvAI`@Wh@oA`BcCt@qAXcADO\\}ATi@^]r@UXMVSV_@zBeFt@kAh@[XC`@?\\Rh@t@~@NVRf@p@`BnBf@d@j@^dBdCbAbBbAdBn@`An@l@ZRVFLCDCFBx@e@rC`@N?JCnAhA`@Vx@`@tAx@xAfA`ElDhCjBf@d@tAfBbAbAxAt@RNb@|@RJ|@N~BLjAAZBJFPd@FJHBRG\\g@d@[Ji@r@b@nA~@\\N^Dn@?h@PhCzBf@h@~BdA|@PbEXvEpAT@V@b@S|@q@\\Kb@A`C`@xATr@BTENEVMb@e@T[j@c@`DqAtAKnJ|@nDTtK^lBTbAN`AVnBn@hAl@|@z@^VVBRMPi@De@fP~DlMxClFz@xCX|BJrB@fCElBI`CYlCi@zCu@bFaBhDaB`CsA|IcGdC{A|Au@~Ai@nFqAxBq@`CoA~BuAfBqAxCeCzCsCfDaDrDeDfA}@b@YdBw@pA_@|@Ml@CV?^Hf@V`AnAbBxCnA`C|B~D|@tAdAzAjAfBlAxAhClDxBpDhAbCr@`BxA`E|EnNpBzIhAxC~@zAp@v@j@f@p@f@l@Zl@RnB^zBJXFhA\\^Pt@j@x@|@Zd@n@zAp@dCXjAt@zDzChP`FxYd@nBp@nBl@jAhA~AjBbBnC`BhC~A`BlA\\ZdDxC~@v@~BpAzAn@rC`AnEfApEx@bJvAlCf@pAZrA`@nFbCrEjBvDhAjHdBjAf@j@^nEpDrAbAtAz@dGxCpAv@bAx@rEbFjA|@hAp@zEhBr@`@h@d@Z^t@rAnBjEl@hAt@fAbGrHzBfCr@r@lBbBfBnAlCbBHFpAnAPRV^bApB^jAdBhHd@zAh@xAf@jAv@zAfDrF~@xBbBjFp@dBl@jAdBpCt@`B\\dAnBrI^jAh@jAnA|B^z@Rp@VfALdAPxDR`BF^V`A\\z@d@v@z@~@pBtA|@t@b@d@~@tApAfCv@rApA~AjBjB`@f@`@j@jAzBt@jAf@h@bAv@tAl@d@LtFv@v@Rz@^jAn@dAb@h@Jb@Db@AH?f@Gr@U\\Or@i@|HeIpAgAzAcAfAi@\\OxA]bAOtC?vCLhADfENvCN|DDdEGrDObCSrEa@dDMrA@nBLdALjHzAt@J`BDdAMn@ObAc@j@]rFaF~AiAx@a@xAg@~Bg@fAQvCUdCMdBSbAYrCgAxA_@dAM|AGr@@~ANfARbA\\tAp@pA|@r@n@tDvDlA~@`Bz@xAd@~@Rn@HhAFdB?~BKrBYpA[rAc@v@[nBeArCuBbBoBn@y@nA{BdA_C|CmIdAmCj@iAZi@dAyArAuAt@o@`Am@rAq@dCiAb@Yv@y@R[d@}@\\eANm@dBeKtAcHlEmSz@wDV_Al@eB`@wAPkAVwCJk@jAuC~AkFj@}AjA_Cz@kBb@oAb@gBrB{KVwBTgDNsGHoANqAPaAVcAf@uAlAkCzA{D`@{@t@mAvAcBn@k@rB}Al@_@b@Gb@B\\JZNXTh@t@Tb@Tn@nA|ETrAb@`DLtBB|AIfF?pA@lD@j@RnC@h@Af@OnB?R@PFTHLLFNALEJMDSLuBHm@TkAr@eC^yATuAVuCRgBNk@v@iCf@cC`AoDb@eAf@{@\\_@~AuA\\e@d@cAx@kBJ_@Dm@BoA@wCCe@S}BEiAAaA?i@HuAZmD`AeLRqB`@iCNy@~@yDfG_Sb@kB`@iCPaC\\{GHaA`@oCXsAr@{BfFoL\\w@`GaMfB}Cj@o@jBgCz@eAt@w@JKbByAdC_BxCqAtA_@fB[xAQjAGbBWdAWv@g@t@{@h@_Ab@sAPu@Hi@Dk@DoAAgBSaBq@aDo@kCa@eCMyAImBCcCKqA?yDKmIIgDy@}TS{GE_IDcDHcCTgEVmCXaC^}B`@_Ct@mDjAiF|@iEn@mDf@uDf@qFNwCH{CD}CA_DOyJ_EmpAi@cRGwF@kFFkCNsCNsB`@sDb@sCn@cDz@eDj@eBh@wA~AmDfB_DnCuDxDkE`IoIzCiDpAcBvAyBdAqBjAkC\\}@pA{DfAaEtK}c@dA{E`AwF^oCZmDLiCFiBBwDAcBKmDKgBY_D{@uGu@cEsDyRu@mEe@yDK{@QsBMsBGyAGcE?gCJyF\\gGn@iHhAmJhEaZb@iDR}BNmC@kBAqAEoB]wEQkBoBwScA_LSiCGsBC{A@}AF}APqCZuCZkB^mFHcD?wAGaCq@uMGwCB}AF}ANyAb@eCh@kBd@kAj@eAr@aA`AeA^Y|EcDdDsB~DgCv@_@jAa@r@K|@Gp@@n@DlAVf@Pt@^b@Zp@j@rBjCZRhCjDfBhBxAhAt@d@bAh@hAf@rBj@nB\\jAHrADbBE`D_@l@K~HeBhi@eMd@KlAY~CQtAD~ALfATfCv@lFdCl@TrAd@fB^zANnDAvBYxA]hFcB`EeBbD_BlH{ErFwEzRwRjJ{HpF{DzEuC~DqBfFyBfBk@`AUjAQrAGn@Bz@Jj@LjA^lAn@dAn@rElDbVhQ~AhAnBdAtDxAdAT|AVtBR\\BjCJ~A?nCQtB[|@Yr@Y`Am@lAaAfAoAzEwGd@i@|@y@`Aq@~B}@p@Ot@GjAAp@BvAVl@PlAd@v@h@pAjAv@dA`AvAj@dArAnChBjEXf@`@l@b@d@\\Vt@X\\Dd@Ab@Gb@Qj@c@b@o@Te@Rw@Jq@Fs@?w@E}@Go@UgAi@yAiDgGi@gA]}@g@mBKi@O_AMiC?oANeIAiBEgA@o@Bq@Fw@L{@\\{Ab@kAh@aAt@cAzAaBfD_DlCuCpBqC`EsGpAgBv@_Ar@q@z@w@pDwCbByAt@w@p@}@l@}@t@sAfAcC`@iAhA}DzB{Ij@qB|AsEpAeDvBaF~C_GjB}CrAoBbByBpAuAjB_BjG{Ef@c@rBmBvB_CZ[zE}EdA{@vCqBxJ{EzBmA|AgA`Aw@~B}BhGcIt@_AvDyErGkG`E_DrBwAtEgCxEwBrFiBvD{@jDm@|RoB`Iy@dEe@`Ca@bCo@dAc@fAg@|KaHbEqCfBgAnBeAjDsA`Cm@fB_@`AMjCQ~BGrB?`KZbCDpACnESpL_AjAEtBDjDTlDf@vDfAj@T\\NzBz@hBj@~AZzAHfBAbBM~AW`AYjAg@pAq@rD_Cb@YbB_AbBo@jCg@bBKpKUdEa@tC{@jD_BbQwK^UzMqI~EkDvDcDrSkTt@i@n@g@p@g@`Ak@bAc@rBm@pB[zAKhC@xBTlB`@dC`A~BxAlCjBzIpHhAp@`Af@bA\\vBf@`CVpA@`CQtBc@vAe@`CmAlAcAzA}AjAwAz@wA|AiDjAmDrDuPTaAj@qBpA{Dj@oAb@_Ar@oApAeBvByBjGaGpDsDfCoD`B{CfBoEzCaJ`AcClAeCbA}AnA_BzB{BfD_CbD{AdCy@~A]`C[pAMjCCdBBlCPlJtArKvAtF^d@@rADvK?dDMjIg@lCWzEy@pDw@nBe@vEkA\\IlGmAz@MhCQ~BC`CB|BPbDj@zBj@~ClAlBfA|BzAxBfBpBfB~E~ErGzGdEdEvAnAxAfAnAz@bAd@zBr@~@P`AFx@@tAIbAQhBk@bBgA~AaBh@y@`AgBb@gAZeAl@kCR{APeBd@cHTwCXqCl@cDbAsDf@uAj@qAx@aBhByC|FeJnP_X`C}ElAgDnAuEt@yDb@eD`A}J^wB`@iB^qAp@eBd@gAn@eAtAgBbCuBl@]pGeC~@i@rAgAl@q@|FiJdCgDv@y@pA{@~@a@~@]|@OpAGz@@t@DpAV|DdAx@JhAFpAAlAQvAc@`Ac@dEcDdBkA~@g@tAg@z@SrAQvKcAv@EvA?nAJx@Nv@P`Bl@~@d@`E|BjA\\bANpBPfC`@hBh@hB|@hAt@hAhA~@pAl@dAb@~@f@tA`@z@l@~@n@t@\\Z|AbA`D`BzAx@|LvIxChB^Ph@VFPh@Xp@j@~CfBh@^t@r@t@~@JLfAhAxA~@hDhBzAp@XBTMJMLa@FcCCMOQgB{@_RaIwAs@YUoGwJ]a@MM}@_@SFQRM@W_@_@EWIF_@rAd@JFFJRGHBr@ZLL\\`@nGvJXTvAr@~Q`IfBz@NPBLGbCM`@KLULYC{Aq@iDiByA_AKWCc@FUNGf@@jCd@v@XX@zBdAtAp@rRdJtBnAxB|A~CrCrAxAhB`C~AbCx@vAdBhDzG`PpBdEjNjXvAbDvBrFXt@jA|C`@hAv@nBpA`DfAxBbAdB~AdCnZnb@nF`HnEnF`C|C|I|LfAvAvB|BdBzAnBxAjFdDdSvLxFzCzFnCzDdBxAx@t@l@|A`BfDpEbBpBbAbAbAv@`Al@v@`@xDbBfB~@tHzE|Av@zAl@rM~DlBz@lEzB~Ar@nA^fAV`AN`BNnBF~E?lBHt@HfRjCb\\xExAR~Dr@`Bf@j@XtAx@fB|AjArAzBdCzAvAbBlAhBv@fAXjAPbIh@~C\\pBXhBd@r@TbBt@rAv@r@d@d@^nAnAx@dA`@r@fAzBn@fBhGvQf@pAh@lAb@~@d@x@|@vA~EdHfJvMdCjDf@l@dB|AxB|AhCnAf@RlAZ`ARvQ|BxB`@zBt@tAn@lAt@lA`AnKxI|@j@d@Rx@Z~@Vv@N|AJtBAbR]h@AzJQpEQ`AIbAMlAUt@SjBo@dB{@lAw@tAeAx@u@fAkAnAcBfAeBxAoCn@}Av@wBv@uCfCgLtDuSzBiN|AkITaAPo@hCcHx@iCZsAb@cCh@oDn@wDdAiEzbAk`EtAkGpRsaAlAoGx@gDn@uBzBeGhKcXtC_Ix@kCb@mB`@_CVwBVkDRyBVmBT{Al@sCT{@Xy@fAuCp@sArAsBxAcB\\[dBuAbP}KrA}@~AgArTaNhAu@hLeHlEuCd@]hAiAp@y@\\g@x@uA^y@r@mBd@}AXmAXaBn@uEb@iCPy@v@kCn@yAXm@p@kAdAuAzA{AxCyBh@_@tSyNdE{Chp@mh@pDsCbDkClBoAvAq@|Bq@xASnAI~CQdJa@dDMfESbFUvKi@~AKv@MzAa@dAa@`Ak@~AoAh@k@dAsAz@uAt@_Bp@eBb@_BRcAj@oD`@eEj@aGtByTl@gGZ_DF}@f@iFTiEJwID_BPeDXcDb@aDt@sD\\qAnA_EpA{C|DiHl@uAdAoClAaElAmEtAoFpIk\\^wAbCyJl@yCL}@XaCLyAn@qMjA_WhA{SNeCT}B^_C\\cBpAwFjEqPnBwIl@wBjAkDbAyBj@cAn@cArA{BfEyHl@yAd@}Ap@sCPgAp@yG`@gDVoAZqAVy@^cAb@cAbAkBdAyAh@q@|FcH^e@rG_IxGqHnD{ExBkDvAqB`CmC~BsBvCkBhCmAlE}AlFuArCi@~Bi@pBq@lAm@tAaArAuAz@iAdAcBfAyBZw@Zw@`A}BtAgCnE_IpAuC`@iAtAcF\\mAr@yBt@iBR]x@sAt@eAx@_ApCoCbAcAhAsAx@oAhA}Bn@cB\\iA\\uAj@eDv@gFj@kDZoA`@qAv@uB|@aBjAaBj@q@l@g@j@e@zA_A~@_@pA_@rBYfUyAdBEtA?xAFnALnCj@vAb@t@Zt_@fSbBz@tBz@pA`@vA\\rATlANv@FtCFbAArBKfBSdB[|Ac@dBm@pAk@tAs@~ZcTnBgA|As@n@UdCo@x@OlAO~BMbCAbV@fBC|BM~Dc@lCi@rBi@zBw@jCgAd^sS|C{AfJqDj@StGeC|@YdB]|AKvA@zAL`CVr@FpABpAG`BUtOwCnLsAjBQjAEnNQvAGt@ErASfAWjCs@p@QdA]xA[rAOpBAvAJj@JbI`C|@VhCXjGrAnAf@bAf@t{@di@dAt@tAnAv@|@fA|A`@t@dAvBr^jaAvCjHx@vAh@x@hAzAjApAj@h@xAjApBhA|An@jBj@xGjBZH~FpBvElBlD~A|H|DxHzEzM`Jj@^dQpLtIvFrA~@bBtAhBdBbAdAxLhMrGdH~A~AfAlA`AtAhAvBf@nAh@|AbAbEt@hDd@bBRj@n@~A|@jBfCtE`AfB`BpDfAtCv@fCfBjHzBrJh@lBh@|Aj@vAlAfCjArBz@nAzBpCnCjCbBvAr@d@nBzApGvE|EpDxAhAnAdAv@x@v@dAZb@n@fAv@hBn@nB^xA\\jB\\dDVvD^tGRnB^~Bj@dC`AtC`AnBbM|Sn@fAlA~BvBnEjAzCn@~BlB|H~@hDbDjJhAnDdArDnBxHj@lBZ~@jA~Bn@hAr@|@rAxAdDfDh@l@f@t@n@fAp@xAdEvKpBrF^x@dA~Bb@t@pAfB`A~@`@^pAv@l@\\xChAnFvB`Af@t@d@j@b@hAfAf@p@jBzC|CtFlBhCzAxA`ClB|@|@~BnCjA~ArAvAvDrDzBnBpA~@fBbAr@Z|Bx@zA\\~Cl@pBf@pAb@t@\\`An@fB|A`DxDnArAh@b@pA`AfAl@xAl@lCx@bMfDrBd@dB\\vDd@xGZrBV~AZxCv@lIrBbBVrBRbFV`D`@`EpA~Ap@|Az@vBzAxBnBnCbC~@t@bAt@pD|BTNzHvEbIfFhIvFbBnAxAhA~AdAlB~@v@Vx@PzBRnA@tHCtCD~ANvBZnInA`Db@hBJf@@lAAzG_@rAC~@AxA@t@FnHbA~OjChARxA`@bCfAzBtAv@n@xBbC`AtAdBvClDhHvAdCh@v@xAfBxD~DpAnAz@n@z@f@vAv@nBz@|Bn@zG`AjBd@~@RbBNfA?zAKrASx@S|@]lFeCvAe@dAUbBStAC`AFzEdAxBn@zAt@xAhAhAhAnEnFxC~C`FfEnCpCtDnEvCvDnG`J`AfAvBjBzDlCdB|A|DnF|@bAbA`A|F`F^b@^f@hBtCr@`BjDfJpAbD`@z@jAvB`@l@fApA`EjDhAfAl@p@zDhFlAjAt@j@t@b@rAn@~@\\zCz@`Bj@hBdAn@d@|G|GxKjJbDlDrCjEnD~FfAxAbAbAlG~Ev@z@~CfE~ApBjBlBhA|@dAt@jBbAhFjC~@l@n@h@r@r@bB|BZl@j@nA^dAb@zAXlA^`CV~BVtCTvBRrAP~@l@bC\\bA^~@j@jAj@~@vAbBr@r@fFrDp@j@hAfAfB~Br@rAf@fAh@vAbE`Mx@~B|@rBv@xAvBhDnEtGfInQ`BdCpBfCzB`DrAfCnGbMh@lAd@vA|AzFtAtFfHnXb@pAt@jBz@|Ap@fAv@`AbBjBhAtAp@dA|@hBXt@`AxCT|@TtAVzBL`BDpB?tFDlBJ|CNtCJtAT|AZtAbA~C|AbDjBbD`B`Dd@dAp@fB`@tAR|@TvAHn@LdANnC@lAAnCGjAWhCOfAUfAk@xBy@dCuIzToGxPmBhFg@bBc@bBg@hCe@rDSdDE|@A~C@fBF~A^fF`BlP\\`DvAnN^dEnArOTjDBpA@|AEzBKtCg@dLEpAEzB@bBBjAZpIBnABbDGnBq@zKCbBM`V?lFL|DTrDzDf]h@hEn@bEJp@vArJThCNhCFbCAfDKpCiAxOEzBAzBFjCbHjx@tA`M^xBl@jCfCdI`@zAj@tCRhBLtBHxBPnHRbDpApKl@pEz@bIZpBxB~KxAtIjAdFl@fBt@jBjAfCxAbClCzDxJfNfBzC~DzI|@dBlAlBp@v@bAbAnAdA`XpRpGvEbDnCbFzEhBlBzDnEpA`BdM`Q`C|CxC`DbCrBlAz@zCdBhDzAlBl@tBd@jBZpCVzBFrB?vAE`BMlBUbCg@lDeAzB_AdB_AhC{AdUcOzDsCxF_FvYqXnC{BzDgCbB_A|BaAhC{@tA_@nBc@rCa@jE[xDAhCFno@hFzLdAnDj@hBd@fDhAzDfBdE~BzHtErgAto@hdAdl@nK|FhAh@vCjAvDlAbCh@dARfPjCz@N|d@nHh@Jpl@nJpDb@`DVvBH|BBhECnOQfD@rRp@|E\\fFr@bEv@~b@~KtGrBzEjBbChAfB`ArFjDdXlQ|CdBzDfBxDvAlA^tMfDxRvErHnBn]rIdBj@zB|@tEfC`h@~]bBpAbBtAbB~AzC`D~AlBvAfBpDjFhVr^~E|G|BrCzA~AbBdBvDnDrXhTh_BpnAvBzAtEtC`FlCvDdBtEfBhEvApFtAvHvA~_AnMfGdAxA^rBn@tAh@`Bt@pIlEnVrMrCdBfBnAbDnChBhB`e@`e@`AdAtD~EtB`DvJ~OrAtB|AxBv@bAtCfDlKfL|AnB`ArAv@nAnA`CfA`CfApCt@tB|Ofg@bAhDf@nBbc@|kBdNvk@XxAzFtUvIt[|Sbv@|L`d@bAhDlAbDtAzCnCtE|CtDlBfBtBzAlBlAlB|@~IpD|m@nUbLvExZfL`Bt@~Ax@xBtApBxAxCfC~AdBfBtBjBhC~E|HzIbOdEzGvGpKvAtBxNfRdB|BdFzGbFrGnC`D~AdB`BxAtEdDtO|If`@hTjGlDlGtDlIjFl]vSjChBpB`BjDfDtYtZdLlL|HhIdC~BhBpAdBdA`Ad@fBv@~DpA|EdAxSdF~]`JtI`CxFtBdMjFdc@bQpF|BrFtBxBr@xBh@hBZfBP`BJjBD|AEfEUhDe@zCy@vBs@nJsDnR_IlEgBjEsA~Bc@pK}@vP_AtDc@tDk@hl@eLlD{@hCy@fCaAxDkBfDyB~BgBzFcFvx@qu@nDaDhDiCpBiApB}@pBq@xBi@fAQdCUlKWpFW`CQtC[vK{AdAIpM{AdFy@hDy@tD{@|XcGjPiEdDs@lEq@tBMhBAxBDzP|Bd@HdPfC|CNfD?`DIlDSdD]dCa@|Bi@vDiA~D}AtDkBlDuBdDeCrDcD|@{@xTwTtDsCpCkB\\O`D}AjEwAbd@aLzDgAjDw@xFs@nBIrBCjn@BzNJ~HRl]dBdEDbELfKNhKXhLJdQV|Gd@dEj@bEr@zDz@xDhAhFrBhFhCjEfChEzCbEdDp_@n]pDzCtCjBlCnAvC`AbCh@jD\\hj@bEfLr@b_A~GdFb@hEb@dEx@|D`AhKfDxVfJzR~H`NtJjHlIfApA|EtFzPjSpQrSbQvQzLbMbLfNrBvDhBpEp@lBj@vBbA~Ej@`GX~F?jGMrG]`EeChTu@rHe@lHIdHJbFTvCXrC|@fFjAbFfBdFbLvUre@~bArF|KjE`IzAlBV`@lDtEpAxA|@v@j@l@rFtE`VvPfUtOrWfRtChCvD|Dn@v@vMtQbGdJbG`JrCpDjAnAdC~BdChBnBjAjCpAvB~@pr@bY~EvA~FjAvm@vHvGlApFtBhKtGhFhD`YbQhClA|Bt@zA^jD^lAHrCCrCUzCg@zGsAvB[bDQrCBlBLdBXfB`@`MtDjCj@`CZrFFdBCjCShC]lIwBlDcB|GoDtAg@vC{@jAW|AQdBQdEK~j@i@lEM|BU~JoB`BUbBM`BGdOWhDWpDm@fCu@|B}@bAg@v@e@bGcEzNqMdDyBlAo@v@_@~JsE|FeDhCqBdF}ErFcGbCuBbCaB|`@oSXO`I_EjCmAbA_@bCs@lDi@fAKbDMpCHxBPtLxAn@FnFp@rDj@xB`@nDdAvDhBtBtA~E~Dn@h@|BdBhC~Ar@\\zDtAb}@xYt@ZrBjA~AdAp@h@xA|An@f@fBrBt@`AxA~BtA`CjYtp@j@dAj@|@l@z@n@x@h@j@jBdBvCvBxDlCrUrPvd@r[xBfBxBtBfBpBtAnBlAtBdBrDd@jAtEnNfW|x@jBnFnAbDtLrYvAvDdApD\\vAn@|Cj@rDRbBTvBrA|Op@lF\\rBh@nCdAfEh@hBbCzGtNp]lEjK|@hBnBtD~@`B~DbGrAfB`@d@pCbDpCnCjAdAzBhB~CxBt{@zh@fDvB`DbCjDzCzSnRnCzBpBrAxEpCrD`B`k@fV|Ar@hCtAzDpCpClCfBrBtBtCdLfRr@nAjRn[tBtCdApA`AbApBjBdDdC`BbAjCnAtC`AbAZxFfAzIjAxJxAxCn@pEhAfCv@bGxB~EvB~DrBf`@xUvJ|FhOjJp@^jCtAhEhB|Bx@~Bt@~TjGhBn@vB|@fBz@xBlApH~Efl@x`@zFzDzB~AlDnCvChCbDzCnEhEnApAjBzAvGpElAhApBzB`DjE|AlBhBjBpJbJvlAdaAtIfHlC~BlGfGlEhEnOfOdCfClEdE~H~H|@v@bAv@~@n@|A~@hB|@~JjEtCvAxF`DnFnDjCpBvBhBba@`^fMbLxBhB|BbBdC~A~A|@~DrBlQnIzDpBtAz@dAr@zAnArAnAtAxAv@~@dBdCt@jA`AbBpAhCh@lAfAtC`@jA`@pAbAvDp@~Cv@zEn@xF^bEvBhZf@nFb@|Dh@zDZdB`AzEz@rDfAzDlBlFrBbFlA`C`ChEhAdBxDjFzC~CdB`BzBhBdBlA`CxAzBjAjBv@~Bx@tAb@lE~@bC^b`@xEpc@`IlHlAlEz@nAXtCdAzC~AzA`A|AlAvAtAtAzAhCrDl@bApAfCxCxGbAdCr@tBnAzCl@bBPx@NrA@^?x@K|@Qv@Yr@uAbBk@`@cAfA[`@Yn@U~@e@Ed@DK~AENU^[HSNMTKZCR?j@Jj@NTTPVD\\GTMP[Ji@?q@Om@Iy@Bm@DUNk@JU|@gAxAiBrBqBh@a@TIZCZAXBXHVTt@z@fA|B|@|ArIpRvArCbBpCfB~B`B`BnAhApE~CbEfBhA^vCp@vBVrCLzEG^CvJy@zn@aFfLs@teAuP~Fm@~@MtCI`F?xc@pBr@BjCBhBArBGnBMlC]~Du@tCu@~EgBhAi@zCaBjWcPdRyLfNwIf@[~EiDfB_BvA{AV]fB_CdAcBdAmB`AuBj@mAvQy`@nB{DbCoExBiDxBaDbDiEvBcCrCyCnCeC~ZiWzCyCvBeClBsCjCsE|BsFnp@emBPg@~BaHxBcHlBcHzAyGxA_H|CwRdLaeArA}K~E}d@rA_LlQcmAvAcIx@uDdBkGnB{FfDyHhFqJnv@_qA~BoDpAgBvCoD~@cArAuA|@y@v@s@pBaBdFoD`CuAtHgDb@QhFwBjHsCXKdT_IrOmG|NmFtD_ApDo@fD]vCI|EFrAHrC\\zHpAb@HlLzBf@J`BZdARlATXDn@LbLtBv@N|S|DlCd@~Z`GzM`CfJzApFZfBFjB@|CIpCUvAKfBWzA[|EkAnBs@pIgDpp@_YpWqK`WmKtGeClEuAzFyAdJkApKk@`LR~Lv@~YpCdNfA|Ih@jEP\\Bxn@lCbQn@pAF~_@bBtEZdD\\~Cp@hEdAfGzBrw@za@pKxE`VtJrWxK|GxDfLpHbHpGnIpIfDzD|SdU`IxItZl\\fH~GvSpOfZbTNJdS`OlMdJpKjHbI~E|GzClH`CnY~GpX~FnhBv`@la@rIdDv@lEpAlE|At^dOpOfG~eAdc@lVfKlWhKjFnBjFtA~E`AdGd@`GPfD@zHc@naAcKtLwAhLiBjFeBjO{FfV}J|hAkd@hMcFvNkFb@OlLuDdXmIvXcJjQuFf@Qf]wKtLeDbJgBnIgAvIc@tLHlLn@t@H`H`ArFjAzA^fElAvFpBtAd@zQpGtM|DzE`B`EvAzQpGnShHdXnJtQ`G^H`EhA~_@tJbCn@vQ|EnRtEnFdB|L`FnjA~e@xQnHhE~Ajc@nOfGlBpB^vBX|AL|AFdCBlDMxEm@`Dw@jDqAxBaA|A_A`BiA~AsAbg@me@pByA`BqAlBsAhBgAzEcCnBy@fEsAfE}@|Fq@hCSfCE|jBAfGBbCJ`CPtEl@rEz@h`AhSlDh@vCXdBJbG@|CMjUsAt@Et]}B`Iw@bJ{AnAYl`AmWnI{Azh@_GzNgB`AMjGw@bEq@vEoAv{@sYfEkAjHuAnH}@nE[fq@yC~ACpEHdCRdCZ`BZ~A`@|Br@|B~@zBfAvBlAtr@lb@vOjJ`ErBzCvAzClAde@|OnHjCpMhErHxBbCn@rATdAPtK`AhKPxEI`F]rHw@nFs@xc@kFnGo@dEUxEMpF?dCFL@dJN`DHfdAtBpC@|FIlMm@l[aCnFi@hXiBtuA}Az|A{CxEKzEAzE@zEFzENxETzEXxE`@pr@hGjI^lBDzE?xEMxEUjsAkIjBIxEIdHHpFTtE`@pCZpCd@vE|@pEhA|pAp_@zEfAfEn@dLfArs@~F~FR`GDtEIhh@uB|Rs@rEIrLIrL@jLRd}@zBlD@zEGzEUvE_@nBUz_A{M`Gs@`BMjDQvn@wCpDWhGq@lq@{KbG{@tBOnEQ`EAhBDbETz_AbKpF~@dB`@lErAjCdAhL~EdJ~D~GzCdKjG`CzA~AbAlAp@f@Lb@Dd@@n@I\\ITOn@g@d@m@^{@Lc@H_@JcABiAE_ASyAgAaFMu@Iw@CaAFoBFi@PcAR}@^eCnB{HlBaHdBaFhCaGvBeE`AaBpByCxBqC~@gAdCgCtAoA|AmAdCeBhf@iWjO_IdB}@pGiDdB}@vRcKf@YdlCkuAbBcAlAy@xAkAvAqArAsAbCuC|A{B~AiCn@iAz@_BvByEfh@_`BhwCwcJp@qBpSgo@`D{KrA_GjCyMbAgGzEmXbEuVtAeIdAwGrCmPrIwf@vA{Ix@gG~@mHls@m_GbAqGrAkFjXw`AzAcF~Lid@`Mic@hiBmuG`AkDd^wpAptA_{FxAgGhCsKdFaSpKia@VeBXeA~Ii]`Kaa@vH{YTcAv|@miDnCmLv@oC~@mDp[onAjWgbAtCmKx@oCpA{DbAkCtB_F|DaIbBwCzCwEfBcCvFiGvCqC|CkCbIqH|UkTvToStC{CdGkHnC_D`BaBz@o@fBiAnAi@pA_@~@UhBSrKe@pLc@l@C`DOfCYfBc@dA_@t@[r@c@t@g@lAaAj@k@d@k@xAuBjEiHHMlAgBt@}@|@_AfBqAd@UjB{@~Bk@nAOhAGvB@nAJ`iCb^dDn@dCp@dCx@nAj@fTpKpl@`Y`C~@nErAn@NbeAfW~C~@zCrA~@h@xBxAzI`HrCnBlC|AxAr@|CnA`@NrCv@`Dl@zCZzBLvCD|BCtC]zFk@jEi@vPiCbGo@nEIjFf@lkA`QnBLhBBdDWlC_@|B_@hCm@tC{@b{@uYnhA}_@vEeAtD_@`BCnBFhBN|D|@tAf@pAp@dBdApA`AlCjCp@x@nAzAxXlX|X`Sra@lSpAn@vAp@|BjAvl@rPbGx@|G`@p@BdF\\~AZzAb@pBt@~An@|BfB`A|@rAzA~A|AjJxJxBvBxMpN~EtEbEvErArB`AnBpAbDr@lCv@fEd@dEh@rGtBlTlIjl@j@fEvChS`C`OlCjRjAfGpAlETn@zAhDrEfIxApBRZnMvPpPtRbN|OVZx@bAn@t@lBfBrF~CfElBlG|BfBj@zBv@tCnAlGpDhCfCn@l@jLhNbF`GlAnA`FvDpBlAvAn@jA^tCr@vCh@dCTvBD|EMrEs@`D}@bJyD|GqD~LqGdFkBxD}@lJcBpFg@|GQdE?vE^bH~@dGxApCdAzAr@bEfC`MhKjE~DbCpBdAr@tBnAb@RtC`ArWjHtDr@vEn@pCHrCCfCKpCWdCa@vE{At@WlA_@lCuAvDcC`t@cc@hl@k_@`KaGjE{BlGyCpD}ArE_AhDg@pCK`D@fQVdOr@~@FlOv@rDZpBTfHfAvFjB`D|@tQbHjOjG|Q~FtEdA`Db@tDPvEFzEc@hEm@pDy@zWaI~By@lF{AdBYjAOtDWlDIvBBpBF`Fb@bKhB~LnCxG~AhNjC~BXlOdC`HhA`CZdDd@|A^bNhC~Cf@xLz@tDLjGGhEc@bFk@tFeA~JaCtSeG`UsOjYiWv_@yb@xl@us@xKmJvN}K~l@a\\bhCktAjImEzEeCdN}HzC{A`MmH~IoEdCiA`Bo@fC}@nA[jBWdEa@pDO~@A|DRbBPrARpBf@zDpAzA`@xFdBhOpF|J~DjDdBdQpItBhAnBvA~@~@n@p@hKhM\\h@v@xAbTvh@j@xAz@hB~ArCl@`AnAbBj@t@jAlAx@r@xAdAnC`BhB~@dGlC|DfBnDhBnGnClC|@dBd@hATzARl@HjAHtCHxD?`FU~Fs@hJ}ApFq@pEUpDGbEBzCLvAJzCXlEn@|Dv@dAZhDdAv@ZtCnAnKjFfInEhAr@dWrMhBv@`ElAjH|AzJhBbf@xHrEh@tHb@dB@`P@z}@k@fKG`XAlPK~GAnA@~@F|Ez@bCj@nDdA~B|@|BdAtAj@~DfBhC|@dBf@`B\\|AP|AJzAB`BGpEYdAOjAUtA_@pCkAlAm@lDiB~DoC~DiDdEiExo@ws@hCeCrBaBdCkBvBqAbCgArC_A`HuAzBS~BM|CA|CJ~Jr@jDb@fDp@~Cz@bDnAhEnBxD~BrDpClgDfaDpCzCbCxCfAzApFlItDhGvCtExB`DnCpDnAvA~AxAxAhAbCzAbAb@dA^nAZrARnAJpADpBA`AIlAQdIkAtCKrBFlDVdARjCv@fA`@v@Z`Bz@rClBr@n@pA~AfA`BpClF|@pBxDtJbAbCbAzBbAjBxAvBpAtAdAbAjDlCnBnAhB~@dBj@rATnBRzAH|B@dCM`D_@fBa@~Ae@pEaBtQaHlFeBhFmAp@MbDs@bBUfBIzBD~CRB?^DnDr@vBv@nCpAtDdC`GzEbD|BrB`BNLzLfKlJlHzBpBfE`Dz@r@nMnKZj@~AjBl@j@xFtEb@VbT`Q|@|@bDtCbCjBnBtAZ\\dAx@rDfDlFrD\\X`At@fCtBv@x@`@j@b@|@r@zAf@jAv@hAx@p@l@Vj@N|@BhAOTKx@g@l@s@PYXq@Pq@F{@?a@G_AGa@u@yCOeAAw@Hy@H]JWnDuG`CuBpBuAfAo@p@i@^i@nAwB^}@Vu@dAgIJo@l@kBCGhEwH`r@anAhIsMh@s@t@s@n@e@v@WRCz@?|@NhAZh@Rn@`@x@l@fBdBf@p@JRLd@D`@?\\KjAgAfBsAxARXXB|@n@}@o@YCSYOROXER?VHXtB~Ap@j@^OLUF]H}AHu@PiEFyCRCf@\\vHvFVVRNLVDj@?v@DZHTNPRHRAPGPWJa@@WEYDe@HUr@u@`@i@Vo@nAkCdHyP\\iAl@{DJ[JURENOHWBYC_@KWEe@Fq@f@_DPq@`BwEfEcLpGgMpAoCd@mA@M@C~@cBbAiAHJHBHAHGFSAUBYF[f@eB?QEIGq@?W`Cw^Ds@TsAJ]fBk@^QT_@lAgCNa@zA{FHMVgAPOHEBM@k@Dy@|@{DRa@NcAzByIzD_QfA_F~B{Kj@_DnDaQl@gDnB{JtCeNd@]PWP[zG{FrCgCNKT_@DWhBuD^s@DMdApAH@JEL_@DWRoCnAyCH_@CWOo@`B{Et@kB`@_AzAkCpAoCFSdIaQr@yAJKP_@dC{C`GsFnB_C|DcEb@}@Bg@?c@Ee@ESeCuLi@qCqAkGYoAG]Ai@CiGA_AKeAo@_Cs@oDgAaFSoAg@sFUq@Se@QSqAeACG[_@I_@i@gDwC_T]mCoB{Ma@yBEa@A]rA_FN_@\\a@l\\wZXOpAe@bAe@b@[f@g@xBoDpI}H|AoAVKzA_@p@AhEJdDH|A?VD~@VbADTD~EdCfDvAdGvC|BrB\\b@Jh@mAr^G|@]\\[n@kAbHkAnFJHGn@AZBpDDHBVZ@~@VIn@{@|GKCYDWE",
+                "saving": {
+                    "co2": "166320",
+                    "money": "48.22",
+                    "currency": "$",
+                    "averageGasPrice": "1.45",
+                    "averageEnergyPrice": "0.3"
+                },
+                "legs": [
+                    {
+                        "id": "62d5c5b5ba72d18705d949cf",
+                        "distance": 178997,
+                        "duration": 7489,
+                        "consumption": 47.181,
+                        "rangeStart": 390000,
+                        "rangeStartKwh": 60.5,
+                        "rangeEnd": 85000,
+                        "rangeEndKwh": 13.319,
+                        "origin": {
+                            "id": null,
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    11.58198,
+                                    48.135125
+                                ]
+                            },
+                            "properties": {
+                                "temp": 25.87,
+                                "pressure": 1022,
+                                "cargo": 0,
+                                "occupants": 1
+                            }
+                        },
+                        "destination": {
+                            "id": null,
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    11.50206512,
+                                    46.99539644
+                                ]
+                            },
+                            "properties": {
+                                "name": "Tesla Supercharger Brennero",
+                                "temp": 20.52,
+                                "pressure": 1025,
+                                "cargo": 0,
+                                "occupants": 1
+                            }
+                        },
+                        "type": "station",
+                        "name": "Tesla Supercharger Brennero",
+                        "stationId": "5e9a753abf761c7f5b16a468",
+                        "operatorId": "5e9a6f2cbf761c57731660e7",
+                        "chargeTime": 1936,
+                        "evse": {
+                            "uid": "brennerosupercharger1",
+                            "evse_id": "brennerosupercharger1",
+                            "physical_reference": null,
+                            "status": "UNKNOWN",
+                            "connectors": [
+                                {
+                                    "id": "brennerosupercharger1",
+                                    "power": 150,
+                                    "max_amperage": 375,
+                                    "max_voltage": 400,
+                                    "max_electric_power": 150000,
+                                    "standard": "TESLA_S",
+                                    "format": "CABLE",
+                                    "power_type": "DC",
+                                    "properties": null
+                                }
+                            ],
+                            "parking_restrictions": [
+                                "EV_ONLY"
+                            ],
+                            "properties": null
+                        },
+                        "connector": {
+                            "id": "brennerosupercharger1",
+                            "power": 150,
+                            "max_amperage": 375,
+                            "max_voltage": 400,
+                            "max_electric_power": 150000,
+                            "standard": "TESLA_S",
+                            "properties": null
+                        },
+                        "plugsAvailable": 0,
+                        "plugsCount": 16
+                    },
+                    {
+                        "id": "62d5c5b5ba72d18705d949dc",
+                        "distance": 206364,
+                        "duration": 7020,
+                        "consumption": 42.42,
+                        "rangeStart": 317000,
+                        "rangeStartKwh": 49.668,
+                        "rangeEnd": 47000,
+                        "rangeEndKwh": 7.248,
+                        "origin": {
+                            "id": null,
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    11.50206512,
+                                    46.99539644
+                                ]
+                            },
+                            "properties": {
+                                "name": "Tesla Supercharger Brennero",
+                                "temp": 20.52,
+                                "pressure": 1025,
+                                "cargo": 0,
+                                "occupants": 1
+                            }
+                        },
+                        "destination": {
+                            "id": null,
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    10.78758664,
+                                    45.55121226
+                                ]
+                            },
+                            "properties": {
+                                "name": "Tesla Supercharger Affi",
+                                "temp": 29.32,
+                                "pressure": 1019,
+                                "cargo": 0,
+                                "occupants": 1
+                            }
+                        },
+                        "type": "station",
+                        "name": "Tesla Supercharger Affi",
+                        "stationId": "604b44a44bb359bc8a77fdec",
+                        "operatorId": "5e9a6f2cbf761c57731660e7",
+                        "chargeTime": 2668,
+                        "evse": {
+                            "uid": "affisupercharger1",
+                            "evse_id": null,
+                            "physical_reference": null,
+                            "status": "UNKNOWN",
+                            "connectors": [
+                                {
+                                    "id": "affisupercharger1",
+                                    "power": 250,
+                                    "max_amperage": 375,
+                                    "max_voltage": 400,
+                                    "max_electric_power": 250000,
+                                    "standard": "TESLA_S",
+                                    "format": "CABLE",
+                                    "power_type": "DC",
+                                    "properties": null
+                                }
+                            ],
+                            "parking_restrictions": null,
+                            "properties": null
+                        },
+                        "connector": {
+                            "id": "affisupercharger1",
+                            "power": 250,
+                            "max_amperage": 375,
+                            "max_voltage": 400,
+                            "max_electric_power": 250000,
+                            "standard": "TESLA_S",
+                            "properties": null
+                        },
+                        "plugsAvailable": 0,
+                        "plugsCount": 24
+                    },
+                    {
+                        "id": "62d5c5b5ba72d18705d949e2",
+                        "distance": 232562,
+                        "duration": 7970,
+                        "consumption": 52.612,
+                        "rangeStart": 388000,
+                        "rangeStartKwh": 59.862,
+                        "rangeEnd": 47000,
+                        "rangeEndKwh": 7.25,
+                        "origin": {
+                            "id": null,
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    10.78758664,
+                                    45.55121226
+                                ]
+                            },
+                            "properties": {
+                                "name": "Tesla Supercharger Affi",
+                                "temp": 29.32,
+                                "pressure": 1019,
+                                "cargo": 0,
+                                "occupants": 1
+                            }
+                        },
+                        "destination": {
+                            "id": null,
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    11.17798004,
+                                    43.8102583
+                                ]
+                            },
+                            "properties": {
+                                "name": "Tesla Supercharger Firenze",
+                                "temp": 31.55,
+                                "pressure": 1017,
+                                "cargo": 0,
+                                "occupants": 1
+                            }
+                        },
+                        "type": "station",
+                        "name": "Tesla Supercharger Firenze",
+                        "stationId": "5f30cff671caeb5a4630e2fc",
+                        "operatorId": "5e9a6f2cbf761c57731660e7",
+                        "chargeTime": 370,
+                        "evse": {
+                            "uid": "firenzeitsupercharger1",
+                            "evse_id": "firenzeitsupercharger1",
+                            "physical_reference": null,
+                            "status": "UNKNOWN",
+                            "connectors": [
+                                {
+                                    "id": "firenzeitsupercharger1",
+                                    "power": 150,
+                                    "max_amperage": 375,
+                                    "max_voltage": 400,
+                                    "max_electric_power": 150000,
+                                    "standard": "TESLA_S",
+                                    "format": "CABLE",
+                                    "power_type": "DC",
+                                    "properties": null
+                                }
+                            ],
+                            "parking_restrictions": [
+                                "EV_ONLY"
+                            ],
+                            "properties": null
+                        },
+                        "connector": {
+                            "id": "firenzeitsupercharger1",
+                            "power": 150,
+                            "max_amperage": 375,
+                            "max_voltage": 400,
+                            "max_electric_power": 150000,
+                            "standard": "TESLA_S",
+                            "properties": null
+                        },
+                        "plugsAvailable": 0,
+                        "plugsCount": 8
+                    },
+                    {
+                        "id": "62d5c5b5ba72d18705d949ea",
+                        "distance": 12315,
+                        "duration": 883,
+                        "consumption": 1.55,
+                        "rangeStart": 57000,
+                        "rangeStartKwh": 8.8,
+                        "rangeEnd": 47000,
+                        "rangeEndKwh": 7.25,
+                        "origin": {
+                            "id": null,
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    11.17798004,
+                                    43.8102583
+                                ]
+                            },
+                            "properties": {
+                                "name": "Tesla Supercharger Firenze",
+                                "temp": 31.55,
+                                "pressure": 1017,
+                                "cargo": 0,
+                                "occupants": 1
+                            }
+                        },
+                        "destination": {
+                            "id": null,
+                            "type": "Feature",
+                            "geometry": {
+                                "type": "Point",
+                                "coordinates": [
+                                    11.255814,
+                                    43.76956
+                                ]
+                            },
+                            "properties": {
+                                "temp": 29.71,
+                                "pressure": 1017,
+                                "cargo": 0,
+                                "occupants": 1
+                            }
+                        },
+                        "type": "final",
+                        "name": "",
+                        "stationId": null,
+                        "operatorId": null,
+                        "chargeTime": 0,
+                        "evse": null,
+                        "connector": null,
+                        "plugsAvailable": 0,
+                        "plugsCount": 0
+                    }
+                ]
+            },
+            "status": "done"
+        }
+    }
+}
