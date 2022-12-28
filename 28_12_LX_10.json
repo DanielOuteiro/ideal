@@ -1,0 +1,4063 @@
+{
+    "elementList": [
+      {
+        "propertyCode": "32190181",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/80/fa/cd/201305984.jpg",
+        "externalReference": "apt2553",
+        "numPhotos": 22,
+        "floor": "5",
+        "price": 1700,
+        "propertyType": "flat",
+        "operation": "rent",
+        "size": 122,
+        "exterior": false,
+        "rooms": 2,
+        "bathrooms": 2,
+        "address": "Centro de Cascais",
+        "province": "Lisboa",
+        "municipality": "Cascais e Estoril",
+        "district": "Cascais",
+        "country": "pt",
+        "neighborhood": "Centro de Cascais",
+        "locationId": "0-EU-PT-11-05-008-08-02-001",
+        "latitude": 38.6996838,
+        "longitude": -9.4243652,
+        "showAddress": false,
+        "url": "https://www.idealista.pt/imovel/32190181/",
+        "description": "apt2553 Furnished T2 located in a very quiet residential area with all kinds of shops and services just a few minutes away, it is located in an area with plenty of green areas and a few minutes from the beaches of Cascais, the center of Cascais and Estoril. as well as a few minutes from the access to the A5. This apartment has a lot of light given its sun exposure (East/West). It consists of an entrance hall, fully equipped kitchen, living room with access to a balcony, both bedrooms have fitted wardrobes, one of which has a balcony, the bathroom is equipped with a bathtub and there is still a shared bathroom. It is housed in a building with two elevators and also has an internal parking space. All divisions were renovated 2 years ago with excellent quality materials and the building's facades were also recently renovated. This is an excellent opportunity for those looking for the tranquility of a quiet and peaceful area without neglecting comfort and quality of life for the whole family. Come and see this property just minutes from one of the most beautiful villages in Portugal, Cascais. Don't miss this opportunity and come visit this magnificent apartment. VISIT! CONTACT US (phone) / (phone) / (phone) Or check our website: (url).",
+        "hasVideo": false,
+        "status": "good",
+        "newDevelopment": false,
+        "priceDropValue": 200,
+        "dropDate": 1671454024000,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/80/fa/cd/201305984.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a7/f0/90/201306025.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/df/aa/bc/201306017.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e6/cb/d4/201306026.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/bb/1e/86/201306027.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ce/d1/96/201306028.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/9c/d9/0f/201306029.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a5/0c/2f/201306030.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/41/8f/74/201306031.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/90/89/71/201306032.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/49/3c/41/201306033.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/96/2f/bb/201306034.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/63/9b/75/201306035.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e6/c4/63/201306036.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f8/ff/00/201306037.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/dc/67/c6/201306038.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d2/d7/3e/201306039.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b7/fd/69/201306040.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/91/e9/91/201306041.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/fc/ed/76/201306042.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/1a/38/f6/201306043.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d4/ac/8a/201306044.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "commercialName": "JM Imobiliária",
+          "phone1": {
+            "phoneNumber": "218744273",
+            "formattedPhone": "218 74 42 73",
+            "prefix": "351",
+            "phoneNumberForMobileDialing": "+351218744273",
+            "nationalNumber": true
+          },
+          "contactName": "JM Imobiliária",
+          "userType": "professional",
+          "agencyLogo": "https://st3.idealista.pt/da/4f/78/jorgemoura.gif",
+          "contactMethod": "all",
+          "micrositeShortName": "jorgemoura"
+        },
+        "hasLift": true,
+        "parkingSpace": {
+          "hasParkingSpace": true,
+          "isParkingSpaceIncludedInPrice": true
+        },
+        "priceDropPercentage": 11,
+        "priceByArea": 14,
+        "detailedType": {
+          "typology": "flat"
+        },
+        "suggestedTexts": {
+          "subtitle": "Centro de Cascais, Cascais",
+          "title": "Flat"
+        },
+        "hasPlan": false,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "32340298",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/3b/54/63/200916662.jpg",
+        "externalReference": "85177",
+        "numPhotos": 26,
+        "floor": "3",
+        "price": 1700,
+        "propertyType": "flat",
+        "operation": "rent",
+        "size": 120,
+        "exterior": false,
+        "rooms": 2,
+        "bathrooms": 1,
+        "address": "Centro",
+        "province": "Lisboa",
+        "municipality": "Belém",
+        "district": "Centro",
+        "country": "pt",
+        "locationId": "0-EU-PT-11-06-058-58-02",
+        "latitude": 38.6978314,
+        "longitude": -9.2016352,
+        "showAddress": false,
+        "url": "https://www.idealista.pt/imovel/32340298/",
+        "description": "2 bedroom apartment with a useful area of 120m2, prior to 1951 (completely refurbished in November 2022) Fantastic apartment with 2 bedrooms in a historic building in Belém. Come live with a view of the Palace of Belém and the Jerónimos Monastery. Where in the morning you can hear the birds singing in the Tropical Garden. Close to the Coach Museum, MATT and CCB. Having at your feet the best restaurants and the famous pastéis de Belém. You can stroll in the surrounding gardens or even along the Tagus River. The apartment has a huge lounge, with a balcony. 2 bedrooms both with closet. The kitchen maintains the old design with a stove and water heater. The bathroom has a closet with a built-in sink and a bathtub. They still have a pantry. The building is centuries old but very well maintained.  It only has 3 floors, and 3 fractions. It doesn't have an elevator. To park, just get the digit at Lisbon City Hall and there is plenty of space to park in the immediate vicinity. Book your visit! ref: 85177.",
+        "hasVideo": false,
+        "status": "good",
+        "newDevelopment": false,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/3b/54/63/200916662.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/47/c5/48/200916663.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/fb/17/d9/200916664.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ae/d2/f9/200916665.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/3e/14/77/200916666.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ee/fc/67/200916667.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/59/c0/b7/200916668.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/40/f0/db/200916669.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/74/27/90/200916670.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/0f/7d/c7/200916671.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8b/87/88/200916672.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f3/fb/bb/200916673.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/5e/7d/53/200916674.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/59/df/bd/200916675.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/9a/93/e4/200916676.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8c/c3/9b/200916677.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/06/d3/ae/200916678.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/19/40/7c/200916679.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/0f/2c/ac/200916680.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d0/3c/e0/200916681.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f0/65/dd/200916682.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8b/95/4b/200916683.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/16/ca/e8/200916684.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/aa/6d/1d/200916685.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/19/88/6b/200916686.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/12/86/de/200916687.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "commercialName": "IAD Portugal",
+          "phone1": {
+            "phoneNumber": "210206582",
+            "formattedPhone": "210 20 65 82",
+            "prefix": "351",
+            "phoneNumberForMobileDialing": "+351210206582",
+            "nationalNumber": true
+          },
+          "contactName": "Liliana",
+          "userType": "professional",
+          "agencyLogo": "https://st3.idealista.pt/87/7a/01/iad-portugal.gif",
+          "contactMethod": "all",
+          "micrositeShortName": "iad-portugal"
+        },
+        "priceByArea": 14,
+        "detailedType": {
+          "typology": "flat"
+        },
+        "suggestedTexts": {
+          "subtitle": "Belém, Lisboa",
+          "title": "Flat"
+        },
+        "hasPlan": false,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "32351356",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/5e/b9/ce/201490013.jpg",
+        "externalReference": "121211223-78",
+        "numPhotos": 8,
+        "price": 1700,
+        "propertyType": "flat",
+        "operation": "rent",
+        "size": 112,
+        "exterior": false,
+        "rooms": 3,
+        "bathrooms": 2,
+        "address": "Travessa Águas Livres no number",
+        "province": "Lisboa",
+        "municipality": "Santo António",
+        "district": "Rato - Amoreiras",
+        "country": "pt",
+        "locationId": "0-EU-PT-11-06-066-66-02",
+        "latitude": 38.7228588,
+        "longitude": -9.1573914,
+        "showAddress": true,
+        "url": "https://www.idealista.pt/imovel/32351356/",
+        "description": "Come and live one of the most exclusive areas of Lisbon. Very bright T4 apartment, with spacious rooms and a 5.8 m2 balcony. In addition to Jardim das Amoreiras, it is next to the Ginásio Clube Português, the Vieira da Silva Museum and the Amoreiras Shopping Centre. Close to the entire transport network as it has Largo do Rato at 200m. Also close to schools and shopping. “The information provided does not waive your confirmation and cannot be considered binding. ”.",
+        "hasVideo": false,
+        "status": "good",
+        "newDevelopment": false,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/5e/b9/ce/201490013.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e9/44/fe/201490047.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/79/6c/33/201490014.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/cb/59/f4/201490048.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/cc/2e/5f/201490049.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a6/86/d0/201490050.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a1/fc/cc/201490051.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b0/f4/7f/201490052.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "commercialName": "Remax Premium",
+          "phone1": {
+            "phoneNumber": "218772171",
+            "formattedPhone": "218 77 21 71",
+            "prefix": "351",
+            "phoneNumberForMobileDialing": "+351218772171",
+            "nationalNumber": true
+          },
+          "contactName": "Premium",
+          "userType": "professional",
+          "agencyLogo": "https://st3.idealista.pt/51/53/73/remax-premium.gif",
+          "contactMethod": "all",
+          "micrositeShortName": "remax-premium"
+        },
+        "priceByArea": 15,
+        "detailedType": {
+          "typology": "flat"
+        },
+        "suggestedTexts": {
+          "subtitle": "Santo António, Lisboa",
+          "title": "Flat in Travessa Águas Livres no number"
+        },
+        "hasPlan": false,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "32267709",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/4e/29/d0/197147845.jpg",
+        "numPhotos": 40,
+        "price": 1700,
+        "propertyType": "chalet",
+        "operation": "rent",
+        "size": 144,
+        "exterior": false,
+        "rooms": 3,
+        "bathrooms": 2,
+        "address": "116",
+        "province": "Lisboa",
+        "municipality": "Mafra",
+        "country": "pt",
+        "locationId": "0-EU-PT-11-09-009-09",
+        "latitude": 38.9621509,
+        "longitude": -9.3561437,
+        "showAddress": false,
+        "url": "https://www.idealista.pt/imovel/32267709/",
+        "description": "Single storey house type T3+1, in the final stage of construction. Single storey villa, with about 140 m² on land with about 410 m². The reconstruction of this village house was carried out in order to preserve some details of the existing old house. For those who want to be the first user of a house, and who prefer not to have steps at home, in an area of excellent accessibility, there is a beautiful space here. With a lounge of about 50 m² with lots of light. Private parking at the door. Please note the conditions mentioned below. Description of the interior Very sunny house, windows with tilt-and-turn opening system Kitchen with about 13 m² with an always useful pantry with about 2.5 m². The kitchen is equipped with an oven, ceramic hob and water heater, granite countertops (no washing machine despite having pre-installations, and no fridge). Hall with about 50 m². Three bedrooms (without wardrobes), with areas of 9m², 11m² and 14m² Office with about 15 m² 2 Wc's with pullivant Pleasant private and walled patio, with automatic gate, and with capacity for several vehicles. There is no covered garage. Description of the surroundings: Next National Road.116 (Ericeira - Mafra - Lisbon). 5 min from Mafra by car 8 min from Ericeira and its beautiful beaches 30 minutes from Lisbon Bus stop and village shops nearby. Rental conditions: It is asked: 1 month deposit 2 months of income Proof of tenant and guarantor income Last IRS statement Portuguese guarantor. Medium to long term contract Availability forecast November 1 If you are looking for apartments, houses, land, farms, warehouses, logistics platforms, shops, T1, T2, T3, T4, T5, T6, duplex and other typologies, in the areas of Mafra, Ericeira, Malveira, Venda do Pinheiro, Sintra, Lisbon , Torres Vedras, Cascais, Estoril, Faro (and other areas as well) for sale, exchange or lease, do not hesitate to contact us. Thanks to the dynamic partnership agreements with other real estate agencies, and other real estate developers, we can have solutions at national level to present you.Tell us what you're looking for. Visit our page: imoveisonline.net.",
+        "hasVideo": true,
+        "status": "good",
+        "newDevelopment": false,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/4e/29/d0/197147845.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/98/44/66/197147828.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f1/ba/cf/197147558.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/92/7c/81/197147824.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/fb/5d/8e/197147846.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8f/00/79/197147838.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e0/ba/68/197147827.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/18/e1/6b/197147526.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/55/0c/80/197147847.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/4c/dd/73/197147483.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/7b/76/61/197147545.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/cb/d1/d3/197147524.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/1e/29/a4/197147560.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/71/47/9c/197147523.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2f/05/b4/197147549.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/dd/2d/05/197147519.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f0/55/4b/197147511.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/55/6a/25/197147561.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/90/a2/43/197147562.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c4/f4/e6/197147522.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b3/79/3b/197147559.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/fd/4a/b3/197147555.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/af/48/d7/197147513.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/05/db/21/197147512.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ab/75/a0/197147546.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/bf/0f/6d/197147527.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ee/77/6b/197147556.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/4a/bf/d0/197147547.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a7/93/3b/197147538.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f8/70/5c/197147548.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/91/e6/3c/197147484.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/1d/42/4d/197147535.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/87/8a/bb/197147536.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2a/52/ca/197147530.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8a/a5/64/197147532.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a6/8e/c9/197147563.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/90/a7/bd/197147564.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/27/44/44/197147533.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/7b/1a/7a/197147539.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/52/0f/c7/197147565.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "commercialName": "ImóveisOnLine",
+          "phone1": {
+            "phoneNumber": "218740083",
+            "formattedPhone": "218 74 00 83",
+            "prefix": "351",
+            "phoneNumberForMobileDialing": "+351218740083",
+            "nationalNumber": true
+          },
+          "contactName": "ImóveisOnLine",
+          "userType": "professional",
+          "contactMethod": "all",
+          "micrositeShortName": "imoveisonline"
+        },
+        "priceByArea": 12,
+        "features": {
+          "hasSwimmingPool": false,
+          "hasTerrace": true,
+          "hasAirConditioning": false,
+          "hasGarden": true
+        },
+        "detailedType": {
+          "typology": "chalet",
+          "subTypology": "independantHouse"
+        },
+        "suggestedTexts": {
+          "subtitle": "Mafra",
+          "title": "Detached house in 116"
+        },
+        "hasPlan": false,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "labels": [
+          {
+            "name": "moradiaTerreaType",
+            "text": "Bungalow"
+          }
+        ],
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "32300722",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/55/a5/66/198807385.jpg",
+        "numPhotos": 30,
+        "floor": "9",
+        "price": 1700,
+        "propertyType": "flat",
+        "operation": "rent",
+        "size": 134,
+        "exterior": false,
+        "rooms": 3,
+        "bathrooms": 2,
+        "address": "Avenida Edmundo Lima Basto, 11",
+        "province": "Lisboa",
+        "municipality": "Carnaxide e Queijas",
+        "district": "Nova Carnaxide",
+        "country": "pt",
+        "locationId": "0-EU-PT-11-10-013-13-05",
+        "latitude": 38.7204067,
+        "longitude": -9.2295709,
+        "showAddress": true,
+        "url": "https://www.idealista.pt/imovel/32300722/",
+        "description": "Are you looking for an apartment near Lisbon? This is your big opportunity! Property with 134m². It has 3 bedrooms, 1 of them suite with closet, balcony, large and fully equipped kitchen. For your convenience, there is a covered parking space for your leisure. The apartment has a fireplace (perfect for gathering family and friends). Incredible natural lighting! It is located in a completely residential street, with access to a pharmacy, laundry, pastry shop, restaurants and supermarkets. Great access to the A5. Apartment available for visits from Monday to Friday, from 10 am to 6 pm. Book your appointment now!",
+        "hasVideo": false,
+        "status": "good",
+        "newDevelopment": false,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/55/a5/66/198807385.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/f6/e8/e4/198807366.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/0e/af/cd/198807344.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/92/6b/7a/198807367.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/3f/b2/cf/198807375.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/93/76/bb/198807369.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/05/ec/fa/198807386.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/af/60/3c/198807361.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/db/15/b6/198807359.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/25/a9/cd/198807399.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/d1/1a/ac/198807324.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/99/49/0a/198807378.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/d4/45/f4/198807360.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/f6/ae/f9/198807333.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/26/53/11/198807377.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/88/cc/40/198807376.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/26/82/c4/198807387.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/bd/9c/0e/198807368.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/e5/67/62/198807396.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/17/28/1d/198807400.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/00/91/8e/198807363.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/8d/f1/c8/198807370.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/c5/16/c0/198807398.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/e0/e4/d5/198807379.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/57/9e/cb/198807405.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/04/57/15/198807334.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/1e/57/d3/198807395.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/26/0a/71/198807397.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/ac/ba/39/198807362.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/64/b8/2e/198807364.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "phone1": {
+            "phoneNumber": "935261993",
+            "formattedPhone": "935 26 19 93",
+            "prefix": "351",
+            "phoneNumberForMobileDialing": "+351935261993",
+            "nationalNumber": true
+          },
+          "contactName": "Joao Pedro",
+          "userType": "private",
+          "contactMethod": "all"
+        },
+        "hasLift": true,
+        "parkingSpace": {
+          "hasParkingSpace": true,
+          "isParkingSpaceIncludedInPrice": true
+        },
+        "priceByArea": 13,
+        "features": {
+          "hasSwimmingPool": false,
+          "hasTerrace": false,
+          "hasAirConditioning": false,
+          "hasBoxRoom": false,
+          "hasGarden": false
+        },
+        "detailedType": {
+          "typology": "flat"
+        },
+        "suggestedTexts": {
+          "subtitle": "Carnaxide e Queijas, Oeiras",
+          "title": "Flat in Avenida Edmundo Lima Basto, 11"
+        },
+        "hasPlan": false,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "32287914",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/17/21/fb/198171563.jpg",
+        "externalReference": "13581",
+        "numPhotos": 11,
+        "floor": "2",
+        "price": 1700,
+        "propertyType": "flat",
+        "operation": "rent",
+        "size": 120,
+        "exterior": false,
+        "rooms": 3,
+        "bathrooms": 2,
+        "address": "Rua Ricardo Espírito Santo Silva",
+        "province": "Lisboa",
+        "municipality": "Cascais e Estoril",
+        "district": "Cascais",
+        "country": "pt",
+        "neighborhood": "Centro de Cascais",
+        "locationId": "0-EU-PT-11-05-008-08-02-001",
+        "latitude": 38.6931276,
+        "longitude": -9.4272836,
+        "showAddress": false,
+        "url": "https://www.idealista.pt/imovel/32287914/",
+        "description": "Cascais Alameda da Guia, apartment with 3 bedrooms and parking in the basement. Room 28 m2 with fireplace and balcony, 3 bedrooms with wardrobes, kitchen 18 m2 with pantry, 2 bathrooms. Security door, elevator, video intercom. Construction of 1996, sun exposure east west. Excellent location, close to the sea, supermarkets, shops and restaurants. Public transport at the door and close to the access to the Cascais Highway (A5). Close to the bike path to Guincho beach or to the center of Cascais.",
+        "hasVideo": true,
+        "status": "good",
+        "newDevelopment": false,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/17/21/fb/198171563.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f6/b0/69/198171575.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/5b/60/e0/198171554.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/92/16/b7/198171562.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/19/da/6f/198171558.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c7/c7/41/198171569.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/66/bd/0c/198171559.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e9/d3/ed/198171564.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/48/c3/96/198171557.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/99/13/8b/198171560.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c6/ce/19/198171561.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "commercialName": "Marina Mesquita - Sociedade de Mediação Imobiliária, Lda",
+          "phone1": {
+            "phoneNumber": "218772442",
+            "formattedPhone": "218 77 24 42",
+            "prefix": "351",
+            "phoneNumberForMobileDialing": "+351218772442",
+            "nationalNumber": true
+          },
+          "contactName": "Marina",
+          "userType": "professional",
+          "contactMethod": "all",
+          "micrositeShortName": "marina-mesquita"
+        },
+        "hasLift": true,
+        "parkingSpace": {
+          "hasParkingSpace": true,
+          "isParkingSpaceIncludedInPrice": true
+        },
+        "priceByArea": 14,
+        "detailedType": {
+          "typology": "flat"
+        },
+        "suggestedTexts": {
+          "subtitle": "Centro de Cascais, Cascais",
+          "title": "Flat in Rua Ricardo Espírito Santo Silva"
+        },
+        "hasPlan": false,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "32125788",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ec/2e/e9/187965986.jpg",
+        "numPhotos": 20,
+        "floor": "5",
+        "price": 1700,
+        "propertyType": "flat",
+        "operation": "rent",
+        "size": 122,
+        "exterior": false,
+        "rooms": 2,
+        "bathrooms": 2,
+        "address": "Rua Professor Dias Valente, 124",
+        "province": "Lisboa",
+        "municipality": "Cascais e Estoril",
+        "district": "Estoril",
+        "country": "pt",
+        "neighborhood": "Centro do Estoril",
+        "locationId": "0-EU-PT-11-05-008-08-01-003",
+        "latitude": 38.7138396,
+        "longitude": -9.4042795,
+        "showAddress": true,
+        "url": "https://www.idealista.pt/imovel/32125788/",
+        "description": "2 bedroom apartment for rent located in a quiet and wooded area with local shops, very close to Pingo Doce (300 m), and Estoril-Praia stadium (500 m). It is approximately 1.5 km away from Tamariz beach and Estoril Casino. Excellent 2 bedroom apartment very sunny (sun in the morning and in the afternoon). All divisions were remodeled 2 years ago with excellent quality materials. It has 2 open balconies (to the bedroom and living room), 2 bathrooms, 2 bedrooms, 1 large living room, kitchen, hallway, Hall and storage room. Includes covered garage parking. Building has 2 elevators. Apartment is equipped and furnished. Gas inspection carried out recently. The building's facades have been the subject of recent repairs and rehabilitation.",
+        "hasVideo": false,
+        "status": "good",
+        "newDevelopment": false,
+        "priceDropValue": 200,
+        "dropDate": 1671442339000,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ec/2e/e9/187965986.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/21/ac/4f/191851411.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/fa/5e/88/191851412.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e3/c9/5f/191851427.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/db/da/24/191851423.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c1/c8/c4/191851413.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d2/45/12/191851424.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/58/f8/87/191851414.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/27/c7/08/191851435.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e4/6a/9f/191851302.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/08/97/d9/191851436.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/21/ef/33/191851304.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/81/19/ca/191851433.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/81/a6/24/191851300.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8e/c1/2e/191851301.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/7d/49/10/191851303.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/63/7c/57/191851432.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/0e/12/f9/191851434.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/6d/83/8e/191851437.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/78/51/27/191851445.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "phone1": {
+            "phoneNumber": "917969462",
+            "formattedPhone": "917 96 94 62",
+            "prefix": "351",
+            "phoneNumberForMobileDialing": "+351917969462",
+            "nationalNumber": true
+          },
+          "contactName": "Diana",
+          "userType": "private",
+          "contactMethod": "all"
+        },
+        "hasLift": true,
+        "parkingSpace": {
+          "hasParkingSpace": true,
+          "isParkingSpaceIncludedInPrice": true
+        },
+        "priceDropPercentage": 11,
+        "priceByArea": 14,
+        "features": {
+          "hasSwimmingPool": false,
+          "hasTerrace": false,
+          "hasAirConditioning": false,
+          "hasBoxRoom": false,
+          "hasGarden": true
+        },
+        "detailedType": {
+          "typology": "flat"
+        },
+        "suggestedTexts": {
+          "subtitle": "Centro do Estoril, Cascais",
+          "title": "Flat in Rua Professor Dias Valente, 124"
+        },
+        "hasPlan": false,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "31731531",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/46/6d/14/165641982.jpg",
+        "numPhotos": 17,
+        "floor": "4",
+        "price": 1700,
+        "propertyType": "flat",
+        "operation": "rent",
+        "size": 150,
+        "exterior": false,
+        "rooms": 2,
+        "bathrooms": 2,
+        "address": "Rua Mateus Vicente, 2",
+        "province": "Lisboa",
+        "municipality": "São Domingos de Benfica",
+        "district": "Alto dos Moinhos",
+        "country": "pt",
+        "locationId": "0-EU-PT-11-06-039-39-02",
+        "latitude": 38.7558018,
+        "longitude": -9.1813057,
+        "showAddress": true,
+        "url": "https://www.idealista.pt/imovel/31731531/",
+        "description": "Apartment available from April 30, 2022 Apartment available after 30th April 2022. Apartment next to Luz and Colombo stadium. Prime zone. Access to various types of transport and to the 2nd ring road, the great artery that runs through Lisbon. Apartment with good areas and well located. Ideal for anyone working in Lisbon. When concluding the contract, we suggest in a simple and safe way: 1st month Last month security deposit. Thank you for your attention. Do not hesitate to schedule a visit.",
+        "hasVideo": false,
+        "status": "good",
+        "newDevelopment": false,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/46/6d/14/165641982.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c9/a5/41/165641983.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/23/c1/cd/165641984.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d2/4f/c8/165642015.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/88/23/7d/165642017.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/14/19/42/165642019.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b4/44/6d/165642139.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b0/0f/36/165642140.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2b/e0/16/165642141.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f5/2f/0c/165642142.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/6b/b4/3f/165642166.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2b/2a/a3/165642167.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ed/4c/67/165642168.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/63/35/f2/165642194.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2e/b4/82/165642195.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8e/51/f1/165642196.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/aa/2d/f8/165642287.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "phone1": {
+            "phoneNumber": "915710703",
+            "formattedPhone": "915 71 07 03",
+            "prefix": "351",
+            "phoneNumberForMobileDialing": "+351915710703",
+            "nationalNumber": true
+          },
+          "contactName": "André Simão",
+          "userType": "private",
+          "contactMethod": "all"
+        },
+        "hasLift": true,
+        "priceByArea": 11,
+        "features": {
+          "hasSwimmingPool": false,
+          "hasTerrace": false,
+          "hasAirConditioning": false,
+          "hasBoxRoom": false,
+          "hasGarden": false
+        },
+        "detailedType": {
+          "typology": "flat"
+        },
+        "suggestedTexts": {
+          "subtitle": "São Domingos de Benfica, Lisboa",
+          "title": "Flat in Rua Mateus Vicente, 2"
+        },
+        "hasPlan": false,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "32349347",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2e/e1/79/200934272.jpg",
+        "externalReference": "BI213",
+        "numPhotos": 11,
+        "floor": "2",
+        "price": 1700,
+        "propertyType": "flat",
+        "operation": "rent",
+        "size": 100,
+        "exterior": false,
+        "rooms": 3,
+        "bathrooms": 2,
+        "address": "Alameda - Praça do Chile - Almirante Reis",
+        "province": "Lisboa",
+        "municipality": "Arroios",
+        "district": "São Jorge de Arroios",
+        "country": "pt",
+        "neighborhood": "Alameda - Praça do Chile - Almirante Reis",
+        "locationId": "0-EU-PT-11-06-056-56-03-001",
+        "latitude": 38.7339067,
+        "longitude": -9.133713,
+        "showAddress": false,
+        "url": "https://www.idealista.pt/imovel/32349347/",
+        "description": "New apartment, next to Avenida Almirante Reis, Arroios metro station and various shops and services. Apartment on the 2nd floor, comprising: Living room 3 bedrooms 2 bathrooms 2 full bathrooms Semi-equipped kitchen (hob, extractor fan, water heating) Air conditioning in all divisions. Building without elevator.",
+        "hasVideo": false,
+        "status": "good",
+        "newDevelopment": false,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2e/e1/79/200934272.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/85/c1/89/200934275.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/70/23/37/200934273.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/11/b9/4b/200934285.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/eb/a6/eb/200934230.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/bc/65/1e/200934289.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e4/ca/4a/200934281.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/dd/e5/30/200934294.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/78/c1/ef/200934233.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/50/7c/9e/200934308.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/22/70/9d/200934321.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "commercialName": "Boutique dos Imóveis .PT",
+          "phone1": {
+            "phoneNumber": "218740310",
+            "formattedPhone": "218 74 03 10",
+            "prefix": "351",
+            "phoneNumberForMobileDialing": "+351218740310",
+            "nationalNumber": true
+          },
+          "contactName": "Boutique dos Imóveis .PT",
+          "userType": "professional",
+          "contactMethod": "all",
+          "micrositeShortName": "boutiquedosimoveis"
+        },
+        "hasLift": false,
+        "priceByArea": 17,
+        "detailedType": {
+          "typology": "flat"
+        },
+        "suggestedTexts": {
+          "subtitle": "Alameda - Praça do Chile - Almirante Reis, Lisboa",
+          "title": "Flat"
+        },
+        "hasPlan": false,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "30792250",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/87/4e/43/132729331.jpg",
+        "numPhotos": 11,
+        "floor": "1",
+        "price": 1700,
+        "propertyType": "flat",
+        "operation": "rent",
+        "size": 85,
+        "exterior": false,
+        "rooms": 2,
+        "bathrooms": 1,
+        "address": "Avenida da República, 1360",
+        "province": "Lisboa",
+        "municipality": "Carcavelos e Parede",
+        "district": "Parede",
+        "country": "pt",
+        "locationId": "0-EU-PT-11-05-007-07-03",
+        "latitude": 38.6905191,
+        "longitude": -9.3557647,
+        "showAddress": true,
+        "url": "https://www.idealista.pt/imovel/30792250/",
+        "description": "Apartment ready to live, completely renovated, equipped and furnished. Located in the center of Parede, you don't need a car. All accommodation at the door. Ideal for short or long periods. Apartment ready to live, completely renovated, equipped and furnished. Located in the center of Parede, you do not need a car. All accommodation at the door. Ideal for short or long terms.",
+        "hasVideo": false,
+        "status": "good",
+        "newDevelopment": false,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/87/4e/43/132729331.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/62/53/c0/132729372.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d9/5f/cf/132729329.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/4e/5e/c7/132729384.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2a/c6/13/132729382.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/22/d7/84/132729374.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/6f/89/70/132729330.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/89/1b/91/132729373.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a9/ca/48/132729383.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/54/cf/d1/132729385.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/9a/f2/5f/132729338.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "contactName": "Rui",
+          "userType": "private",
+          "contactMethod": "email"
+        },
+        "hasLift": false,
+        "priceByArea": 20,
+        "features": {
+          "hasSwimmingPool": false,
+          "hasTerrace": true,
+          "hasAirConditioning": true,
+          "hasBoxRoom": false,
+          "hasGarden": false
+        },
+        "detailedType": {
+          "typology": "flat"
+        },
+        "suggestedTexts": {
+          "subtitle": "Carcavelos e Parede, Cascais",
+          "title": "Flat in Avenida da República, 1360"
+        },
+        "hasPlan": false,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "31180276",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/85/dd/f9/198610014.jpg",
+        "numPhotos": 11,
+        "floor": "3",
+        "price": 1700,
+        "propertyType": "flat",
+        "operation": "rent",
+        "size": 88,
+        "exterior": false,
+        "rooms": 2,
+        "bathrooms": 1,
+        "address": "Rua Washington, 96",
+        "province": "Lisboa",
+        "municipality": "São Vicente",
+        "district": "Santa Engrácia",
+        "country": "pt",
+        "locationId": "0-EU-PT-11-06-067-67-02",
+        "latitude": 38.7189939,
+        "longitude": -9.1220035,
+        "showAddress": true,
+        "url": "https://www.idealista.pt/imovel/31180276/",
+        "description": "Sympatico T. 2 located 5 minutes from Santa Apolonia and Graça. Close to shops and services. Bus stops at the door. Apartment on the top floor of a building with 3 floors. Rooms with window and everything furnished and equipped. Small Balcon and shared terrace!",
+        "hasVideo": false,
+        "status": "good",
+        "newDevelopment": false,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/85/dd/f9/198610014.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/1d/4d/9e/198610095.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a5/2f/e2/198610085.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c4/8f/10/198610073.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a5/1c/7d/198610074.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/6e/f1/1e/198610012.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/05/54/27/198609984.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/0b/1a/d5/198610013.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/42/98/20/198610054.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a7/e0/73/198610105.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/57/fb/59/198610115.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "contactName": "Domingas monteiro",
+          "userType": "private",
+          "contactMethod": "email"
+        },
+        "hasLift": false,
+        "priceByArea": 19,
+        "features": {
+          "hasSwimmingPool": false,
+          "hasTerrace": false,
+          "hasAirConditioning": false,
+          "hasBoxRoom": false,
+          "hasGarden": true
+        },
+        "detailedType": {
+          "typology": "flat"
+        },
+        "suggestedTexts": {
+          "subtitle": "São Vicente, Lisboa",
+          "title": "Flat in Rua Washington, 96"
+        },
+        "hasPlan": false,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "31946966",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8a/62/b1/174375710.jpg",
+        "numPhotos": 8,
+        "floor": "bj",
+        "price": 1700,
+        "propertyType": "flat",
+        "operation": "rent",
+        "size": 86,
+        "exterior": false,
+        "rooms": 1,
+        "bathrooms": 1,
+        "address": "Rua Poiais de São Bento, 122",
+        "province": "Lisboa",
+        "municipality": "Misericórdia",
+        "district": "Príncipe Real - São Bento",
+        "country": "pt",
+        "locationId": "0-EU-PT-11-06-061-61-05",
+        "latitude": 38.7111519,
+        "longitude": -9.152372,
+        "showAddress": true,
+        "url": "https://www.idealista.pt/imovel/31946966/",
+        "description": "Available from December 2022. Value negotiable for long term stays. Minimum 4 months preferred. €80 cleaning at check-in. Security deposit. Water, electricity, gas, internet and tv not included (250€/month minimum).",
+        "hasVideo": false,
+        "status": "good",
+        "newDevelopment": false,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8a/62/b1/174375710.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2c/22/0d/174375690.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/6d/2a/bf/174372853.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d3/01/92/174375709.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/88/7f/9f/174375173.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/63/ff/4f/174375711.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/be/cf/ec/174372854.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/bc/58/97/198770746.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "contactName": "MBV",
+          "userType": "private",
+          "contactMethod": "email"
+        },
+        "hasLift": false,
+        "parkingSpace": {
+          "hasParkingSpace": true,
+          "isParkingSpaceIncludedInPrice": true
+        },
+        "priceByArea": 20,
+        "features": {
+          "hasSwimmingPool": false,
+          "hasTerrace": true,
+          "hasAirConditioning": true,
+          "hasBoxRoom": false,
+          "hasGarden": false
+        },
+        "detailedType": {
+          "typology": "flat"
+        },
+        "suggestedTexts": {
+          "subtitle": "Misericórdia, Lisboa",
+          "title": "Flat in Rua Poiais de São Bento, 122"
+        },
+        "hasPlan": false,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "32283041",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/47/31/11/197892150.jpg",
+        "externalReference": "1075",
+        "numPhotos": 14,
+        "floor": "4",
+        "price": 1700,
+        "propertyType": "flat",
+        "operation": "rent",
+        "size": 80,
+        "exterior": false,
+        "rooms": 1,
+        "bathrooms": 1,
+        "address": "Graça",
+        "province": "Lisboa",
+        "municipality": "São Vicente",
+        "district": "Graça",
+        "country": "pt",
+        "locationId": "0-EU-PT-11-06-067-67-03",
+        "latitude": 38.7176,
+        "longitude": -9.1234271,
+        "showAddress": false,
+        "url": "https://www.idealista.pt/imovel/32283041/",
+        "hasVideo": false,
+        "status": "good",
+        "newDevelopment": false,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/47/31/11/197892150.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ca/48/b1/197892287.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/57/06/75/197892187.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/73/e5/70/197892186.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8d/23/06/197892151.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2d/3c/ac/197892258.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2b/8b/9e/197892152.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/30/de/f8/197892278.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/6e/64/5b/197892285.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/3f/a6/e6/197892153.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/89/a2/62/197892154.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/10/8c/71/197892286.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/3b/5f/e7/197892282.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e1/d6/7d/197892259.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "commercialName": "Feelslikehome",
+          "phone1": {
+            "phoneNumber": "218772113",
+            "formattedPhone": "218 77 21 13",
+            "prefix": "351",
+            "phoneNumberForMobileDialing": "+351218772113",
+            "nationalNumber": true
+          },
+          "contactName": "Margarida",
+          "userType": "professional",
+          "contactMethod": "all",
+          "micrositeShortName": "feelslikehome"
+        },
+        "hasLift": true,
+        "priceByArea": 21,
+        "detailedType": {
+          "typology": "flat"
+        },
+        "suggestedTexts": {
+          "subtitle": "São Vicente, Lisboa",
+          "title": "Flat"
+        },
+        "hasPlan": false,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "32345336",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/80/9d/bf/201376185.jpg",
+        "externalReference": "DH269",
+        "numPhotos": 23,
+        "floor": "1",
+        "price": 1750,
+        "propertyType": "flat",
+        "operation": "rent",
+        "size": 83,
+        "exterior": false,
+        "rooms": 2,
+        "bathrooms": 2,
+        "address": "Cruz de Santa Helena",
+        "province": "Lisboa",
+        "municipality": "São Vicente",
+        "district": "São Vicente de Fora",
+        "country": "pt",
+        "locationId": "0-EU-PT-11-06-067-67-01",
+        "latitude": 38.7134829,
+        "longitude": -9.1271145,
+        "showAddress": false,
+        "url": "https://www.idealista.pt/imovel/32345336/",
+        "description": "2 bedroom flat in Alfama for rent Charming 2 bedroom flat in Alfama, tastefully furnished and fully equipped kitchen, with the privilege of 4 balconies and lovely river views. The building was fully recovered, preserving its ancient façade, the quality of materials can be seen inside the flats, where it mixes the modern style with the original charm of the building. The flat is fully furnished and equipped with high-end appliances. Cooktop, combined, hood, electric oven, dishwasher and washing machine, microwave oven, electric boiler, air conditioning hot and cold. It also has double glazing. It is located in the oldest district of Lisbon, with its Moorish origins, here where tradition still lives and breathes every day. Alfama is a very peculiar neighbourhood, resembling an old village not only in appearance but also having a relatively small and close community. The neighbourhood is frequented daily by Portuguese and foreign tourists. It is known for its restaurants and fado houses, as well as for the popular saints´ festivities, especially on the night of Santo António, Whoever lives here will not be able to resist getting involved with the most authentic and traditional of Lisbon. A few steps away from the São Vicente Church and the magnificent viewpoints of Graça, with their beautiful esplanades and enchanting gardens. A few steps away from the tram stations. Surrounded by spectacular viewpoints. The rent does not include services.   Rent conditions: two rents and a deposit, guarantor, minimum contract of one year.",
+        "hasVideo": true,
+        "status": "good",
+        "newDevelopment": false,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/80/9d/bf/201376185.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/7b/98/76/201376154.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/72/ea/88/201376186.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/db/4b/60/201376195.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/03/5e/f1/201376187.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/92/51/4f/201376178.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/10/af/18/201376188.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/6b/57/a5/201376196.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d4/58/21/201376189.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/47/51/e3/201376197.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/72/52/39/201376190.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d1/d3/37/201376141.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d9/c9/59/201376191.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/26/54/19/201376198.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a2/0a/67/201376192.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/75/13/9b/201376199.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/aa/9a/28/201376193.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/58/02/db/201376200.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c7/d4/73/201376201.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b2/07/64/201376142.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/5f/b6/0b/201376194.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c9/35/dd/201376143.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/7b/46/cf/201376205.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "commercialName": "Draft In Homes",
+          "phone1": {
+            "phoneNumber": "218744596",
+            "formattedPhone": "218 74 45 96",
+            "prefix": "351",
+            "phoneNumberForMobileDialing": "+351218744596",
+            "nationalNumber": true
+          },
+          "contactName": "DRAFT-IN HOMES",
+          "userType": "professional",
+          "agencyLogo": "https://st3.idealista.pt/51/d6/d8/draft-in-homes.gif",
+          "contactMethod": "all",
+          "micrositeShortName": "draft-in-homes"
+        },
+        "hasLift": true,
+        "priceByArea": 21,
+        "features": {
+          "hasAirConditioning": true
+        },
+        "detailedType": {
+          "typology": "flat"
+        },
+        "suggestedTexts": {
+          "subtitle": "São Vicente, Lisboa",
+          "title": "Flat in Cruz de Santa Helena"
+        },
+        "hasPlan": true,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "32361621",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/9f/1e/8f/201557872.jpg",
+        "externalReference": "121981142-771",
+        "numPhotos": 23,
+        "price": 1750,
+        "propertyType": "flat",
+        "operation": "rent",
+        "size": 159,
+        "exterior": false,
+        "rooms": 2,
+        "bathrooms": 2,
+        "address": "Avenida da Mague no number",
+        "province": "Lisboa",
+        "municipality": "Alverca do Ribatejo e Sobralinho",
+        "district": "Malvarosa",
+        "country": "pt",
+        "locationId": "0-EU-PT-11-14-013-13-04",
+        "latitude": 38.8903362,
+        "longitude": -9.0458683,
+        "showAddress": true,
+        "url": "https://www.idealista.pt/imovel/32361621/",
+        "description": "Welcome to this new apartment, T2 in Malvarosa in Alverca, The property is close to the Basic School, Secondary School, Supermarkets, the A1, A9, A10 motorway and the CP station. Close to all local shops and services. The property is new and has: - Large living room - fully equipped kitchen. - two bedrooms with wardrobe and balcony, one of them Suite. Owner's conditions: - 2 rents - 2 rents for security deposit - security deposit for household appliances and heat pump - Guarantor - Presentation of proof of salary receipts, proof of bank statements, IRS declaration and declaration of employment effectiveness.",
+        "hasVideo": false,
+        "status": "good",
+        "firstActivationDate": 1671701673000,
+        "newDevelopment": false,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/9f/1e/8f/201557872.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/98/f3/89/201557873.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/79/84/03/201557874.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/44/d2/c5/201557915.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/1a/40/51/201557916.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8c/90/dd/201557925.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f5/4b/c5/201557926.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a2/ea/7e/201557917.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/97/0b/f0/201557927.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2a/00/5c/201557918.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/16/be/24/201557919.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f7/cf/31/201557920.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/bd/f0/8d/201557921.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/da/2c/16/201557922.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/4f/cd/77/201557923.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/85/a1/2e/201557924.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/32/14/e3/201557935.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8c/ff/03/201557936.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b7/05/a4/201557937.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/9d/1c/14/201557938.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/43/8f/84/201557939.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/21/d8/13/201557940.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8c/23/a6/201557941.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "commercialName": "RE/MAX Vantagem Park",
+          "phone1": {
+            "phoneNumber": "218763531",
+            "formattedPhone": "218 76 35 31",
+            "prefix": "351",
+            "phoneNumberForMobileDialing": "+351218763531",
+            "nationalNumber": true
+          },
+          "contactName": "Vantagem Park",
+          "userType": "professional",
+          "agencyLogo": "https://st3.idealista.pt/43/3f/6c/remax-vantagem-park.gif",
+          "contactMethod": "all",
+          "micrositeShortName": "remax-vantagem-park"
+        },
+        "priceByArea": 11,
+        "detailedType": {
+          "typology": "flat"
+        },
+        "suggestedTexts": {
+          "subtitle": "Alverca do Ribatejo e Sobralinho, Vila Franca de Xira",
+          "title": "Flat in Avenida da Mague no number"
+        },
+        "hasPlan": false,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "32351949",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/70/25/56/201048537.jpg",
+        "externalReference": "VR_031__T1_Alcabideche",
+        "numPhotos": 38,
+        "floor": "bj",
+        "price": 1750,
+        "propertyType": "flat",
+        "operation": "rent",
+        "size": 104,
+        "exterior": false,
+        "rooms": 1,
+        "bathrooms": 2,
+        "address": "Tv. Girassol 111",
+        "province": "Lisboa",
+        "municipality": "Alcabideche",
+        "district": "Alvide - Abuxarda",
+        "country": "pt",
+        "locationId": "0-EU-PT-11-05-001-01-02",
+        "latitude": 38.7124733,
+        "longitude": -9.4189102,
+        "showAddress": false,
+        "url": "https://www.idealista.pt/imovel/32351949/",
+        "description": "Excellent T1 completely refurbished with 104 m2 of gross floor area, located in a quiet condominium in Fontaínhas in the center of Cascais. The apartment has private lift access to the garage and storage room. It has a living room, astonishing suite, a social bathroom and a fully equipped kitchen, as well as two terraces of approximately 30 square meters. It has two parking spaces, one of them in the box garage and the other outside the condominium as we can see in the photographs. Located in an excellent area of Cascais, the condominium is 2/3 minutes driving distance from the center of Cascais. In the surrounding area we find several national and international schools. There are also gyms, golf courses, tennis and a wide range of services. Easy access to the Marginal and 2 minutes driving distance from the highways A5 and A16. Ten minutes drive from the center of Sintra, 30 minutes from Lisbon and Humberto Delgado Airport.",
+        "hasVideo": true,
+        "status": "good",
+        "newDevelopment": false,
+        "favourite": false,
+        "newProperty": false,
+        "highlightComment": "Brand new T1 with 2  terraces and 2 WC- Closed condominium- Cascais-Fontaínhas",
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/70/25/56/201048537.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/9d/dd/f2/201048532.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/28/79/79/201048524.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8d/9a/49/201048555.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/76/a3/48/201048534.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/bd/30/f1/201048161.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/da/70/31/201048556.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d7/a6/08/201048563.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/fc/3a/ee/201048547.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/0d/e0/24/201048540.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b2/6a/83/201048565.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/56/e7/a4/201048542.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d6/74/9f/201048523.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/50/f7/8b/201048474.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/de/f0/6e/201048533.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e9/a4/bf/201048545.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ba/44/b2/201048557.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/11/44/9d/201048160.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/72/7a/2b/201048564.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d8/70/bf/201048162.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/22/9b/72/201048539.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b6/76/e0/201048549.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8b/bd/66/201048559.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/35/73/aa/201048566.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f5/04/92/201048568.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/31/0e/51/201048541.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/cc/f6/f0/201048548.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e9/95/9e/201048560.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e6/70/53/201048561.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ce/76/8a/201048577.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a5/e3/ae/201048163.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c0/bf/a3/201048567.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/7b/48/63/201048575.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f6/cf/d6/201048546.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2e/c1/bc/201048558.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/93/30/ff/201048538.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/aa/c8/31/201048562.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/5d/79/51/201049599.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "commercialName": "Empire Property Consulting & Investment",
+          "phone1": {
+            "phoneNumber": "218740731",
+            "formattedPhone": "218 74 07 31",
+            "prefix": "351",
+            "phoneNumberForMobileDialing": "+351218740731",
+            "nationalNumber": true
+          },
+          "contactName": "Vasco",
+          "userType": "professional",
+          "contactMethod": "all",
+          "micrositeShortName": "empire-real-estate"
+        },
+        "hasLift": true,
+        "parkingSpace": {
+          "hasParkingSpace": true,
+          "isParkingSpaceIncludedInPrice": true
+        },
+        "priceByArea": 17,
+        "features": {
+          "hasTerrace": true,
+          "hasAirConditioning": true,
+          "hasBoxRoom": true,
+          "hasGarden": true
+        },
+        "detailedType": {
+          "typology": "flat"
+        },
+        "suggestedTexts": {
+          "subtitle": "Alcabideche, Cascais",
+          "title": "Flat in Tv. Girassol 111"
+        },
+        "hasPlan": true,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": true,
+        "visualHighlight": true,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "32261439",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d8/e1/bd/196862483.jpg",
+        "externalReference": "LX90285GR",
+        "numPhotos": 21,
+        "floor": "5",
+        "price": 1750,
+        "propertyType": "flat",
+        "operation": "rent",
+        "size": 105,
+        "exterior": false,
+        "rooms": 3,
+        "bathrooms": 2,
+        "address": "Carnide",
+        "province": "Lisboa",
+        "municipality": "Carnide",
+        "country": "pt",
+        "locationId": "0-EU-PT-11-06-011-11",
+        "latitude": 38.7647401,
+        "longitude": -9.1901104,
+        "showAddress": false,
+        "url": "https://www.idealista.pt/imovel/32261439/",
+        "description": "T3 Parque Colombo with garage in a condominium with swimming pool. Condominium with private pool, tennis court, 1 parking space, great surroundings of green spaces, 24hs concierge and spacious storage room. You can enjoy terraces, children's playground, cafes, restaurants, laundry 3 bedroom apartment with 105m2, built in 1999, building with two elevators, strategically located next to the main road and road accesses. Very bright apartment, with south and west sun exposure, living room with balcony, where you can enjoy a wonderful view in a beautiful late afternoon. Fully equipped kitchen. The apartment has separation between the social and private area (floor of this area in Jatobá). Three bedrooms, two with fitted wardrobes and one en-suite with dressing room, whirlpool bath. Two full bathrooms. The windows are double glazed. Bus stop in front of the condominium (778 from Carris) and the Carnide metro at 600m. Close to Colombo Shopping Center and two minutes from Continente Telheiras Supermarket and 5 minutes from Lidl supermarket. In terms of education, excellent public and private schools (Externato da Luz, Colégio Militar and Escola Secundária Virgílio Ferreira and European University). In terms of health, it has Hospital da Luz, Lusíadas and Santa Maria as a reference. Don't miss the opportunity to live in comfort and tranquility, in an urbanization with ample green spaces, a sports area that will allow a unique lifestyle. Schedule your visit now!",
+        "hasVideo": true,
+        "status": "good",
+        "newDevelopment": false,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d8/e1/bd/196862483.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/9a/44/3a/196862546.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/04/cb/40/196862484.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/6f/d7/21/196862547.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c1/07/bc/196862532.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/83/d2/36/196862548.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/81/49/12/196862540.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/55/4b/e6/196862549.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2c/d4/bf/196862555.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/4c/a5/fa/196862550.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/56/8f/8c/196862565.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/30/a8/ea/196862551.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/5a/c0/11/196862552.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ee/06/f7/196862541.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/74/8c/3b/196862556.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f3/f2/68/196862553.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/22/67/e9/196862542.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/3f/4d/5e/196862554.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/61/cc/bf/196862543.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/24/07/56/196862575.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e6/dd/3e/196862557.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "commercialName": "Easygest Lisboa",
+          "phone1": {
+            "phoneNumber": "265145647",
+            "formattedPhone": "265 14 56 47",
+            "prefix": "351",
+            "phoneNumberForMobileDialing": "+351265145647",
+            "nationalNumber": true
+          },
+          "contactName": "Easygest",
+          "userType": "professional",
+          "agencyLogo": "https://st3.idealista.pt/11/25/b7/easygest-lisboa.gif",
+          "contactMethod": "all",
+          "micrositeShortName": "easygest-lisboa"
+        },
+        "hasLift": true,
+        "parkingSpace": {
+          "hasParkingSpace": true,
+          "isParkingSpaceIncludedInPrice": true
+        },
+        "priceByArea": 17,
+        "features": {
+          "hasSwimmingPool": true,
+          "hasAirConditioning": false,
+          "hasBoxRoom": true,
+          "hasGarden": true
+        },
+        "detailedType": {
+          "typology": "flat"
+        },
+        "suggestedTexts": {
+          "subtitle": "Carnide, Lisboa",
+          "title": "Flat"
+        },
+        "hasPlan": false,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "32295666",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/53/41/e5/128332431.jpg",
+        "externalReference": "Agualva T3",
+        "numPhotos": 16,
+        "price": 1750,
+        "propertyType": "chalet",
+        "operation": "rent",
+        "size": 100,
+        "exterior": false,
+        "rooms": 3,
+        "bathrooms": 2,
+        "address": "Rua José Relvas",
+        "province": "Lisboa",
+        "municipality": "Agualva e Mira - Sintra",
+        "district": "Agualva",
+        "country": "pt",
+        "locationId": "0-EU-PT-11-11-022-22-04",
+        "latitude": 38.7707308,
+        "longitude": -9.2946296,
+        "showAddress": false,
+        "url": "https://www.idealista.pt/imovel/32295666/",
+        "description": "Come and see this fabulous set of 3 + 2 bedroom villas completely remodeled Next to Largo da República in Agualva Cacem in Total property. Within walking distance of public transport, such as trains and buses. The two Houses have been completely remodeled Both have a very pleasant outdoor space The 3 bedroom villa with 100m2 housing + 121m2 Backyard comprises: - common room - 23 m2 - kitchen - 10 m2 - toilet 1 - 3.5 m2 - Bedroom 1 - 12 m2 - Room 2– 11 m2 - Suite / mezzanine - 10 m2 - WC Suite - 3 m2 - Patio - 36m2 The 2 bedroom house with 75m2 housing + 36m2 Backyard comprises: - common room and kitchen - 16 + 9.50 m2 - bathroom 1 - 4 m2 - Bedroom 1 - 12 m2 - Bedroom / mezzanine - 10 m2 - Land - 96 m2 The bedrooms have fitted wardrobes. The kitchen will be fully equipped with hob, extractor fan, water heater, fridge, dishwasher and washing machine built-in. Mark your visit!",
+        "hasVideo": false,
+        "status": "good",
+        "newDevelopment": false,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/53/41/e5/128332431.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/fc/51/dd/128332421.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ed/c6/90/128332407.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/3a/2e/13/128332408.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/61/2e/65/128332428.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/be/5c/14/128332425.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/96/33/c0/128332423.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/16/75/1f/128332406.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/6d/e6/7c/128332424.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/45/a2/fa/128332422.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8e/a8/ff/128332426.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/48/93/bd/128332420.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/08/3d/cf/128332430.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/58/39/99/128332427.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2b/b9/b6/128332429.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/fa/48/3c/128332432.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "commercialName": "JP Properties",
+          "phone1": {
+            "phoneNumber": "218744658",
+            "formattedPhone": "218 74 46 58",
+            "prefix": "351",
+            "phoneNumberForMobileDialing": "+351218744658",
+            "nationalNumber": true
+          },
+          "contactName": "JP",
+          "userType": "professional",
+          "contactMethod": "all",
+          "micrositeShortName": "jp-properties"
+        },
+        "parkingSpace": {
+          "hasParkingSpace": true,
+          "isParkingSpaceIncludedInPrice": true
+        },
+        "priceByArea": 18,
+        "features": {
+          "hasTerrace": true,
+          "hasAirConditioning": false,
+          "hasGarden": true
+        },
+        "detailedType": {
+          "typology": "chalet",
+          "subTypology": "semidetachedHouse"
+        },
+        "suggestedTexts": {
+          "subtitle": "Agualva e Mira - Sintra, Sintra",
+          "title": "Semi-detached house in Rua José Relvas"
+        },
+        "hasPlan": true,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "32358318",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a5/ca/54/201408276.jpg",
+        "externalReference": "120991440-584",
+        "numPhotos": 11,
+        "price": 1750,
+        "propertyType": "flat",
+        "operation": "rent",
+        "size": 108,
+        "exterior": false,
+        "rooms": 1,
+        "bathrooms": 2,
+        "address": "Rua Cerrado do Cebolo no number",
+        "province": "Lisboa",
+        "municipality": "Cascais e Estoril",
+        "district": "Cascais",
+        "country": "pt",
+        "neighborhood": "Aldeia de Juzo - Charneca",
+        "locationId": "0-EU-PT-11-05-008-08-02-006",
+        "latitude": 38.7354598,
+        "longitude": -9.4543529,
+        "showAddress": true,
+        "url": "https://www.idealista.pt/imovel/32358318/",
+        "description": "1 bedroom apartment in a condominium and excellent location. A few minutes walk from Casa da Guia. Spacious balcony with sea view. Equipped kitchen. Condominium with swimming pool. Doorman and 24h security. A parking space.",
+        "hasVideo": false,
+        "status": "good",
+        "newDevelopment": false,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a5/ca/54/201408276.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/5c/49/ec/201408278.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/82/0e/bd/201408281.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2d/58/02/201408283.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/bb/58/f2/201408285.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/cf/33/41/201408287.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d1/5d/e8/201408289.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/02/70/8c/201408291.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/67/d8/08/201408293.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/43/d3/a7/201408295.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/18/6e/c6/201408297.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "commercialName": "LATINA II",
+          "phone1": {
+            "phoneNumber": "218744026",
+            "formattedPhone": "218 74 40 26",
+            "prefix": "351",
+            "phoneNumberForMobileDialing": "+351218744026",
+            "nationalNumber": true
+          },
+          "contactName": "Latina II",
+          "userType": "professional",
+          "agencyLogo": "https://st3.idealista.pt/da/93/e4/latina-ii.gif",
+          "contactMethod": "all",
+          "micrositeShortName": "latina-ii"
+        },
+        "priceByArea": 16,
+        "detailedType": {
+          "typology": "flat"
+        },
+        "suggestedTexts": {
+          "subtitle": "Aldeia de Juzo - Charneca, Cascais",
+          "title": "Flat in Rua Cerrado do Cebolo no number"
+        },
+        "hasPlan": true,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "31991709",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/4e/d9/98/177641725.jpg",
+        "numPhotos": 29,
+        "floor": "3",
+        "price": 1750,
+        "propertyType": "flat",
+        "operation": "rent",
+        "size": 115,
+        "exterior": false,
+        "rooms": 3,
+        "bathrooms": 2,
+        "address": "Alameda António Sérgio",
+        "province": "Lisboa",
+        "municipality": "Santa Clara",
+        "country": "pt",
+        "locationId": "0-EU-PT-11-06-064-64",
+        "latitude": 38.7811968,
+        "longitude": -9.1620461,
+        "showAddress": false,
+        "url": "https://www.idealista.pt/imovel/31991709/",
+        "description": "We rent T2 apartment with sunroom, swimming pool and box for 2 cars - 3 bedrooms - 2 WC - Equipped kitchen - Garage - 4 minutes walk from Jardim da Quinta de Santa Clara / Jardim da Ameixoeira - 1 minute walk from Santos Pharmacy - 12 minutes drive from the Airport - 8 minutes drive from Pingo Doce Telheiras - 3 minutes walk from SPAR Lumiar - 4 minutes walk from MEU SUPER Ameixoeira - 4 minutes walk from the Ameixoeira Metro Buses: 40B, 703 Payment of 3 rents (The first, the last and deposit) Minimum lease 1 year. Available for immediate entry For more information, contact us!",
+        "hasVideo": false,
+        "status": "good",
+        "newDevelopment": false,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/4e/d9/98/177641725.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ef/d2/76/177641724.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f6/c4/27/177641679.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/17/5e/19/177641721.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/9c/c8/d8/177641682.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d6/74/aa/177641720.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/68/3f/36/177641707.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e5/2a/4a/177641701.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/42/e8/41/177641708.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c1/ff/1f/177641716.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/73/3b/7d/177641727.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/60/55/62/177641706.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/bd/98/bc/177641719.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b0/37/cf/177641718.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c5/e6/2c/177641723.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/68/52/a6/177641709.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/71/21/20/177641726.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/df/be/9a/177641722.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/bb/cd/a0/177641728.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/89/52/bc/177641717.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/44/3c/3d/177641680.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b3/c0/e8/177641681.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a9/be/f9/193051866.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/53/eb/0a/193053769.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/73/63/c6/193053408.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d8/c4/3f/193053785.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/1b/6a/3e/193053729.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/1d/eb/c0/193053735.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8d/25/97/177641710.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "commercialName": "Agente Imobiliario",
+          "phone1": {
+            "phoneNumber": "218763241",
+            "formattedPhone": "218 76 32 41",
+            "prefix": "351",
+            "phoneNumberForMobileDialing": "+351218763241",
+            "nationalNumber": true
+          },
+          "contactName": "Ptkeys",
+          "userType": "professional",
+          "contactMethod": "all",
+          "micrositeShortName": "ptgoldenvisa"
+        },
+        "hasLift": true,
+        "parkingSpace": {
+          "hasParkingSpace": true,
+          "isParkingSpaceIncludedInPrice": true
+        },
+        "priceByArea": 15,
+        "features": {
+          "hasSwimmingPool": true,
+          "hasAirConditioning": false
+        },
+        "detailedType": {
+          "typology": "flat"
+        },
+        "suggestedTexts": {
+          "subtitle": "Santa Clara, Lisboa",
+          "title": "Flat in Alameda António Sérgio"
+        },
+        "hasPlan": false,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "31850110",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/7c/20/e5/198806656.jpg",
+        "externalReference": "T3-A-LM-2205",
+        "numPhotos": 6,
+        "floor": "14",
+        "price": 1750,
+        "propertyType": "flat",
+        "operation": "rent",
+        "size": 162,
+        "exterior": false,
+        "rooms": 3,
+        "bathrooms": 2,
+        "address": "Santa Clara",
+        "province": "Lisboa",
+        "municipality": "Santa Clara",
+        "country": "pt",
+        "locationId": "0-EU-PT-11-06-064-64",
+        "latitude": 38.781332,
+        "longitude": -9.1609962,
+        "showAddress": false,
+        "url": "https://www.idealista.pt/imovel/31850110/",
+        "description": "- Ideal apartment for 3 (three) students or displaced professionals. - 4 rooms fully furnished, fully equipped kitchen located in the center of Santa Clara. , 200 m from the metro station 'Santa Clara' LEASE CONDITIONS: - TENANT(S) with financial conditions qualified and duly proven according to the recommendations of the (BP) with the value of the rent; - GUARANTOR(S) with financial conditions framed with the value of the income. - 1 month rent + 2 months deposit; - T3 - 4 Rooms - AU - 140.26 m2 - LU - 185 by CML.",
+        "hasVideo": false,
+        "status": "good",
+        "newDevelopment": false,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/7c/20/e5/198806656.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/88/59/cb/198806659.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/9a/a8/6e/198806622.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/1a/22/b9/198806662.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b8/7e/cc/198806664.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/5f/7a/c0/198806623.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "commercialName": "Gomes & Mendes, Soc. Med. Imob., Lda.",
+          "phone1": {
+            "phoneNumber": "218744028",
+            "formattedPhone": "218 74 40 28",
+            "prefix": "351",
+            "phoneNumberForMobileDialing": "+351218744028",
+            "nationalNumber": true
+          },
+          "contactName": "GOMES & MENDES - SMI., LDA.",
+          "userType": "professional",
+          "agencyLogo": "https://st3.idealista.pt/35/38/0a/leonelmendesgomesemendespt.gif",
+          "contactMethod": "all",
+          "micrositeShortName": "leonelmendesgomesemendespt"
+        },
+        "hasLift": true,
+        "priceByArea": 11,
+        "features": {
+          "hasAirConditioning": true
+        },
+        "detailedType": {
+          "typology": "flat"
+        },
+        "suggestedTexts": {
+          "subtitle": "Santa Clara, Lisboa",
+          "title": "Flat"
+        },
+        "hasPlan": false,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "32353730",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f6/03/45/201166377.jpg",
+        "numPhotos": 22,
+        "floor": "2",
+        "price": 1750,
+        "propertyType": "flat",
+        "operation": "rent",
+        "size": 120,
+        "exterior": false,
+        "rooms": 3,
+        "bathrooms": 2,
+        "address": "Rua António Maria Baptista, 2",
+        "province": "Lisboa",
+        "municipality": "Sacavém e Prior Velho",
+        "country": "pt",
+        "locationId": "0-EU-PT-11-07-027-27",
+        "latitude": 38.7988532,
+        "longitude": -9.1109071,
+        "showAddress": true,
+        "url": "https://www.idealista.pt/imovel/32353730/",
+        "description": "DEAR CONSULTANT, YOUR CUSTOMER MUST PAY FOR YOUR SERVICES. To rent this property you must present: - IRS 2021 - 6 Last pay slips - Identification Rental conditions: - 3 year registered contract - With the signature of the contract delivery of 2 rents + 2 rents deposit (total 4 rents) - Delivery of the keys on the day of the beginning of the contract *Visits January 7, 2023 by appointment *Apartment available for entry on the 15th of January.",
+        "hasVideo": false,
+        "status": "good",
+        "newDevelopment": false,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f6/03/45/201166377.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/52/75/fc/201166371.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/01/ac/f8/201166382.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/7d/5d/9a/201166376.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/76/07/67/201166322.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d0/aa/61/201166387.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/0d/60/7b/201166364.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/88/5d/e3/201166378.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f8/7c/d2/201166323.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a9/ec/4c/201166405.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/7f/11/6f/201166379.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d0/62/e1/201166363.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/70/64/81/201166372.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/56/48/df/201166380.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d4/13/ac/201166374.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/30/8b/33/201166324.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ac/11/64/201166386.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b2/5c/86/201166385.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/11/2e/ab/201166395.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/0c/9d/2d/201166388.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ed/cd/8e/201166373.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f7/85/3b/201166381.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "contactName": "Gonçalo",
+          "userType": "private",
+          "contactMethod": "email"
+        },
+        "hasLift": true,
+        "parkingSpace": {
+          "hasParkingSpace": true,
+          "isParkingSpaceIncludedInPrice": true
+        },
+        "priceByArea": 15,
+        "features": {
+          "hasSwimmingPool": false,
+          "hasTerrace": false,
+          "hasAirConditioning": false,
+          "hasBoxRoom": false,
+          "hasGarden": true
+        },
+        "detailedType": {
+          "typology": "flat"
+        },
+        "suggestedTexts": {
+          "subtitle": "Sacavém e Prior Velho, Loures",
+          "title": "Flat in Rua António Maria Baptista, 2"
+        },
+        "hasPlan": false,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "31822253",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/5d/3b/5c/169465010.jpg",
+        "numPhotos": 27,
+        "floor": "2",
+        "price": 1750,
+        "propertyType": "flat",
+        "operation": "rent",
+        "size": 111,
+        "exterior": false,
+        "rooms": 2,
+        "bathrooms": 2,
+        "address": "Rua Professor Simões Raposo, 15",
+        "province": "Lisboa",
+        "municipality": "Lumiar",
+        "district": "Telheiras",
+        "country": "pt",
+        "locationId": "0-EU-PT-11-06-018-18-06",
+        "latitude": 38.7620004,
+        "longitude": -9.1744444,
+        "showAddress": true,
+        "url": "https://www.idealista.pt/imovel/31822253/",
+        "description": "Charming T2 with parking located in Parque dos Príncipes, in Telheiras. Located in a quality building whose condominium is well managed, this tastefully and soberly furnished apartment offers excellent conditions to enjoy the neighborhood with comfort and tranquility. Very well divided, it comprises a hall, kitchen, living/dining room, 2 bedrooms (one en-suite) and a complete bathroom. It is fully equipped with all types of kitchen machines. It has central heating and air conditioning. Located near the important access roads Eixo Norte-Sul and 2ª circular. Metro station within a 10-minute walk. Bike path 200 meters away. Finally, mention that it is oriented towards a nice green space, which conveys a very friendly atmosphere.",
+        "hasVideo": false,
+        "status": "good",
+        "newDevelopment": false,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/5d/3b/5c/169465010.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2e/d4/c6/169465136.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/83/2a/f3/169050997.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/72/fd/d3/169051156.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/eb/60/99/169051349.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b6/43/a9/169051722.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/df/77/7b/169049027.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b6/52/f6/169051888.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/fd/b8/de/169051986.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/61/11/41/169049028.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/55/f6/2f/169051683.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/75/ea/33/169052391.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/82/1a/46/169052641.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/47/24/90/169053444.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b0/32/de/169053283.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/45/ee/00/169049036.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/4d/2e/9b/169053125.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/84/e7/9d/169053035.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/13/09/39/169053036.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/3a/d1/5a/169053206.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/04/a5/8c/169053039.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/1f/31/5a/169053041.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d3/ce/5c/169053048.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/96/01/b1/169053095.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/26/ff/9a/169053096.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ea/6a/9e/169053074.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d2/e1/7c/169053075.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "phone1": {
+            "phoneNumber": "963788175",
+            "formattedPhone": "963 78 81 75",
+            "prefix": "351",
+            "phoneNumberForMobileDialing": "+351963788175",
+            "nationalNumber": true
+          },
+          "contactName": "Joao",
+          "userType": "private",
+          "contactMethod": "all"
+        },
+        "hasLift": true,
+        "parkingSpace": {
+          "hasParkingSpace": true,
+          "isParkingSpaceIncludedInPrice": true
+        },
+        "priceByArea": 16,
+        "features": {
+          "hasSwimmingPool": false,
+          "hasTerrace": false,
+          "hasAirConditioning": true,
+          "hasBoxRoom": false,
+          "hasGarden": false
+        },
+        "detailedType": {
+          "typology": "flat"
+        },
+        "suggestedTexts": {
+          "subtitle": "Lumiar, Lisboa",
+          "title": "Flat in Rua Professor Simões Raposo, 15"
+        },
+        "hasPlan": false,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "32302872",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/a1/88/b9/199060786.jpg",
+        "externalReference": "1016",
+        "numPhotos": 27,
+        "floor": "1",
+        "price": 1750,
+        "propertyType": "flat",
+        "operation": "rent",
+        "size": 119,
+        "exterior": false,
+        "rooms": 2,
+        "bathrooms": 2,
+        "address": "Bairro do Rosário",
+        "province": "Lisboa",
+        "municipality": "Cascais e Estoril",
+        "district": "Cascais",
+        "country": "pt",
+        "neighborhood": "Bairro do Rosário",
+        "locationId": "0-EU-PT-11-05-008-08-02-008",
+        "latitude": 38.7034277,
+        "longitude": -9.4394618,
+        "showAddress": false,
+        "url": "https://www.idealista.pt/imovel/32302872/",
+        "description": "Excellent T2, refurbished, inserted in one of the noble areas of Cascais, in Bairro do Rosário, in front of the *Nossa Senhora do Rosário* school. Surrounding green spaces, schools, high school, transport and other services at the door and just a 10-minute walk away on the cycle path. Main highlight for the refurbishment, the state of conservation and the brightness throughout the property. Large entrance hall with storage. Room with about 26m2 with lots of light, fireplace and air conditioning. Fully equipped kitchen, new and semi-new appliances, all electric, without gas. Social toilet, complete with shower, between the kitchen and the living room. 2 bedrooms, both with fitted wardrobes. Full bathroom with shower. It also offers 1 parking space and a storage room. Excellent opportunity to find your *Home Sweet Home* here, even before Christmas arrives! We will be happy to accompany you on a visit! *WE DO NOT ESTABLISH ANY TYPE OF SHARING* *User license n. 75 of.",
+        "hasVideo": false,
+        "status": "good",
+        "newDevelopment": false,
+        "priceDropValue": 100,
+        "dropDate": 1669991036000,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/a1/88/b9/199060786.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/9e/cc/b0/199060891.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/9d/88/40/198904089.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/5e/37/44/198904020.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ae/20/93/198904078.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/56/d6/12/198904046.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/50/3e/c5/198904018.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/99/d4/cf/198904075.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/74/db/3d/198904068.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/6c/06/87/198904076.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/df/05/1e/198904083.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/1d/cd/b3/198904091.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/de/72/41/198904071.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/36/7a/f6/198904097.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/eb/08/e7/198904115.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/24/7c/e1/198904090.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/6c/82/f0/198904048.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b8/4e/70/198904070.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/dc/a9/b1/198904117.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/19/a8/21/198904096.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2d/58/fa/198904116.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/3d/af/31/198904072.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ca/4e/25/198904106.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/fc/7e/5c/198904107.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/75/0e/47/198904118.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/3e/a4/1e/198904077.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/da/41/bd/198904092.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "commercialName": "casas matuto",
+          "phone1": {
+            "phoneNumber": "218740642",
+            "formattedPhone": "218 74 06 42",
+            "prefix": "351",
+            "phoneNumberForMobileDialing": "+351218740642",
+            "nationalNumber": true
+          },
+          "contactName": "João",
+          "userType": "professional",
+          "contactMethod": "all",
+          "micrositeShortName": "casas-matuto"
+        },
+        "hasLift": true,
+        "parkingSpace": {
+          "hasParkingSpace": true,
+          "isParkingSpaceIncludedInPrice": true
+        },
+        "priceDropPercentage": 5,
+        "priceByArea": 15,
+        "features": {
+          "hasAirConditioning": true,
+          "hasBoxRoom": true
+        },
+        "detailedType": {
+          "typology": "flat"
+        },
+        "suggestedTexts": {
+          "subtitle": "Bairro do Rosário, Cascais",
+          "title": "Flat"
+        },
+        "hasPlan": false,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "31349241",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/33/a7/39/151705403.jpg",
+        "numPhotos": 24,
+        "floor": "2",
+        "price": 1750,
+        "propertyType": "flat",
+        "operation": "rent",
+        "size": 85,
+        "exterior": false,
+        "rooms": 3,
+        "bathrooms": 2,
+        "address": "Largo Afonso de Albuquerque, 10",
+        "province": "Lisboa",
+        "municipality": "Sintra",
+        "district": "Centro de Sintra - Portela de Sintra ",
+        "country": "pt",
+        "locationId": "0-EU-PT-11-11-028-28-01",
+        "latitude": 38.8012623,
+        "longitude": -9.382923,
+        "showAddress": true,
+        "url": "https://www.idealista.pt/imovel/31349241/",
+        "description": "I'm renting out a beautiful, light & spacious flat (T3) in Sintra, 2min walk from Sintra station, high ceilings, fully furnished (including washer/dryer, pots & pans, plates, cutlery, pillows, bedsheets, etc), 2 bathrooms with a shower and bathtub, everything is electric and modern and 1 balcony. The house has three rooms. The main bedroom has a double bed, large built in wardrobes, the other bedroom has a Juliet balcony, 2 single beds, and large built in wardrobes. The top floor Loft has 2 single beds and a bathroom with a shower. There's plenty of extra space for storage in the eaves as well. 9min walk to Sintra Palace. Double glazed windows. Available from mid December 2022. T3 apartment for rent in Sintra, 2 minutes walk from Sintra station. Full of light, fully furnished (including cutlery, dishes, pillows, etc), 2 bathrooms (one with a bath, one with a shower), 1 double bedroom, 1 loft with 2 beds and 1 bedroom with 2 beds single and balcony. Large built-in cabinets. Fully equipped kitchen and electric.",
+        "hasVideo": false,
+        "status": "good",
+        "newDevelopment": false,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/33/a7/39/151705403.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c2/5b/8a/151705832.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/dc/c7/ef/151705841.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/1c/2a/6f/151705851.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/49/84/d4/151705850.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a7/55/fe/151705847.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8b/cc/26/151705863.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/98/45/d4/151706105.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d2/ac/e0/151705849.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/75/a0/a4/151705405.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b6/38/e7/151706104.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8e/78/8b/151705866.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/1a/7d/12/151705861.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ef/c4/9a/151705848.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/16/ce/b4/151706002.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/88/7b/55/151705860.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/28/c9/0a/151705858.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/1a/31/e5/151706157.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/4c/fa/f5/151705859.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d4/4d/68/151706187.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/58/c5/a3/151705843.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/87/76/03/151705842.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/3d/ab/66/151706001.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ca/b7/5f/151706103.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "contactName": "Maria Vasconcellos",
+          "userType": "private",
+          "contactMethod": "email"
+        },
+        "hasLift": false,
+        "priceByArea": 21,
+        "features": {
+          "hasSwimmingPool": false,
+          "hasTerrace": false,
+          "hasAirConditioning": false,
+          "hasBoxRoom": false,
+          "hasGarden": false
+        },
+        "detailedType": {
+          "typology": "flat"
+        },
+        "suggestedTexts": {
+          "subtitle": "Sintra",
+          "title": "Flat in Largo Afonso de Albuquerque, 10"
+        },
+        "hasPlan": false,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "31525059",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/dd/7f/a9/200872559.jpg",
+        "numPhotos": 32,
+        "price": 1750,
+        "propertyType": "chalet",
+        "operation": "rent",
+        "size": 231,
+        "exterior": false,
+        "rooms": 3,
+        "bathrooms": 3,
+        "address": "Rua Terras da Praia",
+        "province": "Lisboa",
+        "municipality": "Lourinhã e Atalaia",
+        "country": "pt",
+        "locationId": "0-EU-PT-11-08-012-12",
+        "latitude": 39.2521256,
+        "longitude": -9.3334456,
+        "showAddress": false,
+        "url": "https://www.idealista.pt/imovel/31525059/",
+        "description": "Villa N is a two level spacious three bedroom villa with small garden, sea views and condominium pool. It is part of a small condominium in a quiet cul-de-sac (no through road) just 1 mins drive from Areal beach and beach bar, 3 mins drive from Areia Branca beach with its many restaurants including Indian, Italian, Steak, seafood and 5 mins drive from supermarkets & Lourinhã town centre which has all the amenities including post office, banks, health-centre etc. On entering the property, there is a spacious hall with small bathroom, kitchen and living dining straight ahead. The large living/dining area with patio doors leading out to the gardens and terraces – perfect for enjoying alfresco meals and watching the sunsets. The fully-equipped modern kitchen, has everything you could need including washing machine, dishwasher and a breakfast island. There is a terrace off the kitchen which gets the morning sun and is perfect for breakfast.  On the first floor there are three bedrooms: a large master bedroom with double bed and en-suite bathroom. The two other bedrooms have 2 single beds each. All bedrooms have built-in fitted wardrobes and patio doors that open to a balcony. There is a further full bathroom on this level. Parking is available in front of the property on this quiet road. ACCOMODATION  - 3 bedrooms: 1 double, 2 x 2 single beds – sleeps 6 - 3 bathrooms: master ensuite with bath, 1 complete bathroom, 1 cloakroom (toilet and sink) - Condominium pool  FACILITIES - WiFi (Fibre) - Cable TV - Air Conditioning - Fully equipped modern kitchen including: Washing Machine, Microwave, Fridge/Freezer, Dishwasher - Sunloungers / Outside dining & seating AVAILABLE FROM FEBRUARY 2023 Contracts are for a minimum of 12 months Price per month does not include expenses (water, gas, and electricity) User License no. : 40/2010 | Energy Rating: B-.",
+        "hasVideo": false,
+        "status": "good",
+        "newDevelopment": false,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/dd/7f/a9/200872559.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c1/a9/6e/200936494.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b9/6a/80/200936517.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/73/11/7b/200936470.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/5f/e3/76/200936525.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d9/26/f2/200936504.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e5/6d/06/200936469.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/5c/f1/f1/200936512.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/54/76/f2/200936527.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/57/c4/53/200936518.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/52/70/29/200936513.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/29/5e/33/200936519.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b3/48/d1/200936471.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ed/82/8b/200936472.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/23/c0/76/200936536.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/5f/fc/29/200936520.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/27/26/66/200936535.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/7a/6d/9d/200936521.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/7f/57/3c/200936528.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e2/d3/6f/200936511.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e4/fe/29/200936526.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b4/41/b7/200936547.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/57/bb/bb/200936529.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b0/1b/39/200936532.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e3/a2/13/200936514.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f3/52/4e/200936537.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/df/9c/6d/200936545.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/27/4b/0b/200936704.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/60/e6/af/200936795.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/25/02/14/200936796.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/5d/ec/b6/200936779.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ab/7c/57/200936781.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "contactName": "Obrana",
+          "userType": "private",
+          "contactMethod": "email"
+        },
+        "priceByArea": 8,
+        "features": {
+          "hasSwimmingPool": true,
+          "hasTerrace": true,
+          "hasAirConditioning": true,
+          "hasBoxRoom": false,
+          "hasGarden": true
+        },
+        "detailedType": {
+          "typology": "chalet",
+          "subTypology": "semidetachedHouse"
+        },
+        "suggestedTexts": {
+          "subtitle": "Lourinhã e Atalaia, Lourinhã",
+          "title": "Semi-detached house in Rua Terras da Praia"
+        },
+        "hasPlan": false,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": true,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "32355476",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/89/e8/69/201252950.jpg",
+        "numPhotos": 15,
+        "floor": "1",
+        "price": 1750,
+        "propertyType": "flat",
+        "operation": "rent",
+        "size": 100,
+        "exterior": false,
+        "rooms": 4,
+        "bathrooms": 1,
+        "address": "Calçada da Estrela, 151",
+        "province": "Lisboa",
+        "municipality": "Estrela",
+        "district": "Lapa",
+        "country": "pt",
+        "locationId": "0-EU-PT-11-06-060-60-01",
+        "latitude": 38.7126367,
+        "longitude": -9.1575324,
+        "showAddress": true,
+        "url": "https://www.idealista.pt/imovel/32355476/",
+        "description": "Very elegant and well maintained apartment with lots of natural light. Close to the city center and close to public transport. A five-minute walk from Jardim da Estrela. I do not accept agency.",
+        "hasVideo": false,
+        "status": "good",
+        "newDevelopment": false,
+        "priceDropValue": 150,
+        "dropDate": 1671699141000,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/89/e8/69/201252950.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/30/61/45/201252929.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/03/12/9d/201252938.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/bd/23/e0/201252894.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/04/7d/7e/201252939.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ec/66/4e/201252937.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/6f/87/c7/201252955.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/71/d3/e9/201397488.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/10/29/11/201252956.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ed/3f/fe/201397496.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e3/50/e5/201253102.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/55/0b/e6/201253103.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/5b/83/15/201253088.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e3/01/9c/201252922.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/03/6d/90/201253074.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "phone1": {
+            "phoneNumber": "918344671",
+            "formattedPhone": "918 34 46 71",
+            "prefix": "351",
+            "phoneNumberForMobileDialing": "+351918344671",
+            "nationalNumber": true
+          },
+          "contactName": "Diogo Cabeçadas",
+          "userType": "private",
+          "contactMethod": "all"
+        },
+        "hasLift": false,
+        "priceDropPercentage": 8,
+        "priceByArea": 18,
+        "features": {
+          "hasSwimmingPool": false,
+          "hasTerrace": false,
+          "hasAirConditioning": false,
+          "hasBoxRoom": false,
+          "hasGarden": false
+        },
+        "detailedType": {
+          "typology": "flat"
+        },
+        "suggestedTexts": {
+          "subtitle": "Estrela, Lisboa",
+          "title": "Flat in Calçada da Estrela, 151"
+        },
+        "hasPlan": false,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "29799508",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/e3/60/1a/101290618.jpg",
+        "numPhotos": 11,
+        "floor": "5",
+        "price": 1750,
+        "propertyType": "flat",
+        "operation": "rent",
+        "size": 130,
+        "exterior": false,
+        "rooms": 2,
+        "bathrooms": 2,
+        "address": "Avenida Duque de Ávila, 2",
+        "province": "Lisboa",
+        "municipality": "Areeiro",
+        "country": "pt",
+        "locationId": "0-EU-PT-11-06-055-55",
+        "latitude": 38.7354601,
+        "longitude": -9.1408576,
+        "showAddress": true,
+        "url": "https://www.idealista.pt/imovel/29799508/",
+        "description": "Apartment in the Saldanha area with modern design. Fantastic location. T2+1. Entry from the 1st of February.",
+        "hasVideo": false,
+        "status": "good",
+        "newDevelopment": false,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/e3/60/1a/101290618.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/07/08/b9/101290627.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/9b/06/ed/101290628.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/71/4c/83/101290629.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/80/4c/76/101290630.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/63/4e/8f/101290631.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/51/28/40/101290632.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ae/34/b4/101290640.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/1c/65/89/101290641.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/28/9b/97/101290642.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/43/97/da/101992978.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "phone1": {
+            "phoneNumber": "918494215",
+            "formattedPhone": "918 49 42 15",
+            "prefix": "351",
+            "phoneNumberForMobileDialing": "+351918494215",
+            "nationalNumber": true
+          },
+          "contactName": "Pedro",
+          "userType": "private",
+          "contactMethod": "all"
+        },
+        "hasLift": true,
+        "priceByArea": 13,
+        "features": {
+          "hasSwimmingPool": false,
+          "hasTerrace": false,
+          "hasAirConditioning": false,
+          "hasBoxRoom": true,
+          "hasGarden": false
+        },
+        "detailedType": {
+          "typology": "flat"
+        },
+        "suggestedTexts": {
+          "subtitle": "Areeiro, Lisboa",
+          "title": "Flat in Avenida Duque de Ávila, 2"
+        },
+        "hasPlan": true,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "31177194",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/be/74/f3/146221082.jpg",
+        "numPhotos": 16,
+        "floor": "2",
+        "price": 1750,
+        "propertyType": "duplex",
+        "operation": "rent",
+        "size": 160,
+        "exterior": false,
+        "rooms": 4,
+        "bathrooms": 3,
+        "address": "Rua dos Oceanos, 8",
+        "province": "Lisboa",
+        "municipality": "Ericeira",
+        "district": "Ericeira Norte",
+        "country": "pt",
+        "locationId": "0-EU-PT-11-09-006-06-01",
+        "latitude": 38.9855121,
+        "longitude": -9.4174444,
+        "showAddress": true,
+        "url": "https://www.idealista.pt/imovel/31177194/",
+        "description": "Apartment T3 + 1 Duplex recently renovated, fantastic sea view, a few steps from the beach of Ribeira D´Ilhas and Skate Park. Excellent for surfers (Pedra Branca, Reef and Coxos just minutes away). Very quiet area and at the same time close to all services, commerce and the highway. Playground in urbanization. Composition - Hall, living room with fireplace, equipped kitchen, 3 bedrooms with wardrobes, office / living room, 3 bathrooms, central heating, garage for 1 car (box). Generous balconies. Water, electricity and gas expenses borne by the tenant. Hire until 31 May. Following months by arrangement.",
+        "hasVideo": false,
+        "status": "good",
+        "newDevelopment": false,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/be/74/f3/146221082.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f4/eb/0b/146221080.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/12/64/4f/146221081.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ac/e2/c1/146221109.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/43/08/0f/146221106.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a9/55/90/146221083.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b2/1b/e5/146221107.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2f/a7/76/146221111.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a9/81/b7/146221084.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/46/dd/67/146221085.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/51/df/4d/146221112.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/3b/35/17/146221099.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/62/ff/37/146221113.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c5/e7/91/146221100.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8e/31/b0/146221110.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f4/ae/c9/146221108.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "phone1": {
+            "phoneNumber": "911834968",
+            "formattedPhone": "911 83 49 68",
+            "prefix": "351",
+            "phoneNumberForMobileDialing": "+351911834968",
+            "nationalNumber": true
+          },
+          "contactName": "Filipe",
+          "userType": "private",
+          "contactMethod": "all"
+        },
+        "hasLift": false,
+        "parkingSpace": {
+          "hasParkingSpace": true,
+          "isParkingSpaceIncludedInPrice": true
+        },
+        "priceByArea": 11,
+        "features": {
+          "hasSwimmingPool": false,
+          "hasTerrace": false,
+          "hasAirConditioning": false,
+          "hasBoxRoom": false,
+          "hasGarden": false
+        },
+        "detailedType": {
+          "typology": "flat",
+          "subTypology": "duplex"
+        },
+        "suggestedTexts": {
+          "subtitle": "Ericeira, Mafra",
+          "title": "Duplex in Rua dos Oceanos, 8"
+        },
+        "hasPlan": false,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "32262931",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/7a/4a/62/196922316.jpg",
+        "numPhotos": 9,
+        "floor": "2",
+        "price": 1750,
+        "propertyType": "flat",
+        "operation": "rent",
+        "size": 160,
+        "exterior": false,
+        "rooms": 4,
+        "bathrooms": 3,
+        "address": "Avenida Miguel Bombarda, 93",
+        "province": "Lisboa",
+        "municipality": "Avenidas Novas",
+        "district": "Campo Pequeno - Praça de Espanha",
+        "country": "pt",
+        "locationId": "0-EU-PT-11-06-057-57-02",
+        "latitude": 38.7366229,
+        "longitude": -9.1489501,
+        "showAddress": true,
+        "url": "https://www.idealista.pt/imovel/32262931/",
+        "hasVideo": false,
+        "status": "good",
+        "newDevelopment": false,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/7a/4a/62/196922316.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ff/c4/30/196922315.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/1e/1a/e4/196922317.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/6c/71/3b/196922008.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/63/66/54/196922318.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/98/06/f8/196921234.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/a0/47/d0/196922326.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/90/id.pro.pt.image.master/1e/4a/b7/196922325.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/10/ca/6c/196921233.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "phone1": {
+            "phoneNumber": "211950300",
+            "formattedPhone": "211 95 03 00",
+            "prefix": "351",
+            "phoneNumberForMobileDialing": "+351211950300",
+            "nationalNumber": true
+          },
+          "contactName": "rui.monteiro",
+          "userType": "private",
+          "contactMethod": "phone"
+        },
+        "hasLift": true,
+        "priceByArea": 11,
+        "features": {
+          "hasSwimmingPool": false,
+          "hasTerrace": false,
+          "hasAirConditioning": false,
+          "hasBoxRoom": false,
+          "hasGarden": false
+        },
+        "detailedType": {
+          "typology": "flat"
+        },
+        "suggestedTexts": {
+          "subtitle": "Avenidas Novas, Lisboa",
+          "title": "Flat in Avenida Miguel Bombarda, 93"
+        },
+        "hasPlan": false,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      },
+      {
+        "propertyCode": "30850746",
+        "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/35/1c/26/134659407.jpg",
+        "numPhotos": 34,
+        "floor": "2",
+        "price": 1750,
+        "propertyType": "flat",
+        "operation": "rent",
+        "size": 90,
+        "exterior": false,
+        "rooms": 2,
+        "bathrooms": 1,
+        "address": "Rua Jorge Amado no number",
+        "province": "Lisboa",
+        "municipality": "Marvila",
+        "country": "pt",
+        "locationId": "0-EU-PT-11-06-021-21",
+        "latitude": 38.7460915,
+        "longitude": -9.1210323,
+        "showAddress": true,
+        "url": "https://www.idealista.pt/imovel/30850746/",
+        "description": "Apartment with 3 rooms. 2 bedrooms, 1 bathroom, 2 parking, balcony, elevator. Located at Rua Jorge Amado on the 2nd floor of a closed condominium, Condominium Jardim do Armador. with 24-hour security, gardens, swimming pool. Views of the Bela Vista Park and the condominium garden. Available after November 30. It will only be rented with furniture and electric appliances. The other bedroom has 3 wardrobes if you want you can also place a single bed or a desk. Signing the contract six months of rent will be paid in advance, plus three months for deposit.",
+        "hasVideo": false,
+        "status": "good",
+        "newDevelopment": false,
+        "favourite": false,
+        "newProperty": false,
+        "multimedia": {
+          "images": [
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/35/1c/26/134659407.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/27/af/3f/134659408.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/7e/16/17/134659585.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/48/ea/01/134659384.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a3/d9/ff/134659584.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c0/a9/45/134659397.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d1/01/f6/134659396.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/85/ee/28/134659405.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/30/0b/44/134659387.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f6/32/c0/134659420.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/0e/31/52/134659418.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/00/7e/a9/134659410.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b8/54/d1/134659406.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c9/ab/63/134659401.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ed/aa/de/134659386.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a8/23/35/135314716.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/78/61/0b/134659385.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/26/b9/1e/134659404.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/1d/a3/51/134659398.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/7e/72/db/134659400.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/50/0b/47/134659389.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/22/7a/e8/134659417.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/bf/26/31/134659415.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2b/2a/e8/134659422.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/97/21/c4/134659390.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a7/91/9f/134659416.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b9/24/82/134659413.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/36/04/b9/134659409.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/17/cf/8d/134659414.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/5d/ac/97/134659419.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d8/d9/18/134742522.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/32/f6/e7/135703384.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/02/dc/5f/135703377.jpg"
+            },
+            {
+              "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ce/7c/42/135703383.jpg"
+            }
+          ]
+        },
+        "contactInfo": {
+          "phone1": {
+            "phoneNumber": "967449364",
+            "formattedPhone": "967 44 93 64",
+            "prefix": "351",
+            "phoneNumberForMobileDialing": "+351967449364",
+            "nationalNumber": true
+          },
+          "contactName": "Isabel",
+          "userType": "private",
+          "contactMethod": "all"
+        },
+        "hasLift": true,
+        "parkingSpace": {
+          "hasParkingSpace": true,
+          "isParkingSpaceIncludedInPrice": true
+        },
+        "priceByArea": 19,
+        "features": {
+          "hasSwimmingPool": true,
+          "hasTerrace": false,
+          "hasAirConditioning": false,
+          "hasBoxRoom": false,
+          "hasGarden": true
+        },
+        "detailedType": {
+          "typology": "flat"
+        },
+        "suggestedTexts": {
+          "subtitle": "Marvila, Lisboa",
+          "title": "Flat in Rua Jorge Amado no number"
+        },
+        "hasPlan": true,
+        "has3DTour": false,
+        "has360": false,
+        "hasStaging": false,
+        "topNewDevelopment": false,
+        "preferenceHighlight": false,
+        "urgentVisualHighlight": false,
+        "visualHighlight": false,
+        "topHighlight": false,
+        "superTopHighlight": false
+      }
+    ],
+    "total": 391,
+    "totalPages": 10,
+    "actualPage": 10,
+    "itemsPerPage": 40,
+    "numPaginations": 0,
+    "summary": [
+      "Rent",
+      "Homes",
+      "Lisboa province",
+      "Up to 1,750 euros",
+      "80 m² or more"
+    ],
+    "filter": {
+      "locationName": "Lisboa province"
+    },
+    "alertName": "Homes in Lisboa province",
+    "upperRangePosition": 391,
+    "lowerRangePosition": 360,
+    "paginable": true
+  }
