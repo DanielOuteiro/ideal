@@ -1,0 +1,3958 @@
+{
+  "elementList": [
+    {
+      "propertyCode": "32340870",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/1c/25/5f/200528310.jpg",
+      "numPhotos": 7,
+      "floor": "bj",
+      "price": 540,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 80,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Rua Afonso Vaz de Azambuja, 13",
+      "province": "Lisboa",
+      "municipality": "Azambuja",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-03-001-04",
+      "latitude": 39.0722446,
+      "longitude": -8.8731927,
+      "showAddress": true,
+      "url": "https://www.idealista.pt/imovel/32340870/",
+      "description": "15 minutos a pé dos transportes públicos. 5 minutos a pé do centro da vila.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/1c/25/5f/200528310.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a4/d2/6e/200528243.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/77/98/34/200528244.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a1/20/99/200528274.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/84/a2/6f/200528325.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/40/61/c3/200528316.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/52/45/f0/200528335.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "contactName": "Teresa",
+        "userType": "private",
+        "contactMethod": "email"
+      },
+      "hasLift": false,
+      "priceByArea": 7,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": false,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": true
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Azambuja",
+        "title": "Apartamento na Rua Afonso Vaz de Azambuja, 13"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32355877",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/69/3e/07/201261600.jpg",
+      "numPhotos": 2,
+      "price": 600,
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 100,
+      "exterior": false,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Rua Francisco Almeida Grandela, 101",
+      "province": "Lisboa",
+      "municipality": "Aveiras de Cima",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-03-001-03",
+      "latitude": 39.1382994,
+      "longitude": -8.8993085,
+      "showAddress": true,
+      "url": "https://www.idealista.pt/imovel/32355877/",
+      "description": "Excelente casa para alugar. Pessoa responsável e séria.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/69/3e/07/201261600.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/0e/1e/f3/201261594.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "phone1": {
+          "phoneNumber": "966545209",
+          "formattedPhone": "966 54 52 09",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351966545209",
+          "nationalNumber": true
+        },
+        "contactName": "Miguel",
+        "userType": "private",
+        "contactMethod": "all"
+      },
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 6,
+      "features": {
+        "hasSwimmingPool": true,
+        "hasTerrace": false,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Aveiras de Cima, Azambuja",
+        "title": "Moradia independente na Rua Francisco Almeida Grandela, 101"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32330651",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a4/bb/7e/200073545.jpg",
+      "externalReference": "ZTRE-01480",
+      "numPhotos": 7,
+      "price": 680,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 90,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Praceta João Gonçalves Zarco",
+      "province": "Lisboa",
+      "municipality": "Carregado e Cadafais",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-01-020-20",
+      "latitude": 39.0239044,
+      "longitude": -8.9747884,
+      "showAddress": false,
+      "url": "https://www.idealista.pt/imovel/32330651/",
+      "description": "Apartamento T2 com uma área total de 90 m2, no Carregado no Concelho de Alenquer no distrito de Lisboa. O imóvel está localizado próximo à zona de comércio, serviços e escolas. Apartamento situado no 12º andar O imóvel é composto por hall de entrada, sala comum, 2 quartos, instalação sanitária, cozinha e arrecadação. Condições de Arrendamento: 2 rendas + 1 de caução. Para mais informações, contacte-nos. Referência interna ZTRE-01480; visita também disponível por videochamada. Imóvel arrendado nas atuais condições. Imóvel com Equipamentos Placa, forno, esquentador (aquecimento águas sanitárias), exaustor, frigorifico e máquina lavar roupa, assegurado o funcionamento/garantia. Nenhum outro equipamento no imóvel está assegurado o funcionamento.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a4/bb/7e/200073545.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/46/83/93/200073546.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/4e/38/a0/200073547.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/dd/ed/4f/200073548.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/45/97/fc/200073549.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/85/db/11/200073550.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d2/62/9c/200073551.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "commercialName": "Portal Now",
+        "phone1": {
+          "phoneNumber": "218708743",
+          "formattedPhone": "218 70 87 43",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351218708743",
+          "nationalNumber": true
+        },
+        "contactName": "Hipoges Iberia",
+        "userType": "professional",
+        "agencyLogo": "https://st3.idealista.pt/9a/0b/d9/portal-now.gif",
+        "contactMethod": "all",
+        "micrositeShortName": "portal-now"
+      },
+      "hasLift": false,
+      "priceByArea": 8,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": false,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Carregado e Cadafais, Alenquer",
+        "title": "Apartamento na Praceta João Gonçalves Zarco"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32330645",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c6/b0/41/200073493.jpg",
+      "externalReference": "ZTRE-00851",
+      "numPhotos": 7,
+      "price": 720,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 123,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Avenida dos Condes de Azambuja",
+      "province": "Lisboa",
+      "municipality": "Azambuja",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-03-001-04",
+      "latitude": 39.0712147,
+      "longitude": -8.8620299,
+      "showAddress": false,
+      "url": "https://www.idealista.pt/imovel/32330645/",
+      "description": "Apartamento T2 com uma área total de 139 m2, em Azambuja no distrito de Lisboa. O imóvel está localizado próximo à zona de comércio, serviços e escolas. Apartamento situado no 4º andar O imóvel é composto por hall de entrada, sala comum, 2 quartos, instalação sanitária, cozinha e arrecadação. Condições de Arrendamento: 2 rendas + 1 de caução. Para mais informações, contacte-nos. Referência interna ZTRE-00851; visita também disponível por videochamada. Imóvel arrendado nas atuais condições. Imóvel com Equipamentos Placa, forno, esquentador (aquecimento águas sanitárias), exaustor, frigorifico e máquina lavar roupa, assegurado o funcionamento/garantia. Nenhum outro equipamento no imóvel está assegurado o funcionamento.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c6/b0/41/200073493.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/21/ac/4c/200073494.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/5d/d9/a7/200073495.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/0d/ea/cc/200073496.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/07/2a/28/200073497.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/16/3a/81/200073498.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/05/76/ee/200073499.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "commercialName": "Portal Now",
+        "phone1": {
+          "phoneNumber": "218708743",
+          "formattedPhone": "218 70 87 43",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351218708743",
+          "nationalNumber": true
+        },
+        "contactName": "Hipoges Iberia",
+        "userType": "professional",
+        "agencyLogo": "https://st3.idealista.pt/9a/0b/d9/portal-now.gif",
+        "contactMethod": "all",
+        "micrositeShortName": "portal-now"
+      },
+      "hasLift": false,
+      "priceByArea": 6,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": false,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Azambuja",
+        "title": "Apartamento na Avenida dos Condes de Azambuja"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32330658",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/77/fd/bc/200073605.jpg",
+      "externalReference": "ZTRE-04299",
+      "numPhotos": 7,
+      "price": 720,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 99,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Rua do Brandão",
+      "province": "Lisboa",
+      "municipality": "Alenquer",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-01-019-19",
+      "latitude": 39.0462007,
+      "longitude": -9.0048525,
+      "showAddress": false,
+      "url": "https://www.idealista.pt/imovel/32330658/",
+      "description": "Apartamento T2 com uma área total de 97 m2, no Quinta do Brandão no Concelho de Alenquer no distrito de Lisboa. O imóvel está localizado próximo à zona de comércio, serviços e escolas. Apartamento situado no 5º andar O imóvel é composto por hall de entrada, sala comum, 2 quartos, 1 instalação sanitária, cozinha e arrecadação no sotão. Condições de Arrendamento: 2 rendas + 1 de caução. Para mais informações, contacte-nos. Referência interna ZTRE-04299; visita também disponível por videochamada. Imóvel arrendado nas atuais condições. Os equipamentos no imovel não esta assegurado o funcionamento/garantia. (S/ Obras e equipamentos).",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/77/fd/bc/200073605.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b9/eb/3e/200073606.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b8/98/41/200073607.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/bf/12/35/200073608.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/03/93/5a/200073609.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8a/75/bc/200073610.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/40/b6/1d/200073611.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "commercialName": "Portal Now",
+        "phone1": {
+          "phoneNumber": "218708743",
+          "formattedPhone": "218 70 87 43",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351218708743",
+          "nationalNumber": true
+        },
+        "contactName": "Hipoges Iberia",
+        "userType": "professional",
+        "agencyLogo": "https://st3.idealista.pt/9a/0b/d9/portal-now.gif",
+        "contactMethod": "all",
+        "micrositeShortName": "portal-now"
+      },
+      "hasLift": false,
+      "priceByArea": 7,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": false,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alenquer",
+        "title": "Apartamento na Rua do Brandão"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32330648",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/72/1e/3a/200073516.jpg",
+      "externalReference": "ZTRE-00855",
+      "numPhotos": 8,
+      "price": 720,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 123,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Avenida dos Condes de Azambuja",
+      "province": "Lisboa",
+      "municipality": "Azambuja",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-03-001-04",
+      "latitude": 39.0735484,
+      "longitude": -8.8631451,
+      "showAddress": false,
+      "url": "https://www.idealista.pt/imovel/32330648/",
+      "description": "Apartamento T3 com uma área total de 138 m2, em Azambuja no distrito de Lisboa. O imóvel está localizado próximo à zona de comércio, serviços e escolas. Apartamento situado no 5º andar O imóvel é composto por hall de entrada, sala comum, 2 quartos, instalação sanitária, cozinha e arrecadação. Condições de Arrendamento: 2 rendas + 1 de caução. Para mais informações, contacte-nos. Referência interna ZTRE-00855; visita também disponível por videochamada. Imóvel arrendado nas atuais condições. Imóvel com Equipamentos Placa, forno, esquentador (aquecimento águas sanitárias), exaustor, frigorifico e máquina lavar roupa, assegurado o funcionamento/garantia. Nenhum outro equipamento no imóvel está assegurado o funcionamento.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/72/1e/3a/200073516.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/fe/8d/30/200073517.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e7/e9/d8/200073518.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/99/ff/9f/200073519.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f5/4d/99/200073520.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/97/7c/ed/200073521.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/17/ef/4f/200073522.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/29/98/78/200073523.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "commercialName": "Portal Now",
+        "phone1": {
+          "phoneNumber": "218708743",
+          "formattedPhone": "218 70 87 43",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351218708743",
+          "nationalNumber": true
+        },
+        "contactName": "Hipoges Iberia",
+        "userType": "professional",
+        "agencyLogo": "https://st3.idealista.pt/9a/0b/d9/portal-now.gif",
+        "contactMethod": "all",
+        "micrositeShortName": "portal-now"
+      },
+      "hasLift": false,
+      "priceByArea": 6,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": false,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Azambuja",
+        "title": "Apartamento na Avenida dos Condes de Azambuja"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32148165",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/37/67/99/189537694.jpg",
+      "externalReference": "ZTRE-00862",
+      "numPhotos": 11,
+      "price": 720,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 139,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Avenida dos Condes de Azambuja",
+      "province": "Lisboa",
+      "municipality": "Azambuja",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-03-001-04",
+      "latitude": 39.0716797,
+      "longitude": -8.8621105,
+      "showAddress": false,
+      "url": "https://www.idealista.pt/imovel/32148165/",
+      "description": "Apartamento T2 com uma área total de 123,90 m2, situado em Azambuja (Azambuja). O imóvel está localizado próximo à zona de comércio, serviços e escolas. Apartamento situado no 7º andar Condições de Arrendamento: 2 rendas + 1 de caução. Para mais informações, contacte-nos. Referência interna ZTRE-00862; visita também disponível por videochamada. Imóvel arrendado nas atuais condições.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/37/67/99/189537694.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a3/9d/ff/189537695.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/77/a7/97/189537696.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/eb/81/e4/189537697.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/31/a3/00/189537698.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e5/d7/dd/189537699.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/47/8f/28/189537700.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/49/5e/68/189537701.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d9/23/2b/189537702.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2d/86/5f/189537703.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/31/d2/d2/189537704.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "commercialName": "Portal Now",
+        "phone1": {
+          "phoneNumber": "218708743",
+          "formattedPhone": "218 70 87 43",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351218708743",
+          "nationalNumber": true
+        },
+        "contactName": "Hipoges Iberia",
+        "userType": "professional",
+        "agencyLogo": "https://st3.idealista.pt/9a/0b/d9/portal-now.gif",
+        "contactMethod": "all",
+        "micrositeShortName": "portal-now"
+      },
+      "hasLift": false,
+      "priceByArea": 5,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": false,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Azambuja",
+        "title": "Apartamento na Avenida dos Condes de Azambuja"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "31471071",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/65/b9/b1/156369527.jpg",
+      "numPhotos": 10,
+      "floor": "1",
+      "price": 720,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 94,
+      "exterior": false,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Rua 25 de Abril, 11",
+      "province": "Lisboa",
+      "municipality": "Sapataria",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-12-002-02",
+      "latitude": 38.9880877,
+      "longitude": -9.1981189,
+      "showAddress": true,
+      "url": "https://www.idealista.pt/imovel/31471071/",
+      "description": "Apartamento inserido no centro da localidade com supermercado, café e transportes à porta disponível. Imóvel para arrendamento a partir de 1.02. 2023 não mobilado.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/65/b9/b1/156369527.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/7a/5c/b8/156369644.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/270/id.pro.pt.image.master/d8/6b/72/156369636.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/17/d4/61/156369645.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/32/16/6b/156369623.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/af/c4/94/156369535.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/60/58/b5/156369568.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c6/13/25/156369695.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ef/d4/b5/156369751.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ba/83/d7/156369759.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "contactName": "Teresa Lourenço",
+        "userType": "private",
+        "contactMethod": "email"
+      },
+      "hasLift": false,
+      "priceByArea": 8,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": false,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Sapataria, Sobral de Monte Agraço",
+        "title": "Apartamento na Rua 25 de Abril, 11"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": true,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32330654",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8a/d2/8c/200073570.jpg",
+      "externalReference": "ZTRE-02876",
+      "numPhotos": 8,
+      "floor": "bj",
+      "price": 730,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 85,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Rua Escola António Sérgio",
+      "province": "Lisboa",
+      "municipality": "Agualva e Mira - Sintra",
+      "district": "Quinta da Barroca",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-11-022-22-02",
+      "latitude": 38.7750081,
+      "longitude": -9.3047271,
+      "showAddress": false,
+      "url": "https://www.idealista.pt/imovel/32330654/",
+      "description": "Apartamento T2 com uma área total de 85 m2, situado em Sintra no distrito de Lisboa. O imóvel está localizado próximo à zona de comércio, serviços e escolas. Apartamento situado no R/C O imóvel é composto por hall de entrada, sala comum, 2 quartos, instalação sanitária, cozinha, arrecadação e arrecadação Condições de Arrendamento: 2 rendas + 1 de caução. Para mais informações, contacte-nos. Referência interna ZTRE-02876; visita também disponível por videochamada. Imóvel arrendado nas atuais condições. Imóvel com Equipamentos Placa, forno, esquentador (aquecimento águas sanitárias), exaustor, frigorifico e máquina lavar roupa, assegurado o funcionamento/garantia. Nenhum outro equipamento no imóvel está assegurado o funcionamento.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8a/d2/8c/200073570.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d3/2e/14/200073571.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/52/b1/1f/200073572.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2b/6b/7e/200073573.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/71/52/36/200073574.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/af/24/7e/200073575.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/27/48/3d/200073576.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b4/45/8e/200073577.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "commercialName": "Portal Now",
+        "phone1": {
+          "phoneNumber": "218708743",
+          "formattedPhone": "218 70 87 43",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351218708743",
+          "nationalNumber": true
+        },
+        "contactName": "Hipoges Iberia",
+        "userType": "professional",
+        "agencyLogo": "https://st3.idealista.pt/9a/0b/d9/portal-now.gif",
+        "contactMethod": "all",
+        "micrositeShortName": "portal-now"
+      },
+      "hasLift": false,
+      "priceByArea": 9,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": false,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Agualva e Mira - Sintra, Sintra",
+        "title": "Apartamento na Rua Escola António Sérgio"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32330655",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a4/89/c9/200073578.jpg",
+      "externalReference": "ZTRE-03397",
+      "numPhotos": 9,
+      "price": 730,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 97,
+      "exterior": false,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Praceta João Álvares Fagundes",
+      "province": "Lisboa",
+      "municipality": "Carregado e Cadafais",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-01-020-20",
+      "latitude": 39.0234805,
+      "longitude": -8.972628,
+      "showAddress": false,
+      "url": "https://www.idealista.pt/imovel/32330655/",
+      "description": "Apartamento T3 com uma área total de 97 m2, no Carregado no Concelho de Alenquer no distrito de Lisboa. O imóvel está localizado próximo à zona de comércio, serviços e escolas. Apartamento situado no 8º andar O imóvel é composto por hall de entrada, sala comum, 3 quartos, 2 instalação sanitária e cozinha. Condições de Arrendamento: 2 rendas + 1 de caução. Para mais informações, contacte-nos. Referência interna ZTRE-03397; visita também disponível por videochamada. Imóvel arrendado nas atuais condições. Imóvel com Equipamentos Placa, forno, esquentador (aquecimento águas sanitárias), exaustor, frigorifico e máquina lavar roupa, assegurado o funcionamento/garantia. Nenhum outro equipamento no imóvel está assegurado o funcionamento.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a4/89/c9/200073578.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/80/74/c2/200073579.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f5/fa/44/200073580.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d2/a3/f5/200073581.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/bd/e3/76/200073582.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/51/10/7d/200073583.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a5/12/50/200073584.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d4/2f/ea/200073585.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d0/6c/2f/200073586.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "commercialName": "Portal Now",
+        "phone1": {
+          "phoneNumber": "218708743",
+          "formattedPhone": "218 70 87 43",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351218708743",
+          "nationalNumber": true
+        },
+        "contactName": "Hipoges Iberia",
+        "userType": "professional",
+        "agencyLogo": "https://st3.idealista.pt/9a/0b/d9/portal-now.gif",
+        "contactMethod": "all",
+        "micrositeShortName": "portal-now"
+      },
+      "hasLift": false,
+      "priceByArea": 8,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": false,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Carregado e Cadafais, Alenquer",
+        "title": "Apartamento na Praceta João Álvares Fagundes"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32367037",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b2/52/a8/201882534.jpg",
+      "externalReference": "C0246-02747",
+      "numPhotos": 10,
+      "price": 750,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 85,
+      "exterior": false,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Idanha",
+      "province": "Lisboa",
+      "municipality": "Queluz e Belas",
+      "district": "Idanha",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-11-026-26-05",
+      "latitude": 38.7756775,
+      "longitude": -9.2729224,
+      "showAddress": false,
+      "url": "https://www.idealista.pt/imovel/32367037/",
+      "description": "Excelente Apartamento T1 com Garagem Fechada: .  Imóvel inserido em prédio recente composto por: - sala com lareira com 22m2 - cozinha com despensa - quarto com closet e roupeiro com 15,5 m2 - WC com banheira - Arrecadação -Box fechada Excelente exposição solar: Sul/Poente Perto do Continente e Farmácia da Idanha, com bons acessos ao IC19, A16 e A9. Transportes públicos e comércio à porta.",
+      "hasVideo": false,
+      "status": "good",
+      "firstActivationDate": 1672200199000,
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b2/52/a8/201882534.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/fe/68/60/201882535.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e0/5a/38/201882536.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/dd/99/5c/201882537.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c4/9a/27/201882538.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/0e/43/b1/201882539.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/fc/93/ca/201882540.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f7/46/e1/201882541.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/39/f2/b3/201882542.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/0e/2b/5a/201882543.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "commercialName": "CENTURY 21 Isidoro Alves",
+        "phone1": {
+          "phoneNumber": "218763364",
+          "formattedPhone": "218 76 33 64",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351218763364",
+          "nationalNumber": true
+        },
+        "contactName": "CENTURY 21",
+        "userType": "professional",
+        "agencyLogo": "https://st3.idealista.pt/7f/1a/bb/century-21-isidoro-alves.gif",
+        "contactMethod": "all",
+        "micrositeShortName": "century-21-isidoro-alves"
+      },
+      "hasLift": true,
+      "priceByArea": 9,
+      "features": {
+        "hasAirConditioning": false,
+        "hasBoxRoom": true
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Queluz e Belas, Sintra",
+        "title": "Apartamento"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32330649",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/4e/de/3b/200073524.jpg",
+      "externalReference": "ZTRE-00869",
+      "numPhotos": 12,
+      "price": 760,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 123,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Avenida dos Condes de Azambuja",
+      "province": "Lisboa",
+      "municipality": "Azambuja",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-03-001-04",
+      "latitude": 39.0705599,
+      "longitude": -8.8656052,
+      "showAddress": false,
+      "url": "https://www.idealista.pt/imovel/32330649/",
+      "description": "Apartamento T2 com uma área total de 138 m2, em Azambuja no distrito de Lisboa. O imóvel está localizado próximo à zona de comércio, serviços e escolas. Apartamento situado no 2º andar O imóvel é composto por hall de entrada, sala comum, 2 quartos, instalação sanitária, cozinha e arrecadação. Condições de Arrendamento: 2 rendas + 1 de caução. Para mais informações, contacte-nos. Referência interna ZTRE-00869; visita também disponível por videochamada. Imóvel arrendado nas atuais condições. Imóvel com Equipamentos Placa, forno, esquentador (aquecimento águas sanitárias), exaustor, frigorifico e máquina lavar roupa, assegurado o funcionamento/garantia. Nenhum outro equipamento no imóvel está assegurado o funcionamento.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/4e/de/3b/200073524.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/48/97/f5/200073525.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b1/5b/12/200073526.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/3d/fd/93/200073527.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/4e/24/ed/200073528.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/11/7f/7b/200073529.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b2/6c/09/200073530.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a9/08/f9/200073531.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/48/97/a3/200073532.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f1/35/53/200073533.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b3/46/8e/200073534.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/47/45/68/200073535.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "commercialName": "Portal Now",
+        "phone1": {
+          "phoneNumber": "218708743",
+          "formattedPhone": "218 70 87 43",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351218708743",
+          "nationalNumber": true
+        },
+        "contactName": "Hipoges Iberia",
+        "userType": "professional",
+        "agencyLogo": "https://st3.idealista.pt/9a/0b/d9/portal-now.gif",
+        "contactMethod": "all",
+        "micrositeShortName": "portal-now"
+      },
+      "hasLift": true,
+      "priceByArea": 6,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": false,
+        "hasAirConditioning": false,
+        "hasBoxRoom": true,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Azambuja",
+        "title": "Apartamento na Avenida dos Condes de Azambuja"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32330646",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/df/86/4d/200073500.jpg",
+      "externalReference": "ZTRE-00852",
+      "numPhotos": 9,
+      "price": 770,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 132,
+      "exterior": false,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Avenida dos Condes de Azambuja",
+      "province": "Lisboa",
+      "municipality": "Azambuja",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-03-001-04",
+      "latitude": 39.0742204,
+      "longitude": -8.8615264,
+      "showAddress": false,
+      "url": "https://www.idealista.pt/imovel/32330646/",
+      "description": "Apartamento T3 com uma área total de 149 m2, em Azambuja no distrito de Lisboa. O imóvel está localizado próximo à zona de comércio, serviços e escolas. Apartamento situado no 4º andar O imóvel é composto por hall de entrada, sala comum, 3 quartos, instalação sanitária, cozinha e arrecadação. Condições de Arrendamento: 2 rendas + 1 de caução. Para mais informações, contacte-nos. Referência interna ZTRE-00852; visita também disponível por videochamada. Imóvel arrendado nas atuais condições. Imóvel com Equipamentos Placa, forno, esquentador (aquecimento águas sanitárias), exaustor, frigorifico e máquina lavar roupa, assegurado o funcionamento/garantia. Nenhum outro equipamento no imóvel está assegurado o funcionamento.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/df/86/4d/200073500.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d0/c7/e6/200073501.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/36/53/e2/200073502.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/73/e0/0a/200073503.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/6f/eb/34/200073504.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/23/cf/3b/200073505.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/3d/a2/ca/200073506.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/1d/5e/3b/200073507.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/5f/c1/f6/200073508.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "commercialName": "Portal Now",
+        "phone1": {
+          "phoneNumber": "218708743",
+          "formattedPhone": "218 70 87 43",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351218708743",
+          "nationalNumber": true
+        },
+        "contactName": "Hipoges Iberia",
+        "userType": "professional",
+        "agencyLogo": "https://st3.idealista.pt/9a/0b/d9/portal-now.gif",
+        "contactMethod": "all",
+        "micrositeShortName": "portal-now"
+      },
+      "hasLift": false,
+      "priceByArea": 6,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": false,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Azambuja",
+        "title": "Apartamento na Avenida dos Condes de Azambuja"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32330647",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/1c/52/1f/200073509.jpg",
+      "externalReference": "ZTRE-00853",
+      "numPhotos": 7,
+      "price": 770,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 132,
+      "exterior": false,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Avenida dos Condes de Azambuja",
+      "province": "Lisboa",
+      "municipality": "Azambuja",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-03-001-04",
+      "latitude": 39.0742048,
+      "longitude": -8.8635891,
+      "showAddress": false,
+      "url": "https://www.idealista.pt/imovel/32330647/",
+      "description": "Apartamento T3 com uma área total de 149 m2, em Azambuja no distrito de Lisboa. O imóvel está localizado próximo à zona de comércio, serviços e escolas. Apartamento situado no 4º andar O imóvel é composto por hall de entrada, sala comum, 3 quartos, instalação sanitária, cozinha e arrecadação. Condições de Arrendamento: 2 rendas + 1 de caução. Para mais informações, contacte-nos. Referência interna ZTRE-00853; visita também disponível por videochamada. Imóvel arrendado nas atuais condições. Imóvel com Equipamentos Placa, forno, esquentador (aquecimento águas sanitárias), exaustor, frigorifico e máquina lavar roupa, assegurado o funcionamento/garantia. Nenhum outro equipamento no imóvel está assegurado o funcionamento.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/1c/52/1f/200073509.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d7/55/97/200073510.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/6b/1b/3b/200073511.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/44/d1/4c/200073512.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/4c/f3/98/200073513.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/7d/68/3c/200073514.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/28/dc/b8/200073515.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "commercialName": "Portal Now",
+        "phone1": {
+          "phoneNumber": "218708743",
+          "formattedPhone": "218 70 87 43",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351218708743",
+          "nationalNumber": true
+        },
+        "contactName": "Hipoges Iberia",
+        "userType": "professional",
+        "agencyLogo": "https://st3.idealista.pt/9a/0b/d9/portal-now.gif",
+        "contactMethod": "all",
+        "micrositeShortName": "portal-now"
+      },
+      "hasLift": false,
+      "priceByArea": 6,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": false,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Azambuja",
+        "title": "Apartamento na Avenida dos Condes de Azambuja"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32363314",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/19/16/e2/201658675.jpg",
+      "externalReference": "125011208-26",
+      "numPhotos": 23,
+      "price": 770,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 148,
+      "exterior": false,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Avenida dos Condes de Azambuja, 1",
+      "province": "Lisboa",
+      "municipality": "Azambuja",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-03-001-04",
+      "latitude": 39.0731767,
+      "longitude": -8.8628408,
+      "showAddress": true,
+      "url": "https://www.idealista.pt/imovel/32363314/",
+      "description": "Apartamento T3 a 4 minutos  a pé da estação ferroviária da Azambuja em muito bom estado, em prédio com 2 elevadores e muito bem localizado, perto do centro histórico da Azambuja.   Composição: Hall de entrada 3 quartos, dois deles com roupeiro embutido sala ampla com recuperador, 2 wc, Cozinha equipada com: máquina de lavar roupa, combinado, placa mista, forno de encastre, esquentador, exaustor. Condições de arrendamento: 2 cauções + 1 renda   Na apresentação de proposta será necessário o envio da seguinte documentação:  Cartão identificação dos proponentes. 3 últimos recibos de ordenado de cada um dos proponentes. IRS + nota liquidação.   Poderá ser solicitado fiador, que deverá apresentar também os elementos acima apresentados também.",
+      "hasVideo": false,
+      "status": "good",
+      "firstActivationDate": 1671788223000,
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/19/16/e2/201658675.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/af/ea/c7/201658667.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/bd/11/4e/201658668.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/95/b5/c4/201658669.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/7b/5a/8c/201658670.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a3/9e/e5/201658671.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/5d/c8/bc/201658672.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/95/9d/b6/201658673.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/11/1b/a2/201658674.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/42/07/c1/201658685.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/de/ec/1d/201658676.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f0/e5/a9/201658677.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/3c/49/5d/201658686.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/07/ab/01/201658687.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/49/3b/f3/201658688.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ea/8e/33/201658689.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/6b/12/b8/201658690.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2d/50/bc/201658691.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/79/9d/a6/201658678.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/76/81/6a/201658679.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8e/92/c8/201658680.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/69/b6/84/201658681.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/67/fb/5a/201658692.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "commercialName": "RE/MAX Vantagem Planicie",
+        "phone1": {
+          "phoneNumber": "218740962",
+          "formattedPhone": "218 74 09 62",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351218740962",
+          "nationalNumber": true
+        },
+        "contactName": "RE/MAX Vantagem",
+        "userType": "professional",
+        "agencyLogo": "https://st3.idealista.pt/ee/f0/90/vantagem-planicie.gif",
+        "contactMethod": "all",
+        "micrositeShortName": "vantagem-planicie"
+      },
+      "priceByArea": 5,
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Azambuja",
+        "title": "Apartamento na Avenida dos Condes de Azambuja, 1"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32330656",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2f/25/4f/200073587.jpg",
+      "externalReference": "ZTRE-03881",
+      "numPhotos": 12,
+      "floor": "st",
+      "price": 790,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 91,
+      "exterior": false,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Impasse Frei António de Pádua",
+      "province": "Lisboa",
+      "municipality": "Queluz e Belas",
+      "district": "Centro de Belas - Quinta da Samaritana - Quinta da Fonteireira",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-11-026-26-02",
+      "latitude": 38.782143,
+      "longitude": -9.2621097,
+      "showAddress": false,
+      "url": "https://www.idealista.pt/imovel/32330656/",
+      "description": "Apartamento T1 com uma área total de 105 m2, situado em Quinta Fonteireira-Belas, no concelho de Sintra e distrito de Lisboa. O imóvel está localizado próximo à zona de comércio, serviços e escolas. Apartamento situado no 1ª Cave O imóvel é composto por hall de entrada, sala comum, Quarto, instalação sanitária, cozinha e arrecadação. Condições de Arrendamento: 2 rendas + 1 de caução. Para mais informações, contacte-nos. Referência interna ZTRE-03881; visita também disponível por videochamada. Imóvel arrendado nas atuais condições. Imóvel com Equipamentos Placa, forno, esquentador (aquecimento águas sanitárias), exaustor, frigorifico e máquina lavar roupa, assegurado o funcionamento/garantia. Nenhum outro equipamento no imóvel está assegurado o funcionamento.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2f/25/4f/200073587.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f3/08/03/200073588.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2d/29/32/200073589.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/fe/27/ee/200073590.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c1/c4/00/200073591.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/85/c4/a6/200073592.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/86/19/4e/200073593.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/be/7b/82/200073594.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/30/fb/05/200073595.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/83/c6/00/200073596.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/6b/26/30/200073597.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/19/ef/cd/200073598.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "commercialName": "Portal Now",
+        "phone1": {
+          "phoneNumber": "218708743",
+          "formattedPhone": "218 70 87 43",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351218708743",
+          "nationalNumber": true
+        },
+        "contactName": "Hipoges Iberia",
+        "userType": "professional",
+        "agencyLogo": "https://st3.idealista.pt/9a/0b/d9/portal-now.gif",
+        "contactMethod": "all",
+        "micrositeShortName": "portal-now"
+      },
+      "hasLift": true,
+      "priceByArea": 9,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": false,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Queluz e Belas, Sintra",
+        "title": "Apartamento em Impasse Frei António de Pádua"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32365791",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/42/cb/d1/201804156.jpg",
+      "externalReference": "125211102-23",
+      "numPhotos": 26,
+      "price": 800,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 85,
+      "exterior": false,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Carriche - Hospital das Forças Armadas",
+      "province": "Lisboa",
+      "municipality": "Lumiar",
+      "district": "Carriche - Hospital das Forças Armadas",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-06-018-18-03",
+      "latitude": 38.7806648,
+      "longitude": -9.1625765,
+      "showAddress": false,
+      "url": "https://www.idealista.pt/imovel/32365791/",
+      "description": " Apartamento T1 para arrendamento a 800 € Apartamento T1, com excelentes áreas, cerca de 80m2, com uma boa sala e um grande quarto com roupeiro a toda a largura do mesmo. Não mobilado. Com cozinha completamente equipada. Não tem gás. Zona social perfeitamente individualizada da zona de dormir. Cozinha equilibrada com possibilidade de utilização da varanda como área de refeições/lavandaria. Essa varanda liga à da sala, através de porta de vidro, o que permite dividir os ambientes. A casa de banho tem base de duche com portas de correr. Muita arrumação. Além do roupeiro de 6 portas do quarto que ainda tem um alçapão para malas e outros objetos de menos uso, o hall tem mais um roupeiro e uma despensa/closet com prateleiras que pode utilizar para arrumar roupa e equipamentos da casa como aspirador, tábua de passar e outros. Este hall do quarto e casa de banho está perfeitamente individualizado da área social por uma porta que o separa do vestíbulo do hall de entrada, sala e cozinha. A sala tem 17 m2 mais espaço de varanda (marquise). A cozinha encontra-se completamente equipada (com forno, placa de indução, exaustor, máquina de lavar louça, máquina de lavar roupa, frigorífico e termoacumulador para aquecimento de água). A casa de banho tem aquecedor de toalhas elétrico. Tem candeeiros em todas as divisões. O apartamento tem 2 frentes, sendo o quarto para a estrada do Desvio à altura de um r/c e a sala e cozinha para a traseira do prédio, à altura de um terceiro andar. Orientação solar Nascente/Poente. Boa luminosidade e localização perto da Academia de Santa Cecília, antes da Ameixoeira, longe do rebuliço da Calçada de Carriche. Estação do metro (linha Amarela) a uns 15 minutos a pé. Autocarro à porta (331 e 736). Condições do Arrendamento: Contrato de longa duração (preferencial). 2 rendas (a do mês de entrada e a do mês seguinte), mais uma caução. de valor equivalente a uma renda (a ser devolvida no final, se o apartamento se encontrar em boas condições de utilização, com o desgaste inerente ao uso). Exigido: Fiador (ou garantia equivalente). NOTA: Apartamento com Licença de Utilização nº 419 de 7 de out de 1964, pela Câmara Municipal de Lisboa e Certificado Energético SCE 131207014 válido até 08/09/2026.   - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   São quarenta as Estradas que integram a toponímia oficial de Lisboa e a Estrada do Desvio tem o seu nome por ser mesmo um desvio pelo Lumiar para fugir ao trânsito na Calçada de Carriche e permitir o descongestionamento desta.  Grosso modo, esta Estrada corre paralela à Calçada de Carriche, que outrora foi a estrada d.",
+      "hasVideo": false,
+      "status": "good",
+      "firstActivationDate": 1672133592000,
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/42/cb/d1/201804156.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ef/e3/72/201804158.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/04/b9/03/201804161.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/06/93/8f/201804163.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/51/52/f1/201804164.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ce/40/bd/201804165.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ba/0e/b6/201804167.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d9/e3/05/201804169.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/96/34/70/201804133.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/cf/b7/2f/201804172.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c0/d9/3e/201804174.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2f/40/c9/201804134.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/95/94/bb/201804177.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/af/92/5d/201804179.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/0d/fe/14/201804181.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/eb/5f/10/201804183.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/54/cb/ac/201804185.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/53/2f/ef/201804187.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/bf/1a/d0/201804189.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/16/17/08/201804190.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/67/84/84/201804191.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/85/4b/a1/201804192.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/65/2a/b5/201804195.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/13/9e/11/201804193.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c2/0c/99/201804194.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c0/dd/51/201804205.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "commercialName": "Remax Team4u",
+        "phone1": {
+          "phoneNumber": "218744080",
+          "formattedPhone": "218 74 40 80",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351218744080",
+          "nationalNumber": true
+        },
+        "contactName": "Team",
+        "userType": "professional",
+        "agencyLogo": "https://st3.idealista.pt/bc/06/40/remax-4u.gif",
+        "contactMethod": "all",
+        "micrositeShortName": "remax-4u"
+      },
+      "priceByArea": 9,
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Lumiar, Lisboa",
+        "title": "Apartamento"
+      },
+      "hasPlan": true,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "29087268",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/1c/ea/f1/192715677.jpg",
+      "numPhotos": 16,
+      "floor": "3",
+      "price": 800,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 90,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Praceta da Igreja, 1",
+      "province": "Lisboa",
+      "municipality": "Silveira",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-13-016-16",
+      "latitude": 39.1332344,
+      "longitude": -9.3802269,
+      "showAddress": true,
+      "url": "https://www.idealista.pt/imovel/29087268/",
+      "description": " DISPONIVEL INTERNET FIBRA 500/200 APARTAMENTO PRAIA DE SANTA CRUZ - (Torres Vedras) LOCALIZAÇÃO Localizado em frente à Igreja, cerca de 150mts até às praias do centro de St Cruz. Caso pretendam ir a outras praias, nos meses de verão existe um comboio turistico que dá a volta por todas as praias com paragem mesmo è porta de casa, segue link:  VELAM ATIVIDADES EM ST CRUZ  MES DO SURF EM SANTA CRUZ  ANUNCIO: APARTAMENTO: localizado em Santa Cruz Centro com varanda e terraço, junto a todas as praias com acesso pedonal. Arredores com interesse turístico: Ericeira, Estoril, Sintra, Mafra, Óbidos, Cascais, Nazaré, Peniche. Condições: Possibilidade de arrendamento ao mês, semana, fim de semana ou ao dia. Localização: SANTA CRUZ CENTRO- TORRES VEDRAS - Região de Lisboa Aeroporto: Lisboa, Portela a 50minutos/70 Km  Auto-estrada A8: 10minutos/15 Km GERAL COZINHA: Placa Vitrocerâmica, frigorífico, micro-ondas, maquina café nespresso, congelador, maquina lavar loiça, maquina lavar roupa, cafeteira, torradeira, ferro, aspirador, vassoura e pá, baldes de limpeza, loiça de cozinha, garfos, facas, copos ( copos de Whisky/Champanhe/etc), tachos, frigideiras e afins. CASA DE BANHO: 1 Casa de banho com banheira e coluna de duche SALA DE ESTAR E JANTAR: 1 Sofá Grande 1 Mesa de Refeições 6 Cadeiras 1 TV 1 Balcão 4 Bancos 1 Sistema de Som QUARTOS: 1 Quarto com cama de casal + Comoda + Cadeirão 1 Quarto com cama de casal + Comoda + Cadeirão 1 Sofá Cama para 2 pessoas EXTERIOR DO APARTAMENTO: 1 Varanda, com mesa pequena, duas cadeiras e espreguiçadeira 1 Terraço 1 Barbecue no Terraço  Estacionamento em frente OUTROS: - Chapéu de praia grande - 2 Bicicletas adulto + Capacete - 2 Criança + Capacete - Raquetes Praia - Raquetes Ténis + Bolas INFOS ADICIONAIS Quartos de dormir: 2 Sofá Cama Casal: 1 Casas de Banho: 1 Metros quadrados: 90 Mobilado: Mobilado Completo (sem forno) Animais de estimação: Não ACTIVIDADES E ATRAÇÕES: Carnaval de Verão em Santa Cruz Ocean Spirit - Festival Internacional de Desportos de Ondas Concurso de Saltos a Cavalo - Hipismo Santa Cruz Air Race Passeios a pé Pesca Parapente Piscinas Campo de tiro Ciclismo Golfe Ciclismo de montanha Ténis Equitação Surf Windsurf Kit Surf Aeródromo Eventos Equestres FOTOS EM ANEXO:.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/1c/ea/f1/192715677.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c3/0f/c7/100449593.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a5/2d/04/100449615.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/12/ff/03/100449592.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/64/1e/ca/192715668.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/aa/22/78/192715686.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ff/76/73/192715676.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e3/37/fd/192715631.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f7/c6/63/192715662.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2c/13/6a/192715663.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2e/cc/62/192715661.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/dd/b9/1b/192715688.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/0b/f6/5b/192715687.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/6e/8f/07/192715669.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/9d/b4/cf/192715632.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/58/87/fc/192715633.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "contactName": "Jorge Gomes",
+        "userType": "private",
+        "contactMethod": "email"
+      },
+      "hasLift": false,
+      "priceByArea": 9,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": true,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Silveira, Torres Vedras",
+        "title": "Apartamento na Praceta da Igreja, 1"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "31680990",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/04/5c/b5/163868215.jpg",
+      "externalReference": "125441095-9",
+      "numPhotos": 5,
+      "price": 800,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 192,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Camarate",
+      "province": "Lisboa",
+      "municipality": "Camarate - Unhos - Apelação",
+      "district": "Camarate",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-07-031-31-03",
+      "latitude": 38.794171,
+      "longitude": -9.1438819,
+      "showAddress": false,
+      "url": "https://www.idealista.pt/imovel/31680990/",
+      "description": "VISITAS SUSPENSAS! R/Ch em moradia com logradouro e espaço exterior.   Imóvel localizado perto do parque desportivo de Camarate, escolas, diversos serviços e transporte públicos.     Não perca esta oportunidade e  Marque já a sua visita!",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/04/5c/b5/163868215.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/44/c5/2e/163868216.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/42/99/a9/163868217.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c5/bf/1d/163868218.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/0e/d2/96/163868219.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "commercialName": "Remax Alcateia",
+        "phone1": {
+          "phoneNumber": "218740062",
+          "formattedPhone": "218 74 00 62",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351218740062",
+          "nationalNumber": true
+        },
+        "contactName": "Remax",
+        "userType": "professional",
+        "agencyLogo": "https://st3.idealista.pt/c4/48/27/alcateiaremax.gif",
+        "contactMethod": "all",
+        "micrositeShortName": "alcateiaremax"
+      },
+      "priceByArea": 4,
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Camarate - Unhos - Apelação, Loures",
+        "title": "Apartamento"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32260181",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/df/57/be/196783836.jpg",
+      "numPhotos": 14,
+      "floor": "3",
+      "price": 800,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 100,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Rua Armistício, 22",
+      "province": "Lisboa",
+      "municipality": "Moscavide e Portela",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-07-026-26",
+      "latitude": 38.7782336,
+      "longitude": -9.1016307,
+      "showAddress": true,
+      "url": "https://www.idealista.pt/imovel/32260181/",
+      "description": "Casa no centro de Moscavide em rua muito calma. Bastante soalheira, com orientação nascente e poente (frente e traseira do edifício), tendo uma ampla varanda do lado poente que dá para a sala e um pequeno quarto. Fica a 2 mn da estação de comboio e 5 mn da estação do metro. Muito comércio tradicional e supermercados na imediações.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/df/57/be/196783836.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e8/fe/9c/196783735.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/7c/61/4d/196783740.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/7f/6f/9c/196783736.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/19/07/77/196783622.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2f/58/af/196783623.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/86/9b/37/196783745.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/bd/8d/5e/196783621.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/bf/25/eb/196783729.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/1a/db/23/196783737.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/70/68/d2/196783739.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e9/c3/e1/196783728.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/270/id.pro.pt.image.master/a1/62/14/196783624.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/270/id.pro.pt.image.master/51/b5/06/196783504.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "contactName": "Marcos Leal",
+        "userType": "private",
+        "contactMethod": "email"
+      },
+      "hasLift": false,
+      "priceByArea": 8,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": false,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Moscavide e Portela, Loures",
+        "title": "Apartamento na Rua Armistício, 22"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "30196599",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/59/29/8c/113252009.jpg",
+      "numPhotos": 6,
+      "price": 800,
+      "propertyType": "countryHouse",
+      "operation": "rent",
+      "size": 100,
+      "exterior": false,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Estrada dos Casais, 184",
+      "province": "Lisboa",
+      "municipality": "São João das Lampas e Terrugem",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-11-027-27",
+      "latitude": 38.8619156,
+      "longitude": -9.3553409,
+      "showAddress": true,
+      "url": "https://www.idealista.pt/imovel/30196599/",
+      "description": "esta casa T1 encontra-se a arrendar com mobilia  tem termo acumulador lareira e esta remodelada. Espaço exterior partilhado.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/59/29/8c/113252009.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/95/59/b0/113252000.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8a/9c/b3/113252010.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/97/df/94/113251793.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/83/9b/67/113251794.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e5/ec/8f/113252011.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "contactName": "Raquel Sousa",
+        "userType": "private",
+        "contactMethod": "email"
+      },
+      "priceByArea": 8,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": false,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": true
+      },
+      "detailedType": {
+        "typology": "countryHouse",
+        "subTypology": "casaDePueblo"
+      },
+      "suggestedTexts": {
+        "subtitle": "São João das Lampas e Terrugem, Sintra",
+        "title": "Casa de aldeia na Estrada dos Casais, 184"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32207713",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ce/9d/c5/193597652.jpg",
+      "numPhotos": 1,
+      "floor": "3",
+      "price": 800,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 86,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Rua Cidade de Rio de Janeiro, 17",
+      "province": "Lisboa",
+      "municipality": "Cacém e São Marcos",
+      "district": "São Marcos",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-11-024-24-03",
+      "latitude": 38.7497922,
+      "longitude": -9.2985336,
+      "showAddress": true,
+      "url": "https://www.idealista.pt/imovel/32207713/",
+      "description": "T2 para arrendamento. Apartamento situado na zona nobre de São Marcos (150 metros do pingo doce). Excelente exposição solar, virado a Sul. Cozinha totalmente mobilada. Prédio com 2 elevadores. Transportes públicos passam à porta. PEDE-SE: - 2 rendas + 1 caução - Obrigatório ter fiador.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ce/9d/c5/193597652.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "phone1": {
+          "phoneNumber": "924025868",
+          "formattedPhone": "924 02 58 68",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351924025868",
+          "nationalNumber": true
+        },
+        "contactName": "Filipa",
+        "userType": "private",
+        "contactMethod": "all"
+      },
+      "hasLift": true,
+      "priceByArea": 9,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": false,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": true
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cacém e São Marcos, Sintra",
+        "title": "Apartamento na Rua Cidade de Rio de Janeiro, 17"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32198992",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/57/c3/e3/193185459.jpg",
+      "externalReference": "ZTRE-04199",
+      "numPhotos": 11,
+      "price": 820,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 88,
+      "exterior": false,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Rua Afonso de Albuquerque",
+      "province": "Lisboa",
+      "municipality": "Agualva e Mira - Sintra",
+      "district": "Agualva",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-11-022-22-04",
+      "latitude": 38.7682784,
+      "longitude": -9.2973329,
+      "showAddress": false,
+      "url": "https://www.idealista.pt/imovel/32198992/",
+      "description": "Apartamento T3 com uma área total de 88 m2, situado em Agualva, no concelho de Sintra no distrito de Lisboa. O imóvel está localizado próximo à zona de comércio, serviços e escolas. Fica a 25 minutos de Lisboa Apartamento situado no 4ºpiso. O imóvel é composto por hall de entrada, sala comum, 3 quarto, 2 instalação sanitária, cozinha. Condições de Arrendamento: 2 rendas + 1 de caução. Para mais informações, contacte-nos. Referência interna ZTRE-04199; visita também disponível por videochamada. Imóvel arrendado nas atuais condições.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/57/c3/e3/193185459.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ce/32/a8/193185460.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/70/9e/40/193185453.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/02/5b/82/193185454.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/09/99/ab/193185465.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/83/ba/eb/193185466.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/7f/d8/53/193185467.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/6f/c5/7b/193185468.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/80/06/8d/193185469.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/78/f2/bc/193185470.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ff/f9/b6/193185471.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "commercialName": "Portal Now",
+        "phone1": {
+          "phoneNumber": "218708743",
+          "formattedPhone": "218 70 87 43",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351218708743",
+          "nationalNumber": true
+        },
+        "contactName": "Hipoges Iberia",
+        "userType": "professional",
+        "agencyLogo": "https://st3.idealista.pt/9a/0b/d9/portal-now.gif",
+        "contactMethod": "all",
+        "micrositeShortName": "portal-now"
+      },
+      "hasLift": false,
+      "priceByArea": 9,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": false,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Agualva e Mira - Sintra, Sintra",
+        "title": "Apartamento na Rua Afonso de Albuquerque"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32326876",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/24/73/8e/199928670.jpg",
+      "externalReference": "ZTRE-04035",
+      "numPhotos": 6,
+      "floor": "2",
+      "price": 850,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 92,
+      "exterior": false,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Rua Doutor Coutinho Pais",
+      "province": "Lisboa",
+      "municipality": "Algueirão - Mem Martins",
+      "district": "Bairro da Coopalme",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-11-002-02-07",
+      "latitude": 38.8022202,
+      "longitude": -9.3501736,
+      "showAddress": false,
+      "url": "https://www.idealista.pt/imovel/32326876/",
+      "description": "Apartamento T3 Duplex com uma área total de 91 m2, situado em Algueirão no concelho de Sintra, distrito de Lisboa. O imóvel está localizado próximo à zona de comércio, serviços e escolas. Apartamento situado no 2º andar O imóvel é composto por hall de entrada, sala comum, 3 quartos, 2 instalação sanitária e cozinha Condições de Arrendamento: 2 rendas + 1 de caução. Para mais informações, contacte-nos. Referência interna ZTRE-02213; visita também disponível por videochamada. Imóvel arrendado nas atuais condições.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/24/73/8e/199928670.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8e/75/e8/199928671.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/86/82/da/199928672.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/25/ae/6d/199928673.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b0/61/71/199928674.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/41/d9/a2/199928675.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "commercialName": "Portal Now",
+        "phone1": {
+          "phoneNumber": "218708743",
+          "formattedPhone": "218 70 87 43",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351218708743",
+          "nationalNumber": true
+        },
+        "contactName": "Hipoges Iberia",
+        "userType": "professional",
+        "agencyLogo": "https://st3.idealista.pt/9a/0b/d9/portal-now.gif",
+        "contactMethod": "all",
+        "micrositeShortName": "portal-now"
+      },
+      "hasLift": false,
+      "priceByArea": 9,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": false,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Algueirão - Mem Martins, Sintra",
+        "title": "Apartamento na Rua Doutor Coutinho Pais"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32335812",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d4/b7/5f/200301587.jpg",
+      "numPhotos": 10,
+      "floor": "2",
+      "price": 850,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 81,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Rua Professor Agostinho da Silva, 13",
+      "province": "Lisboa",
+      "municipality": "Algueirão - Mem Martins",
+      "district": "Mercês",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-11-002-02-04",
+      "latitude": 38.7976141,
+      "longitude": -9.3327543,
+      "showAddress": true,
+      "url": "https://www.idealista.pt/imovel/32335812/",
+      "description": "Apartamento T2 com uma área total de 84 m2, situado em Mercês, Agualva no concelho de Sintra, distrito de Lisboa (A 5 minutos a pé da estação das Mercês)  O imóvel está localizado próximo à zona de comércio, serviços e escolas na avenida Miguel Torga.  Apartamento situado no 2º andar. O imóvel é composto por hall de entrada, sala comum, 2 quartos, instalação sanitária, cozinha e Arrecadação. Condições de Arrendamento: 1 rendas + 1 de caução.   Para mais informações, contacte-nos. visita também disponível por videochamada. Imóvel arrendado nas atuais condições O IMOVÉL ESTARÁ DISPONIVEL APARTIR DE FEVEREIRO DE 2023! DOCUMENTOS OBRIGATÓRIOS: São necessários os seguintes documentos de inquilínos e fiadores: * Documento de identificação  * Recibos de vencimento (3 últimos meses) * IRS (último ano) * Comprovativo de morada (apenas fiadores) Só particulares, agências Imobiliárias não.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceDropValue": 50,
+      "dropDate": 1671104435000,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d4/b7/5f/200301587.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/7e/17/e8/201880700.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b6/56/a1/201880701.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e0/ef/78/201880702.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/0a/1a/8a/201880703.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/85/de/36/201880704.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e1/36/3c/201881468.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/0d/46/89/201881469.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d3/1c/a5/201881470.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2d/65/8c/201881471.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "contactName": "Mamadu",
+        "userType": "private",
+        "contactMethod": "email"
+      },
+      "hasLift": true,
+      "priceDropPercentage": 6,
+      "priceByArea": 10,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": false,
+        "hasAirConditioning": true,
+        "hasBoxRoom": false,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Algueirão - Mem Martins, Sintra",
+        "title": "Apartamento na Rua Professor Agostinho da Silva, 13"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32311705",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/22/29/21/199268025.jpg",
+      "numPhotos": 10,
+      "floor": "4",
+      "price": 850,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 80,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Rua passadiço, 58",
+      "province": "Lisboa",
+      "municipality": "Santo António",
+      "district": "Campo de Santana - Santa Marta",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-06-066-66-04",
+      "latitude": 38.7217061,
+      "longitude": -9.1436468,
+      "showAddress": true,
+      "url": "https://www.idealista.pt/imovel/32311705/",
+      "description": "Arrendo t2+2 no centro de Lisboa, apartamento parcialmente mobilidado a 100 metros da Avenida da Liberdade e da estação de metro Avenida, inserido em edifício de charme, Casas de Banho dentro da cozinha, cozinha, ideal para um atelier.  Arrenda-se apenas com fiador válido ou outra garantia válida.  Arrendamento mínimo 12 meses.  Não se aceitam animais domésticos.  Não se aceitam agências ou mediadores imobiliários. Zona muito tranquila, situado ao lado da Av. Liberdade, com as suas lojas de prestígio, espaços verdes e esplanadas. Muito próximo de todo o tipo de comércio. Atrações (A Pé): - A menos de 5 minutos da Avenida da Liberdade - Metro Avenida a 5 Minutos - Supermercados a 3 minutos - 10 minutos do Parque Eduardo VII - A 5 minutos do Jardim do Torel A 5 minutos do Cinema S. Jorge e Tivoli - A 7 minutos do Hospital dos Capuchos - A 5 minutos do campo Mártires da Pátria / Campo Santana - Praça Marques de Pombal a 5min Marquês Pombal -Perto do Saldanha, El Corte Inglês, Amoreiras Shopping Center - 10 minutos Baixa-Chiado Localização premium: A freguesia de Santo António é resultado da fusão das freguesias de S. José, Coração de Jesus e São Mamede. É nesta freguesia que estão o Jardim Botânico de Lisboa, o Jardim das Amoreiras e a Avenida da Liberdade, uma das mais elegantes de Lisboa. É nesta avenida que estão lojas famosas, como: Prada, Louis Vuitton, Gucci e outras. A área tem bastante movimento, tranquila e segura para caminhar em qualquer hora do dia.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/22/29/21/199268025.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/4f/7a/a4/199267914.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/28/8f/6c/199267954.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/11/df/5e/199267971.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/be/f5/a8/199267972.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/db/dd/44/199268018.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2e/a8/ce/199268019.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/27/af/b4/199268020.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/7e/ae/58/199268021.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e3/05/cd/199268026.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "contactName": "ME",
+        "userType": "private",
+        "contactMethod": "email"
+      },
+      "hasLift": false,
+      "priceByArea": 11,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": false,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Santo António, Lisboa",
+        "title": "Apartamento na Rua passadiço, 58"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32334294",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/73/48/d7/200268660.jpg",
+      "numPhotos": 16,
+      "floor": "2",
+      "price": 850,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 80,
+      "exterior": false,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Rua Alves Crespo, 1 A",
+      "province": "Lisboa",
+      "municipality": "Ericeira",
+      "district": "Centro da Vila",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-09-006-06-02",
+      "latitude": 38.9622929,
+      "longitude": -9.4181429,
+      "showAddress": true,
+      "url": "https://www.idealista.pt/imovel/32334294/",
+      "description": "preço negociavel.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceDropValue": 100,
+      "dropDate": 1670846304000,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/73/48/d7/200268660.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/7c/50/66/200268638.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/6c/5f/cb/200268639.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/3c/7d/c1/200268684.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/bd/48/80/200268681.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c3/37/b0/200268682.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2c/67/42/200268672.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8e/9a/1b/200268680.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d8/7f/27/200268670.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/94/88/42/200268685.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/22/dc/dc/200268594.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d8/4a/ae/200268637.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/03/01/26/200268683.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/07/c6/d8/200268687.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8f/4b/f4/200268686.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/11/da/94/200268671.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "phone1": {
+          "phoneNumber": "927094178",
+          "formattedPhone": "927 09 41 78",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351927094178",
+          "nationalNumber": true
+        },
+        "contactName": "Ana Santos",
+        "userType": "private",
+        "contactMethod": "all"
+      },
+      "hasLift": false,
+      "priceDropPercentage": 11,
+      "priceByArea": 11,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": false,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Ericeira, Mafra",
+        "title": "Apartamento na Rua Alves Crespo, 1 A"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32138034",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/61/1f/f8/190897916.jpg",
+      "numPhotos": 12,
+      "floor": "st",
+      "price": 850,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 92,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Rua Sebastião da Gama, 10",
+      "province": "Lisboa",
+      "municipality": "Mina de Água",
+      "district": "Casal de São Brás - Vila Chã",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-15-016-16-03",
+      "latitude": 38.7659998,
+      "longitude": -9.2322672,
+      "showAddress": true,
+      "url": "https://www.idealista.pt/imovel/32138034/",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/61/1f/f8/190897916.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/48/54/9b/188797148.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/96/7c/6c/190897909.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2a/6e/d6/190897858.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d8/a0/01/190897842.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/79/8f/5e/190897910.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/5f/91/35/190897844.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8a/a8/1c/190897859.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/31/0c/6f/190897843.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/25/1c/45/190897937.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c0/74/fe/190897919.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/5c/36/3f/188797162.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "contactName": "Filipese",
+        "userType": "private",
+        "contactMethod": "email"
+      },
+      "hasLift": false,
+      "priceByArea": 9,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": false,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Mina de Água, Amadora",
+        "title": "Apartamento na Rua Sebastião da Gama, 10"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "31591654",
+      "numPhotos": 0,
+      "floor": "9",
+      "price": 850,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 150,
+      "exterior": false,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Rua Domingos da Cunha, 8",
+      "province": "Lisboa",
+      "municipality": "Algueirão - Mem Martins",
+      "district": "Mem Martins Poente",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-11-002-02-08",
+      "latitude": 38.7926908,
+      "longitude": -9.3496064,
+      "showAddress": true,
+      "url": "https://www.idealista.pt/imovel/31591654/",
+      "description": "Arrendo apartamento T3 com cozinha totalmente equipada.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "contactInfo": {
+        "phone1": {
+          "phoneNumber": "912422481",
+          "formattedPhone": "912 42 24 81",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351912422481",
+          "nationalNumber": true
+        },
+        "contactName": "Manuela",
+        "userType": "private",
+        "contactMethod": "all"
+      },
+      "hasLift": true,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceByArea": 6,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": false,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Algueirão - Mem Martins, Sintra",
+        "title": "Apartamento na Rua Domingos da Cunha, 8"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32236029",
+      "numPhotos": 0,
+      "price": 860,
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 120,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Rua 21 de Agosto, 135",
+      "province": "Lisboa",
+      "municipality": "Vimeiro",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-08-008-08",
+      "latitude": 39.1850751,
+      "longitude": -9.3097848,
+      "showAddress": true,
+      "url": "https://www.idealista.pt/imovel/32236029/",
+      "description": "Andar de Moradia T2 ao nível do rés-do-chão, parcialmente remodelado. Na localidade de Vimeiro, em zona calma, entre Torres Vedras e Lourinhã. Supermercados, cafés, restaurantes e paragens de autocarro nas proximidades. A menos de 5km das praias do Oeste. A 15 minutos da entrada da Autoestrada para Lisboa/Leiria. A cerca de 30 minutos da entrada de Lisboa. Tem 2 quartos com piso flutuante, 1 wc, 1 hall de entrada, 1 sala de estar com cozinha, e espaço exterior com pátio/jardim. Janelas PVC oscilobatentes com vidro duplo. Casa não mobilada. Cozinha não equipada. Disponível para visitas/arrendamento no final do mês de Novembro. Condições e Documentação obrigatória: - permitido 1 agregado familiar com máximo de 2 adultos e 2 crianças, ou 2 casais que pretendam partilhar a casa; - 2 meses de caução - 1 mês de renda adiantada - 1 mês de renda do corrente mês - Contrato de trabalho - Recibos de vencimento dos últimos 3 meses - IRS 2021 - 1 fiador com a mesma documentação Se lhe interessa este arrendamento, pode enviar mensagem no chat para combinar o envio da documentação. Dispenso o contacto de agências imobiliárias.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "contactInfo": {
+        "contactName": "Sílvia M.",
+        "userType": "private",
+        "contactMethod": "email"
+      },
+      "priceByArea": 7,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": true,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": true
+      },
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "andarMoradia"
+      },
+      "suggestedTexts": {
+        "subtitle": "Vimeiro, Lourinhã",
+        "title": "Andar de moradia na Rua 21 de Agosto, 135"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32352744",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/4d/26/4a/201481485.jpg",
+      "numPhotos": 10,
+      "floor": "bj",
+      "price": 890,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 100,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Rua 8 de Setembro, 25",
+      "province": "Lisboa",
+      "municipality": "Arranhó",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-02-001-01",
+      "latitude": 38.9504847,
+      "longitude": -9.1275832,
+      "showAddress": true,
+      "url": "https://www.idealista.pt/imovel/32352744/",
+      "description": "Descrição:  >Habitação R/C, totalmente renovada e equipada;  >Despesa da água e TV por cabo e Internet incluída;  >Despesa do Gás (Forno e Placa) e luz (termoacumulador) excluídas;  >1 Quarto de Casal, 1 Quarto de Solteiro/Escritório, 1 WC, 1 Cozinha e 1 Sala;  >Estacionamento privado com portão eléctrico;  >Estacionamento com suporte para bicicletas;  >Não são permitidos animais de estimação;  >Ideal para quem gosta de sossego e natureza. Em caso de interesse/condições:  >Necessário apresentar o último IRS e recibo de salário;  >2 Meses de caução devolvidos no ultimo dia de renda após verificação ao interior da mesma;.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "priceDropValue": 60,
+      "dropDate": 1671575908000,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/4d/26/4a/201481485.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/7c/13/94/201481484.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/53/2e/08/201481472.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/5a/26/26/201481495.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/4e/d3/00/201481496.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/23/24/af/201481497.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/51/58/3b/201481471.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d6/e3/83/201481464.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/de/db/ef/201481434.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/34/f1/88/201481486.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "phone1": {
+          "phoneNumber": "917212647",
+          "formattedPhone": "917 21 26 47",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351917212647",
+          "nationalNumber": true
+        },
+        "contactName": "Gonçalo Além",
+        "userType": "private",
+        "contactMethod": "all"
+      },
+      "hasLift": false,
+      "parkingSpace": {
+        "hasParkingSpace": true,
+        "isParkingSpaceIncludedInPrice": true
+      },
+      "priceDropPercentage": 6,
+      "priceByArea": 9,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": true,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": true
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Arranhó, Arruda dos Vinhos",
+        "title": "Apartamento na Rua 8 de Setembro, 25"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "31549414",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ba/22/c2/158548976.jpg",
+      "numPhotos": 19,
+      "floor": "2",
+      "price": 900,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 80,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Avenida do Brasil, 41",
+      "province": "Lisboa",
+      "municipality": "Alvalade",
+      "district": "Campo Grande",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-06-054-54-01",
+      "latitude": 38.7557491,
+      "longitude": -9.149382,
+      "showAddress": true,
+      "url": "https://www.idealista.pt/imovel/31549414/",
+      "description": "Apartamento t2 em zona central, prédio bem conservado, com ótima exposição solar e totalmente mobilado. A poucos metros (a pé) do Jardim do Campo Grande e do bairro de Alvalade, com proximidade de estabelecimentos de ensino (universidades), comércio e serviços. Não se aceitam animais 2 bedroom apartment in a very central area. Well preserved building totally furnished. A few meters from the Campo Grande garden and the Alvalade quarter. Close to universities, commerce and services. No animals accepted.",
+      "hasVideo": false,
+      "status": "good",
+      "firstActivationDate": 1672168074000,
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ba/22/c2/158548976.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d9/7d/45/158548929.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/91/a8/02/158548874.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/c8/65/e9/158548936.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b9/c7/cf/158548927.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/0c/51/35/158548939.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/9f/4f/db/158548930.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/bf/83/82/158548937.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/dd/64/d8/158548928.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/65/f5/c9/158548922.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/76/23/f7/158548870.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a4/b5/d0/158548924.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f2/3d/fd/158548910.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/89/26/05/158548871.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/4a/bb/20/158548894.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/75/c1/fc/158548926.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/bc/90/5e/158548873.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/10/b3/c6/158548875.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/6b/1b/91/158548931.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "phone1": {
+          "phoneNumber": "917573136",
+          "formattedPhone": "917 57 31 36",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351917573136",
+          "nationalNumber": true
+        },
+        "contactName": "Fernanda Martins",
+        "userType": "private",
+        "contactMethod": "all"
+      },
+      "hasLift": false,
+      "priceByArea": 11,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": false,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alvalade, Lisboa",
+        "title": "Apartamento na Avenida do Brasil, 41"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32364855",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/3f/a6/41/201739839.jpg",
+      "numPhotos": 11,
+      "floor": "4",
+      "price": 900,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 95,
+      "exterior": false,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Quinta do Galvão, 2",
+      "province": "Lisboa",
+      "municipality": "Alverca do Ribatejo e Sobralinho",
+      "district": "Alverca",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-14-013-13-03",
+      "latitude": 38.8999565,
+      "longitude": -9.0372272,
+      "showAddress": true,
+      "url": "https://www.idealista.pt/imovel/32364855/",
+      "description": "Estamos na fase de recolher de elementos dos interessados para o Aluguer de um Apartamento remodelado T3(2 quartos e 1 closet) em Alverca 4o andar com elevador. Elementos a serem enviados: - Informação do Fiador - Apresentação dos comprovativos dos últimos 3 recibos de vencimento - Declaração de IRS  - Declaração de efetividade laboral Email para envio: imoveisfvvc @ Gmail. com O imóvel tem nas suas imediações Escolas, Supermercados, a autoestrada A1, A9, A10 e a estação da CP. Próximo de todo o comércio local e serviços. O imóvel é remodelado e conta com: - Sala - 2 casas de banho - cozinha equipada. - 2 quartos - 1 closet (ocupa o 3o quarto) - varandas Condições do proprietário: - 1 renda de caução - 2 rendas de entrada As mobílias não estão incluídas.",
+      "hasVideo": false,
+      "status": "good",
+      "firstActivationDate": 1672049054000,
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/3f/a6/41/201739839.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/4d/5f/0d/201739791.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/dd/d4/18/201739792.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e8/20/66/201739840.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d4/6e/e6/201739841.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d7/72/a1/201739842.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/5c/0d/eb/201739844.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/6d/96/07/201739865.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/98/38/7e/201739986.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/09/60/14/201740042.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/fc/21/cf/201740043.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "contactName": "flavio",
+        "userType": "private",
+        "contactMethod": "email"
+      },
+      "hasLift": true,
+      "priceByArea": 9,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": false,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Alverca do Ribatejo e Sobralinho, Vila Franca de Xira",
+        "title": "Apartamento em Quinta do Galvão, 2"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32349856",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2e/f4/47/200956864.jpg",
+      "externalReference": "120261243-277",
+      "numPhotos": 14,
+      "price": 900,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 83,
+      "exterior": false,
+      "rooms": 1,
+      "bathrooms": 1,
+      "address": "Rua Lucília Simões s/n",
+      "province": "Lisboa",
+      "municipality": "Benfica",
+      "district": "Pedralvas",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-06-008-08-01",
+      "latitude": 38.7531264,
+      "longitude": -9.206449,
+      "showAddress": true,
+      "url": "https://www.idealista.pt/imovel/32349856/",
+      "description": "Apartamento T1 com terraço, em prédio recente. Muito bem localizado, próximo da Igreja de Benfica e das movimentadas ruas de Benfica. Com um fantástico terraço virado a Sul/Poente.   Equipado com:  - Caldeira de aquecimento;  - Placa a gás;  - Forno eléctrico;  - Exaustor eléctrico;  - Frigorífico;   Contacte-me (o proprietário reserva-se o direito de não aceitar arrendatários com cães) Nº Licença de Utilização 1120 / Ano: 2001   nota: imóvel disponível para visitas. No entanto, o imóvel só estará disponível para início de contrato em Fevereiro de 2023.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2e/f4/47/200956864.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/b3/e7/db/200956875.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/96/79/5f/200956876.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/3e/e4/3b/200956877.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/5c/1c/83/200956878.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/bb/c3/fe/200956879.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/66/eb/36/200956880.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/64/89/90/200956881.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/21/f0/c4/200956882.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/7d/fa/61/200956883.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/24/b2/bc/200956884.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/0d/b1/e7/200956885.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a2/3c/6f/200956886.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/8c/a7/37/200956887.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "commercialName": "RE/MAX Vantagem Avenida",
+        "phone1": {
+          "phoneNumber": "218744986",
+          "formattedPhone": "218 74 49 86",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351218744986",
+          "nationalNumber": true
+        },
+        "contactName": "Paulo",
+        "userType": "professional",
+        "agencyLogo": "https://st3.idealista.pt/81/22/b3/vantagem-avenida.gif",
+        "contactMethod": "all",
+        "micrositeShortName": "vantagem-avenida"
+      },
+      "priceByArea": 11,
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Benfica, Lisboa",
+        "title": "Apartamento na Rua Lucília Simões s/n"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32366455",
+      "numPhotos": 0,
+      "floor": "1",
+      "price": 900,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 90,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Rua Cidade de Lisboa, 41",
+      "province": "Lisboa",
+      "municipality": "Camarate - Unhos - Apelação",
+      "district": "Camarate",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-07-031-31-03",
+      "latitude": 38.7915011,
+      "longitude": -9.1404605,
+      "showAddress": true,
+      "url": "https://www.idealista.pt/imovel/32366455/",
+      "hasVideo": false,
+      "status": "good",
+      "firstActivationDate": 1672156883000,
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "contactInfo": {
+        "phone1": {
+          "phoneNumber": "914704525",
+          "formattedPhone": "914 70 45 25",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351914704525",
+          "nationalNumber": true
+        },
+        "contactName": "Salvador",
+        "userType": "private",
+        "contactMethod": "phone"
+      },
+      "hasLift": false,
+      "priceByArea": 10,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": true,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Camarate - Unhos - Apelação, Loures",
+        "title": "Apartamento na Rua Cidade de Lisboa, 41"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32360933",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ec/90/42/201530120.jpg",
+      "numPhotos": 6,
+      "floor": "2",
+      "price": 900,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 120,
+      "exterior": false,
+      "rooms": 3,
+      "bathrooms": 1,
+      "address": "Av. Eng. Adelino Amaro da Costa",
+      "province": "Lisboa",
+      "municipality": "Cascais e Estoril",
+      "district": "Cascais",
+      "country": "pt",
+      "neighborhood": "Assunção",
+      "locationId": "0-EU-PT-11-05-008-08-02-007",
+      "latitude": 38.7052046,
+      "longitude": -9.4302407,
+      "showAddress": false,
+      "url": "https://www.idealista.pt/imovel/32360933/",
+      "description": "Excelente apartamento T3 localizado em Cascais. Constituído por três quarto, uma sala, cozinha com placa elétrica e opção para colocação de esquentador ou termoacumulador e uma casa de banho.  As divisões são bastante amplas, muito bem localizado, próximo do comércio e serviços. O apartamento encontra-se neste momento em remodelação. O prédio não dispõe de elevadores. Não são permitidos animais de estimação.",
+      "hasVideo": false,
+      "status": "good",
+      "firstActivationDate": 1671641108000,
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ec/90/42/201530120.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/0b/49/03/201530124.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/33/36/9e/201530118.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/77/6c/da/201530133.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/bc/71/d8/201530034.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/6d/76/b5/201530123.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "commercialName": "IMPROVEST CONSULTING",
+        "phone1": {
+          "phoneNumber": "218763310",
+          "formattedPhone": "218 76 33 10",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351218763310",
+          "nationalNumber": true
+        },
+        "contactName": "IMPROVEST CONSULTING",
+        "userType": "professional",
+        "contactMethod": "all",
+        "micrositeShortName": "improvest-real-estate"
+      },
+      "hasLift": false,
+      "priceByArea": 8,
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Assunção, Cascais",
+        "title": "Apartamento em Av. Eng. Adelino Amaro da Costa"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32345771",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f9/ff/15/201832346.jpg",
+      "numPhotos": 4,
+      "price": 900,
+      "propertyType": "chalet",
+      "operation": "rent",
+      "size": 200,
+      "exterior": false,
+      "rooms": 4,
+      "bathrooms": 2,
+      "address": "Rua das Flores, 3",
+      "province": "Lisboa",
+      "municipality": "Cadaval e Pêro Moniz",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-04-011-11",
+      "latitude": 39.2401443,
+      "longitude": -9.1192617,
+      "showAddress": true,
+      "url": "https://www.idealista.pt/imovel/32345771/",
+      "description": "Imóvel para arrendamento para trabalho temporário. Despesas de água, luz, internet, e limpeza semanal incluídas. 900€/mês.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f9/ff/15/201832346.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/0f/bf/58/200764787.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f9/5e/4e/201832336.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/25/7e/f2/201832337.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "phone1": {
+          "phoneNumber": "918198150",
+          "formattedPhone": "918 19 81 50",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351918198150",
+          "nationalNumber": true
+        },
+        "contactName": "Patricia Pereira",
+        "userType": "private",
+        "contactMethod": "all"
+      },
+      "priceByArea": 5,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": true,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "chalet",
+        "subTypology": "independantHouse"
+      },
+      "suggestedTexts": {
+        "subtitle": "Cadaval e Pêro Moniz, Cadaval",
+        "title": "Moradia independente na Rua das Flores, 3"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32322702",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/74/eb/f6/199730805.jpg",
+      "numPhotos": 15,
+      "floor": "2",
+      "price": 900,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 93,
+      "exterior": false,
+      "rooms": 3,
+      "bathrooms": 2,
+      "address": "Rua Júlia Van Zeller Pereira Palha, 1",
+      "province": "Lisboa",
+      "municipality": "Vila Franca de Xira",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-14-009-09",
+      "latitude": 38.9705711,
+      "longitude": -8.9861313,
+      "showAddress": true,
+      "url": "https://www.idealista.pt/imovel/32322702/",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/74/eb/f6/199730805.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ed/90/6a/199730796.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/31/75/6e/199730806.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/bb/af/94/199730748.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/41/5a/91/199730797.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/75/0d/07/199730749.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/18/5c/79/199730793.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/37/5e/e3/199730801.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/10/eb/48/199730800.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/0d/32/d1/199730794.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a0/26/09/199730802.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/09/8a/77/199730751.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/2b/b8/fd/199730815.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/02/7c/a9/199730803.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/7a/f5/e1/199730810.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "phone1": {
+          "phoneNumber": "963255738",
+          "formattedPhone": "963 25 57 38",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351963255738",
+          "nationalNumber": true
+        },
+        "contactName": "Roselma Quinta",
+        "userType": "private",
+        "contactMethod": "phone"
+      },
+      "hasLift": false,
+      "priceByArea": 10,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": false,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Vila Franca de Xira",
+        "title": "Apartamento na Rua Júlia Van Zeller Pereira Palha, 1"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32043882",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a7/f3/7f/183848584.jpg",
+      "externalReference": "ZTRE-03951",
+      "numPhotos": 9,
+      "price": 950,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 100,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Rua Herculano de Carvalho",
+      "province": "Lisboa",
+      "municipality": "Encosta do Sol",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-15-014-14",
+      "latitude": 38.7682796,
+      "longitude": -9.215308,
+      "showAddress": false,
+      "url": "https://www.idealista.pt/imovel/32043882/",
+      "description": "Apartamento T2 com uma área total de 100 m2, situado na Encosta do Sol no concelho da Amadora no distrito de Lisboa. O imóvel está localizado próximo à zona de comércio, serviços e escolas. Apartamento situado no 5 andar. O imóvel é composto por hall de entrada, sala comum, 1 quartos, 1 instalação sanitária, cozinha e garagem na cave. Condições de Arrendamento: 2 rendas + 1 de caução. Para mais informações, contacte-nos. Referência interna ZTRE-03951; visita também disponível por videochamada.",
+      "hasVideo": false,
+      "status": "renew",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a7/f3/7f/183848584.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ca/cb/fd/183848585.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/04/f1/31/183848586.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/36/13/39/183848587.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/15/ff/c3/183848588.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/54/53/65/183848589.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a0/7b/43/183848590.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ab/80/f3/183848591.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d0/66/67/183848592.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "commercialName": "Portal Now",
+        "phone1": {
+          "phoneNumber": "218708743",
+          "formattedPhone": "218 70 87 43",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351218708743",
+          "nationalNumber": true
+        },
+        "contactName": "Hipoges Iberia",
+        "userType": "professional",
+        "agencyLogo": "https://st3.idealista.pt/9a/0b/d9/portal-now.gif",
+        "contactMethod": "all",
+        "micrositeShortName": "portal-now"
+      },
+      "hasLift": false,
+      "priceByArea": 10,
+      "features": {
+        "hasSwimmingPool": false,
+        "hasTerrace": false,
+        "hasAirConditioning": false,
+        "hasBoxRoom": false,
+        "hasGarden": false
+      },
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Encosta do Sol, Amadora",
+        "title": "Apartamento na Rua Herculano de Carvalho"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    },
+    {
+      "propertyCode": "32048839",
+      "thumbnail": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ba/e1/7f/200655770.jpg",
+      "externalReference": "ZTRE-03951",
+      "numPhotos": 18,
+      "price": 950,
+      "propertyType": "flat",
+      "operation": "rent",
+      "size": 100,
+      "exterior": false,
+      "rooms": 2,
+      "bathrooms": 1,
+      "address": "Encosta do Sol",
+      "province": "Lisboa",
+      "municipality": "Encosta do Sol",
+      "country": "pt",
+      "locationId": "0-EU-PT-11-15-014-14",
+      "latitude": 38.7655177,
+      "longitude": -9.2138849,
+      "showAddress": false,
+      "url": "https://www.idealista.pt/imovel/32048839/",
+      "description": "Apartamento T2 usado com uma área bruta total de 100 m2, do ano 1997, situado na Encosta do Sol no concelho da Amadora no distrito de Lisboa Apartamento situado no 5 andar c/elevador O imóvel é composto por hall de entrada, sala comum, 2 quartos, 1 instalação sanitária, cozinha, despensa e 2 varandas. Cozinha equipada com fogão/forno, frigorífico, esquentador e máquina de lavar roupa. O imóvel está localizado próximo à zona de comércio, serviços e escolas Condições de Arrendamento: 2 rendas + 1 de caução.",
+      "hasVideo": false,
+      "status": "good",
+      "newDevelopment": false,
+      "favourite": false,
+      "newProperty": false,
+      "multimedia": {
+        "images": [
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ba/e1/7f/200655770.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/29/78/47/200655772.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f9/6a/33/200655773.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/95/da/06/200655791.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e8/9e/b8/200655792.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/53/ff/e9/200655799.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/ee/16/17/200655800.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e7/a4/41/200655801.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/d0/1a/75/200655803.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/0e/a6/3d/200655815.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/68/77/db/200655809.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/04/aa/68/200655811.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/9d/73/89/200655813.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/57/27/5c/200655820.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/19/e5/69/200655825.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/e2/4a/2b/200655828.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/a3/ac/9d/200655824.jpg"
+          },
+          {
+            "url": "https://img3.idealista.pt/blur/WEB_LISTING-M/0/id.pro.pt.image.master/f6/56/97/200655836.jpg"
+          }
+        ]
+      },
+      "contactInfo": {
+        "commercialName": "Valor de Mercado",
+        "phone1": {
+          "phoneNumber": "218740382",
+          "formattedPhone": "218 74 03 82",
+          "prefix": "351",
+          "phoneNumberForMobileDialing": "+351218740382",
+          "nationalNumber": true
+        },
+        "contactName": "Valor de Mercado - Sociedade de Mediação Imobiliária, Lda",
+        "userType": "professional",
+        "agencyLogo": "https://st3.idealista.pt/cd/1b/57/valor-de-mercado.gif",
+        "contactMethod": "all",
+        "micrositeShortName": "valor-de-mercado"
+      },
+      "hasLift": true,
+      "priceByArea": 10,
+      "detailedType": {
+        "typology": "flat"
+      },
+      "suggestedTexts": {
+        "subtitle": "Encosta do Sol, Amadora",
+        "title": "Apartamento"
+      },
+      "hasPlan": false,
+      "has3DTour": false,
+      "has360": false,
+      "hasStaging": false,
+      "topNewDevelopment": false,
+      "preferenceHighlight": false,
+      "urgentVisualHighlight": false,
+      "visualHighlight": false,
+      "topHighlight": false,
+      "superTopHighlight": false
+    }
+  ],
+  "total": 541,
+  "totalPages": 14,
+  "actualPage": 1,
+  "itemsPerPage": 40,
+  "numPaginations": 0,
+  "summary": [
+    "Arrendar",
+    "Casas",
+    "Lisboa distrito",
+    "Até 2.000 eur",
+    "80 m² ou mais"
+  ],
+  "filter": {
+    "locationName": "Lisboa distrito"
+  },
+  "alertName": "Casas em Lisboa distrito",
+  "upperRangePosition": 40,
+  "lowerRangePosition": 0,
+  "paginable": true
+}
